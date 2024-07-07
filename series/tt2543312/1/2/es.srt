@@ -1,2907 +1,2782 @@
 1
-00:00:01,089 --> 00:00:04,781
-<i>Anteriormente en
-Halt & Catch Fire...</i>
+00:00:13,180 --> 00:00:15,438
+Â¿CuÃ¡ndo fue Joe MacMillan
+a usted con la idea
 
 2
-00:00:04,782 --> 00:00:07,103
-¿Esto qué es? ¿Una especie
-de entrevista de trabajo?
-
-3
-00:00:07,104 --> 00:00:08,875
-Quizá, depende de ti.
-
-4
-00:00:09,059 --> 00:00:11,962
-Veo a Cardiff Electric
-preparada para dar el salto.
-
-5
-00:00:11,963 --> 00:00:13,641
-Respondes ante mí.
-
-6
-00:00:13,642 --> 00:00:15,621
-Haz la ingeniería inversa
-de un PC IBM conmigo.
-
-7
-00:00:15,622 --> 00:00:18,301
-Hacer una máquina que nadie
-tiene las pelotas para hacer.
-
-8
-00:00:18,302 --> 00:00:20,674
-¿Así que salimos de esta fabricando
-realmente un clon de PC?
-
-9
-00:00:20,675 --> 00:00:22,466
-¡Esto es lo que quiero
-hacer con mi vida!
-
-10
-00:00:22,467 --> 00:00:24,819
-¡Sí! ¡Pero no te das cuenta
-de lo que estás arriesgando!
-
-11
-00:00:24,820 --> 00:00:27,317
-El equipo legal de IBM va
-a liquidar esta compañía.
-
-12
-00:00:27,318 --> 00:00:29,452
-¿Cómo demonios se ha
-enterado IBM de esto?
-
-13
-00:00:29,453 --> 00:00:30,569
-Yo se lo dije.
-
-14
-00:00:36,263 --> 00:00:38,614
-¿Cuándo fue Joe MacMillan
-a usted con la idea...
-
-15
-00:00:38,615 --> 00:00:41,422
-para hacerle la ingeniería
+00:00:15,439 --> 00:00:18,095
+para hacerle la ingenierÃ­a
 inversa al IBM PC?
 
-16
-00:00:41,423 --> 00:00:44,555
-Es, de hecho, incorrecto.
+3
+00:00:18,247 --> 00:00:21,379
+Eso es, de hecho, incorrecto.
 
-17
-00:00:44,556 --> 00:00:47,660
-John Bosworth y Nathan Cardiff
-se acercaron a mí...
+4
+00:00:21,380 --> 00:00:24,484
+John Bosworth y Nathan
+Cardiff se acercaron a mÃ­
 
-18
-00:00:47,661 --> 00:00:51,773
+5
+00:00:24,485 --> 00:00:28,297
 para hablarme de un programa de PC
-el cuatro de abril de este año.
+el cuatro de abril de este aÃ±o.
 
-19
-00:00:52,166 --> 00:00:54,181
+6
+00:00:28,990 --> 00:00:31,094
 A ver si lo entiendo.
-Usted fue contratada...
 
-20
-00:00:54,182 --> 00:00:56,837
-para escribir un duplicado
-del código de nuestra BIOS,
+7
+00:00:31,095 --> 00:00:33,661
+Usted fue contratada para escribir un
+duplicado del cÃ³digo de nuestra BIOS,
 
-21
-00:00:56,838 --> 00:00:58,744
-pero no mirará el código
-de nuestra BIOS.
+8
+00:00:33,662 --> 00:00:35,568
+pero no mirarÃ¡ el
+cÃ³digo de nuestra BIOS.
 
-22
-00:00:58,745 --> 00:01:00,091
+9
+00:00:35,569 --> 00:00:36,915
 Pareces una buena chica.
 
-23
-00:01:00,092 --> 00:01:02,078
-No estamos aquí por ti,
-así que ¿por qué no...?
+10
+00:00:36,916 --> 00:00:38,502
+No estamos aquÃ­ por ti,
+asÃ­ que Â¿por quÃ© no...?
 
-24
-00:01:02,079 --> 00:01:03,782
+11
+00:00:38,503 --> 00:00:40,606
 Miren, no necesito mirar su BIOS
 
-25
-00:01:03,783 --> 00:01:05,823
+12
+00:00:40,607 --> 00:00:42,647
 porque no estoy interesada
 en copiar basura.
 
-26
-00:01:05,824 --> 00:01:08,831
+13
+00:00:42,648 --> 00:00:45,755
 Claro, puede que decida que
-quiero pasar el resto de mi vida...
+quiero pasar el resto de mi vida
 
-27
-00:01:08,832 --> 00:01:11,097
-esperando a mover una instrucción
+14
+00:00:45,756 --> 00:00:47,921
+esperando a mover una instrucciÃ³n
 sin un bus de 16 bits,
 
-28
-00:01:11,098 --> 00:01:13,330
+15
+00:00:47,922 --> 00:00:50,154
 pero aparte de eso, no estoy
 interesada en esa carpeta.
 
-29
-00:01:13,331 --> 00:01:15,571
-- ¿Y por qué usted?
-- ¿Perdone?
+16
+00:00:50,155 --> 00:00:52,395
+- Â¿Y por quÃ© usted?
+- Â¿Perdone?
 
-30
-00:01:15,572 --> 00:01:17,437
-¿Por qué usted?
+17
+00:00:52,396 --> 00:00:53,965
+Â¿Por quÃ© usted?
 
-31
-00:01:17,438 --> 00:01:19,942
+18
+00:00:54,262 --> 00:00:56,766
 Usted es ingeniero de software.
 
-32
-00:01:19,943 --> 00:01:21,815
+19
+00:00:56,767 --> 00:00:58,639
 Desde luego no construye nada.
 
-33
-00:01:21,816 --> 00:01:23,755
-El Sr. Clark no tiene
-que teorizar el motivo...
+20
+00:00:58,640 --> 00:01:00,579
+El Sr. Clark no tiene que
+teorizar el motivo...
 
-34
-00:01:23,756 --> 00:01:27,726
-Tengo más experiencia en
-microcomputación que cualquiera aquí.
+21
+00:01:00,580 --> 00:01:04,550
+Tengo mÃ¡s experiencia en microcomputaciÃ³n
+que cualquiera aquÃ­.
 
-35
-00:01:27,727 --> 00:01:28,971
-Para que me quede claro,
+22
+00:01:04,551 --> 00:01:08,489
+Para que me quede claro, Â¿dice usted
+que sus antiguos fracasos en este Ã¡rea
 
-36
-00:01:28,972 --> 00:01:31,665
-¿dice usted que sus antiguos
-fracasos en este área...
-
-37
-00:01:31,666 --> 00:01:35,941
+23
+00:01:08,490 --> 00:01:12,495
 de alguna forma le cualificaron para
 encabezar el programa PC de Cardiff?
 
-38
-00:01:35,942 --> 00:01:38,846
-¿Durante cuánto tiempo
-crees que la tendrán?
+24
+00:01:12,766 --> 00:01:15,670
+Â¿Durante cuÃ¡nto tiempo
+crees que la tendrÃ¡n?
 
-39
-00:01:38,847 --> 00:01:42,385
-- ¿Cuatro o cinco semanas?
+25
+00:01:15,671 --> 00:01:19,209
+- Â¿Cuatro o cinco semanas?
 - Lo que se tarde en terminar la BIOS.
 
-40
-00:01:42,386 --> 00:01:45,655
-Para serle sinceros,
-si decide abrir esta carpeta,
+26
+00:01:19,210 --> 00:01:22,479
+Para serle sinceros, si
+decide abrir esta carpeta,
 
-41
-00:01:45,656 --> 00:01:48,387
-será la primera en ir a la cárcel.
+27
+00:01:22,480 --> 00:01:24,911
+serÃ¡ la primera en ir a la cÃ¡rcel.
 
-42
-00:01:53,993 --> 00:01:55,925
+28
+00:01:30,817 --> 00:01:32,849
 Te toca ahora.
 
-43
-00:01:55,926 --> 00:01:57,727
+29
+00:01:32,850 --> 00:01:34,951
 Esto no va a salir bien,
 no va a salir bien.
 
-44
-00:01:57,728 --> 00:01:59,430
-Simplemente entra y
-ajústate al guión.
+30
+00:01:34,952 --> 00:01:36,254
+Simplemente entra y ajÃºstate al guiÃ³n.
 
-45
-00:01:59,431 --> 00:02:00,764
-¿Te crees que esto es fácil?
+31
+00:01:36,255 --> 00:01:37,888
+Â¿Te crees que esto es fÃ¡cil?
 
-46
-00:02:00,765 --> 00:02:03,432
-Parlotear mentiras descaradas,
-irme a casa, dormir como un campeón.
+32
+00:01:37,889 --> 00:01:39,355
+Parlotear un par de mentiras descaradas,
 
-47
-00:02:03,433 --> 00:02:04,901
+33
+00:01:39,356 --> 00:01:40,556
+irme a casa, dormir como un campeÃ³n.
+
+34
+00:01:40,557 --> 00:01:41,725
 Te queda mucho por aprender, hijo.
 
-48
-00:02:04,902 --> 00:02:06,304
-¿Crees que IBM nunca ha mentido?
+35
+00:01:41,726 --> 00:01:43,128
+Â¿Crees que IBM nunca ha mentido?
 
-49
-00:02:06,305 --> 00:02:08,104
-Ni lo sé, ni me importa.
+36
+00:01:43,129 --> 00:01:45,028
+Ni lo sÃ©, ni me importa.
 
-50
-00:02:08,105 --> 00:02:10,728
-Necesito que entiendas que lo que
-hice lo hice porque estaba bien,
+37
+00:01:45,029 --> 00:01:46,229
+Mira, necesito que entiendas
 
-51
-00:02:10,729 --> 00:02:12,709
-no sólo para mí, sino para ti,
-para todo el mundo.
+38
+00:01:46,230 --> 00:01:47,897
+que lo que hice lo hice
+porque estaba bien,
 
-52
-00:02:12,710 --> 00:02:15,047
-Si hubiese venido hace una semana
-y preguntado amablemente,
+39
+00:01:47,898 --> 00:01:49,533
+no solo para mÃ­, sino para
+ti, para todo el mundo.
 
-53
-00:02:15,048 --> 00:02:16,614
-me hubieras echado
-de la habitación.
+40
+00:01:49,534 --> 00:01:51,371
+Si hubiese venido por aquÃ­ hace una
+semana y hubiese preguntado amablemente,
 
-54
-00:02:16,615 --> 00:02:18,747
+41
+00:01:51,372 --> 00:01:52,938
+me hubieras echado a
+carcajadas de la habitaciÃ³n.
+
+42
+00:01:52,939 --> 00:01:55,571
 Te hubiera pateado el culo,
-es lo que habría hecho.
+eso es lo que habrÃ­a hecho.
 
-55
-00:02:18,748 --> 00:02:21,349
-Y puede que aún lo haga.
+43
+00:01:55,572 --> 00:01:57,873
+Y puede que aÃºn lo haga.
 
-56
-00:02:33,066 --> 00:02:35,400
+44
+00:02:09,890 --> 00:02:12,224
 Dale, sin abogados.
 
-57
-00:02:35,401 --> 00:02:36,936
-¿Por qué?
+45
+00:02:12,225 --> 00:02:13,760
+Â¿Por quÃ©?
 
-58
-00:02:36,937 --> 00:02:38,706
-Ya sé lo que vas a decir.
+46
+00:02:13,761 --> 00:02:15,530
+Ya sÃ© lo que vas a decir.
 
-59
-00:02:38,707 --> 00:02:40,543
+47
+00:02:15,531 --> 00:02:17,367
 Has entrenado bien a tu equipo.
 
-60
-00:02:40,544 --> 00:02:42,680
-Lo único que hicimos
-es movernos en los límites.
+48
+00:02:17,368 --> 00:02:19,504
+Lo Ãºnico que hemos hecho
+es movernos en los lÃ­mites.
 
-61
-00:02:42,681 --> 00:02:46,448
-Dile a los chicos de Boca Ratón
+49
+00:02:19,505 --> 00:02:21,771
+Dile a los chicos de Boca RatÃ³n
+
+50
+00:02:21,772 --> 00:02:23,272
 que han escrito una bonita BIOS.
 
-62
-00:02:46,449 --> 00:02:47,950
-Será difícil de superar.
+51
+00:02:23,273 --> 00:02:24,874
+SerÃ¡ difÃ­cil de superar.
 
-63
-00:02:47,951 --> 00:02:50,822
+52
+00:02:24,875 --> 00:02:27,646
 Pero puedes estar seguro, la nuestra
 no contiene material con copyright.
 
-64
-00:02:50,823 --> 00:02:53,625
-Cameron Howe estará incomunicada
+53
+00:02:27,647 --> 00:02:30,449
+Cameron Howe estarÃ¡ incomunicada
 en un entorno aislado,
 
-65
-00:02:53,626 --> 00:02:55,762
-no tendrá ningún tipo de
-contacto con Gordon Clark...
+54
+00:02:30,450 --> 00:02:32,486
+no tendrÃ¡ ningÃºn tipo de
+contacto con Gordon Clark
 
-66
-00:02:55,763 --> 00:02:57,565
-ni su trabajo de ingeniería inversa.
+55
+00:02:32,487 --> 00:02:34,389
+ni su trabajo de ingenierÃ­a inversa.
 
-67
-00:02:57,566 --> 00:03:00,334
-Cualquier similitud en el código
-será pura coincidencia,
+56
+00:02:34,390 --> 00:02:37,158
+Cualquier similitud en el cÃ³digo
+serÃ¡ pura coincidencia,
 
-68
-00:03:00,335 --> 00:03:02,070
+57
+00:02:37,159 --> 00:02:38,894
 como con Columbia Data.
 
-69
-00:03:02,071 --> 00:03:04,303
+58
+00:02:38,895 --> 00:02:41,127
 Como con Compaq.
 
-70
-00:03:04,304 --> 00:03:07,472
-Conoces el vacío legal
-tan bien como yo.
+59
+00:02:41,128 --> 00:02:43,996
+Conoces el vacÃ­o legal tan bien como yo.
 
-71
-00:03:08,474 --> 00:03:10,277
+60
+00:02:45,298 --> 00:02:47,301
 Honestamente, no me importa.
 
-72
-00:03:10,278 --> 00:03:13,282
-Me interesa más saber dónde mierda
-has estado el último año y medio.
+61
+00:02:47,302 --> 00:02:50,106
+Estoy mÃ¡s interesado en saber dÃ³nde
+coÃ±o has estado el Ãºltimo aÃ±o y medio.
 
-73
-00:03:13,283 --> 00:03:15,950
-Te fuiste sin decir ni adiós.
+62
+00:02:50,107 --> 00:02:52,474
+Te fuiste sin decir ni adiÃ³s.
 
-74
-00:03:16,519 --> 00:03:19,199
-¿Les has contado a tus nuevos
-amigos algo sobre aquel día?
+63
+00:02:53,343 --> 00:02:55,723
+Â¿Les has contado a tus nuevos
+amigos algo sobre aquel dÃ­a?
 
-75
-00:03:20,818 --> 00:03:23,123
+64
+00:02:57,642 --> 00:02:59,947
 Digamos que todos tus
-asuntos están en orden.
+asuntos estÃ¡n en orden.
 
-76
-00:03:23,124 --> 00:03:25,125
-Quizá te demandemos de todas formas.
+65
+00:02:59,948 --> 00:03:01,949
+QuizÃ¡s te demandemos de todas formas.
 
-77
-00:03:25,126 --> 00:03:29,893
+66
+00:03:01,950 --> 00:03:06,717
 Te enterraremos en papeleo
 y costes legales.
 
-78
-00:03:29,894 --> 00:03:31,495
-¿Ves a ese caballero ahí afuera?
+67
+00:03:06,718 --> 00:03:08,319
+Â¿Ves a ese caballero ahÃ­ afuera?
 
-79
-00:03:31,496 --> 00:03:34,165
-Ese es nuestro abogado interno,
-Barry Shields.
+68
+00:03:08,320 --> 00:03:10,989
+Ese es nuestro abogado
+interno, Barry Shields.
 
-80
-00:03:34,166 --> 00:03:37,200
+69
+00:03:10,990 --> 00:03:14,024
 Le cuesta a Cardiff Electric
-55000 dólares al año,
+55 000 dÃ³lares al aÃ±o,
 
-81
-00:03:37,201 --> 00:03:40,405
-y no importa cuántos cientos de
+70
+00:03:14,025 --> 00:03:17,229
+y no importa cuÃ¡ntos cientos de
 abogados te saques de la manga.
 
-82
-00:03:40,406 --> 00:03:42,173
+71
+00:03:17,230 --> 00:03:18,997
 Continuaremos con Barry.
 
-83
-00:03:42,174 --> 00:03:43,507
-Sólo con Barry.
+72
+00:03:18,998 --> 00:03:20,331
+Solo con Barry.
 
-84
-00:03:43,508 --> 00:03:47,077
+73
+00:03:20,332 --> 00:03:23,601
 Arruinaremos su vida.
 
-85
-00:03:48,648 --> 00:03:52,150
+74
+00:03:25,472 --> 00:03:28,974
 Y si esto alguna vez llega a
-los tribunales, perderán...
+los tribunales, van a perder...
 
-86
-00:03:52,151 --> 00:03:55,988
-porque al fin y al cabo,
-no tienen nada.
+75
+00:03:28,975 --> 00:03:32,512
+porque al fin y al cabo, no tienen nada.
 
-87
-00:03:57,124 --> 00:03:59,423
+76
+00:03:33,948 --> 00:03:35,947
 Que tengas un buen vuelo.
 
-88
-00:04:08,235 --> 00:04:11,339
+77
+00:03:45,059 --> 00:03:47,863
 - Entonces, estamos bien.
 - Estamos perfectos.
 
-89
-00:04:12,377 --> 00:04:16,313
-Entonces, ¿escribo el código
-de la BIOS y luego qué?
+78
+00:03:49,201 --> 00:03:53,137
+Entonces, Â¿escribo el cÃ³digo
+de la BIOS y luego quÃ©?
 
-90
-00:04:16,314 --> 00:04:19,550
-¿Qué vamos a construir exactamente?
+79
+00:03:53,138 --> 00:03:56,074
+Â¿QuÃ© vamos a construir exactamente?
 
-91
-00:04:29,707 --> 00:04:34,046
-Halt and Catch Fire S01E02
-"FUD"
+80
+00:04:41,879 --> 00:04:43,714
+Eso es fÃ­sicamente imposible.
 
+81
+00:04:43,760 --> 00:04:46,229
+Quiero decir, es literalmente
+un problema de fÃ­sica.
 
-92
-00:04:37,047 --> 00:04:41,385
-Un subtítulo de Subtítulos.es...
-
-93
-00:04:53,386 --> 00:04:58,364
-Correción de Clement para
-Www.Subadictos.Net...
-
-94
-00:05:01,246 --> 00:05:04,134
-El doble de rápido.
-La mitad del precio.
-
-95
-00:05:04,135 --> 00:05:05,970
-Es físicamente imposible.
-
-96
-00:05:05,971 --> 00:05:08,740
-Es literalmente
-un problema de física.
-
-97
-00:05:08,907 --> 00:05:11,809
-No lo entiendo. ¿De verdad eso
+82
+00:04:46,696 --> 00:04:49,598
+No lo entiendo. Â¿De verdad eso
 es todo lo que vamos a construir?
 
-98
-00:05:11,810 --> 00:05:14,645
-No lo entiendes. El mercado
+83
+00:04:49,599 --> 00:04:52,834
+Mira, no lo entiendes. El mercado
 se mueve por incrementos.
 
-99
-00:05:14,646 --> 00:05:16,762
-La próxima máquina que
-llegue a las estanterías...
+84
+00:04:52,835 --> 00:04:55,836
+La prÃ³xima mÃ¡quina que llegue a las
+estanterÃ­as serÃ¡ mÃ¡s rÃ¡pida o mÃ¡s barata.
 
-100
-00:05:16,763 --> 00:05:18,047
-será más rápida o más barata.
-
-101
-00:05:18,048 --> 00:05:19,713
+85
+00:04:55,837 --> 00:04:57,502
 No puede ser ambas, ya sabes.
 
-102
-00:05:19,714 --> 00:05:22,016
-Es imposible. Es...
+86
+00:04:57,503 --> 00:04:59,505
+Eso es imposible. Es...
 
-103
-00:05:23,553 --> 00:05:26,923
-¿De qué estás hablando,
+87
+00:05:01,342 --> 00:05:04,412
+Â¿De quÃ© estÃ¡s hablando,
 puro megahercio o...?
 
-104
-00:05:28,157 --> 00:05:30,860
-O quizá podamos...
+88
+00:05:05,946 --> 00:05:08,649
+O quizÃ¡s podamos...
 
-105
-00:05:30,861 --> 00:05:33,129
-podríamos subir el reloj...
+89
+00:05:08,650 --> 00:05:10,918
+podrÃ­amos subir el reloj
 
-106
-00:05:33,130 --> 00:05:34,963
+90
+00:05:10,919 --> 00:05:12,752
 o atacar al software.
 
-107
-00:05:34,964 --> 00:05:37,966
+91
+00:05:12,753 --> 00:05:15,755
 Joe, esto es interesante.
 Realmente interesante.
 
-108
-00:05:37,967 --> 00:05:40,604
-Espera, ¿qué? ¡Rebobina!
+92
+00:05:15,756 --> 00:05:18,393
+Espera, Â¿quÃ©? Â¡Rebobina!
 
-109
-00:05:40,605 --> 00:05:42,979
+93
+00:05:18,394 --> 00:05:20,768
 Esto no es nada. Es aburrido.
 
-110
-00:05:42,980 --> 00:05:45,348
-Esto es un cortacésped
-o un microondas.
+94
+00:05:20,769 --> 00:05:23,137
+Esto es un cortacÃ©sped o un microondas.
 
-111
-00:05:45,349 --> 00:05:47,483
-Déjame adivinar, eres una de
+95
+00:05:23,138 --> 00:05:25,200
+DÃ©jame adivinar, tÃº eres una de
 esas "personas de ideas".
 
-112
-00:05:47,484 --> 00:05:49,652
-Si con eso te refieres a
-que estoy familiarizada...
+96
+00:05:25,201 --> 00:05:27,027
+Si por "persona de ideas" te
+refieres a que estoy familiarizada
 
-113
-00:05:49,653 --> 00:05:51,990
-con la tecnología que no estaba
-obsoleta hace una década.
+97
+00:05:27,028 --> 00:05:29,465
+con la tecnologÃ­a que no estaba
+obsoleta hace una dÃ©cada.
 
-114
-00:05:51,991 --> 00:05:54,592
-¿Has tocado alguna vez siquiera
+98
+00:05:29,466 --> 00:05:32,267
+Â¿Has tocado alguna vez siquiera
 un componente hardware?
 
-115
-00:05:54,593 --> 00:05:56,794
-Es el problema con los críos
-con títulos universitarios.
+99
+00:05:32,268 --> 00:05:34,269
+Â¿Ves? Ese el problema con ustedes,
+los crÃ­os con tÃ­tulos universitarios.
 
-116
-00:05:56,795 --> 00:05:58,163
-Tienen muchas teorías fantasiosas,
+100
+00:05:34,270 --> 00:05:35,638
+Tienen muchas teorÃ­as fantasiosas,
 
-117
-00:05:58,164 --> 00:06:00,724
+101
+00:05:35,639 --> 00:05:37,899
 pero nunca han estado
 cerca del metal.
 
-118
-00:06:03,723 --> 00:06:05,907
-<i>¡Si la teoría real es
-que quiero hacer algo...</i>
+102
+00:05:41,598 --> 00:05:43,382
+Â¡Si la teorÃ­a real es
+que quiero hacer algo
 
-119
-00:06:05,908 --> 00:06:10,178
-<i>más que dos veces lo que todo
-el mundo está haciendo!</i>
+103
+00:05:43,383 --> 00:05:47,653
+mÃ¡s que dos veces lo que todo
+el mundo estÃ¡ haciendo!
 
-120
-00:06:10,179 --> 00:06:13,116
-Los computadores deberían tener
+104
+00:05:47,654 --> 00:05:50,591
+Los ordenadores deberÃ­an tener
 pantallas con foto-realismo.
 
-121
-00:06:13,117 --> 00:06:16,418
-Deberían tener un millón de píxeles,
-ser autodidactas...
+105
+00:05:50,592 --> 00:05:53,893
+DeberÃ­an tener un millÃ³n
+de pÃ­xeles, ser autodidactas
 
-122
-00:06:16,419 --> 00:06:18,018
+106
+00:05:53,894 --> 00:05:55,493
 y ejecutar sistemas expertos.
 
-123
-00:06:18,019 --> 00:06:19,320
-Deberían ganarme al ajedrez.
+107
+00:05:55,494 --> 00:05:56,795
+DeberÃ­an ganarme al ajedrez.
 
-124
-00:06:19,321 --> 00:06:21,455
-Y quizá HAL pueda tener
-emociones reales también,
+108
+00:05:56,796 --> 00:05:59,030
+Y quizÃ¡s HAL pueda tener
+emociones reales tambiÃ©n,
 
-125
-00:06:21,456 --> 00:06:22,993
+109
+00:05:59,031 --> 00:06:00,468
 y dirigir la nave mientras dormimos.
 
-126
-00:06:22,994 --> 00:06:24,956
-Así que construiremos
+110
+00:06:00,469 --> 00:06:02,431
+AsÃ­ que vamos a construir
 otra caja beige y aburrida.
 
-127
-00:06:24,957 --> 00:06:26,590
-Tú no vas a construir nada, ¿sí?
+111
+00:06:02,432 --> 00:06:04,065
+TÃº no vas a construir nada, Â¿vale?
 
-128
-00:06:26,591 --> 00:06:28,527
-- Yo lo haré.
-- ¿Qué se supone que significa eso?
+112
+00:06:04,066 --> 00:06:05,802
+- Yo lo harÃ©.
+- Â¿QuÃ© se supone que significa eso?
 
-129
-00:06:28,528 --> 00:06:30,829
-¿Por qué están aún los
-dos en la misma habitación?
+113
+00:06:05,803 --> 00:06:08,304
+Â¿Por quÃ© estan aÃºn los
+dos en la misma habitaciÃ³n?
 
-130
-00:06:30,830 --> 00:06:34,332
-No, de aquí en adelante haremos esto
+114
+00:06:08,305 --> 00:06:11,807
+No, de aquÃ­ en adelante haremos esto
 honradamente, como dicta la ley.
 
-131
-00:06:34,333 --> 00:06:38,005
-Y eso significa que no harán más
-que sonreírse el uno al otro...
+115
+00:06:11,808 --> 00:06:15,480
+Y eso significa que ustedes dos
+no haran mÃ¡s que sonreÃ­r el uno al otro
 
-132
-00:06:38,006 --> 00:06:39,306
-de camino al baño.
+116
+00:06:15,481 --> 00:06:16,781
+de camino al baÃ±o.
 
-133
-00:06:39,307 --> 00:06:40,839
-Sácala de aquí.
+117
+00:06:16,782 --> 00:06:18,314
+Bien, sÃ¡cala de aquÃ­.
 
-134
-00:06:40,840 --> 00:06:43,044
-Debbie, ¿te encargas de la señorita?
+118
+00:06:18,315 --> 00:06:20,519
+Debbie, Â¿te encargas de la seÃ±orita?
 
-135
-00:06:43,045 --> 00:06:46,346
-¿Me repites qué es lo
+119
+00:06:20,520 --> 00:06:23,821
+Â¿Me repites quÃ© es lo
 que haces para nosotros?
 
-136
-00:06:46,347 --> 00:06:48,515
-Escribir código de la BIOS.
+120
+00:06:23,822 --> 00:06:25,690
+Escribir cÃ³digo de la BIOS.
 
-137
-00:06:48,919 --> 00:06:51,084
+121
+00:06:26,394 --> 00:06:28,659
 Es el "Basic Input Output Software".
 
-138
-00:06:51,085 --> 00:06:53,520
+122
+00:06:28,660 --> 00:06:30,495
 Es lo que primero se ejecuta
-cuando enciendes el computador.
+cuando enciendes el ordenador.
 
-139
-00:06:53,521 --> 00:06:56,192
-¿Cómo el WordStar?
+123
+00:06:30,496 --> 00:06:32,799
+Â¿Como el WordStar?
 
-140
-00:06:56,193 --> 00:06:58,594
-La BIOS inicia el computador,
+124
+00:06:33,668 --> 00:06:36,069
+La BIOS inicia el ordenador,
 
-141
-00:06:58,595 --> 00:07:01,163
+125
+00:06:36,070 --> 00:06:38,638
 lo que te permite cargar
-el sistema operativo...
+el sistema operativo
 
-142
-00:07:01,164 --> 00:07:03,532
+126
+00:06:38,639 --> 00:06:41,007
 y luego puedes ejecutar WordStar.
 
-143
-00:07:03,533 --> 00:07:05,898
-¿Para qué pueda escribirle
-una cartita de amor a mi novio?
+127
+00:06:41,008 --> 00:06:43,173
+Â¿Para que pueda escribirle una
+cartita de amor a mi novio?
 
-144
-00:07:05,899 --> 00:07:07,499
-¿Es eso?
+128
+00:06:43,174 --> 00:06:44,974
+Â¿Es eso?
 
-145
-00:07:07,500 --> 00:07:10,060
-Sí, algo parecido.
+129
+00:06:44,975 --> 00:06:47,235
+SÃ­, algo parecido.
 
-146
-00:07:10,637 --> 00:07:12,705
-Bienvenida a la habitación limpia.
+130
+00:06:48,112 --> 00:06:49,880
+Bienvenida a la habitaciÃ³n limpia.
 
-147
-00:07:16,809 --> 00:07:20,246
-¿Sabes?, hay un tres por uno en
+131
+00:06:54,284 --> 00:06:57,721
+Â¿Sabes?, hay un tres por uno en
 Sanger's todo el fin de semana.
 
-148
-00:07:20,247 --> 00:07:22,748
+132
+00:06:57,722 --> 00:06:59,923
 Tienen cosas muy buenas.
 
-149
-00:07:29,989 --> 00:07:32,124
-Debo sentarme aquí
-mientras tú escribes el...
+133
+00:07:07,464 --> 00:07:09,599
+Bueno, tengo que sentarme
+aquÃ­ mientras tÃº escribes el...
 
-150
-00:07:32,125 --> 00:07:33,691
-¿Todo el tiempo?
+134
+00:07:09,600 --> 00:07:11,266
+Â¿Todo el tiempo?
 
-151
-00:07:33,692 --> 00:07:36,558
-Sí, estoy legalmente obligado a
+135
+00:07:11,267 --> 00:07:14,033
+SÃ­, estoy legalmente obligado a
 mantener un registro de la sala limpia.
 
-152
-00:07:36,559 --> 00:07:40,795
+136
+00:07:14,034 --> 00:07:17,970
 Mantener la Muralla China entre
-tú y ese ingeniero corrupto.
+tÃº y ese ingeniero corrupto.
 
-153
-00:07:46,530 --> 00:07:49,165
+137
+00:07:24,005 --> 00:07:26,640
 De acuerdo.
 
-154
-00:07:49,166 --> 00:07:50,734
-¡Escúchenme!
+138
+00:07:26,641 --> 00:07:28,209
+Â¡Escuchen todos!
 
-155
-00:07:50,735 --> 00:07:52,535
-Voy a ponerlos al día
-de un par de cosas.
+139
+00:07:28,210 --> 00:07:30,010
+Voy a ponerlos al dÃ­a con un par de cosas.
 
-156
-00:07:52,536 --> 00:07:54,403
-Este es Joe MacMillan.
+140
+00:07:30,011 --> 00:07:31,878
+EstÃ¡ bien. Este es Joe MacMillan.
 
-157
-00:07:54,404 --> 00:07:57,474
+141
+00:07:31,879 --> 00:07:34,949
 Es el nuevo...
 
-158
-00:07:57,475 --> 00:08:00,377
-jefe de producto senior...
+142
+00:07:34,950 --> 00:07:37,852
+jefe de producto senior
 
-159
-00:08:00,378 --> 00:08:04,284
-de la nueva división de
-Computadores Personales.
+143
+00:07:37,853 --> 00:07:41,459
+de la nueva divisiÃ³n de
+Ordenadores Personales.
 
-160
-00:08:06,287 --> 00:08:10,092
-Sí, Joe se nos ha venido
-desde IBM, más o menos.
+144
+00:07:43,762 --> 00:07:47,567
+SÃ­, Joe se nos ha venido
+desde IBM, mÃ¡s o menos.
 
-161
-00:08:10,093 --> 00:08:12,229
+145
+00:07:47,568 --> 00:07:49,704
 Lleva con nosotros poco tiempo,
 
-162
-00:08:12,230 --> 00:08:14,131
+146
+00:07:49,705 --> 00:07:51,606
 pero ya ha producido un gran impacto.
 
-163
-00:08:14,132 --> 00:08:16,101
-- Joe, ¿quieres...?
-- Gracias, John.
+147
+00:07:51,607 --> 00:07:53,876
+- Joe, Â¿quieres...?
+- Oh, gracias, John.
 
-164
-00:08:16,102 --> 00:08:18,033
-Y sería negligente por
-mi parte si no dijera...
+148
+00:07:53,877 --> 00:07:55,308
+Y serÃ­a negligente por
+mi parte si no dijera
 
-165
-00:08:18,034 --> 00:08:19,901
-que no fue por tu fe, tu previsión,
+149
+00:07:55,309 --> 00:07:57,376
+que no fue por tu fe, tu previsiÃ³n,
 
-166
-00:08:19,902 --> 00:08:22,238
-y, ya me disculparás,
+150
+00:07:57,377 --> 00:07:59,713
+y, ya me disculparÃ¡s,
 
-167
-00:08:22,239 --> 00:08:25,340
+151
+00:07:59,714 --> 00:08:02,515
 tus pelotas de hierro las
-que nos metieron aquí.
+que nos metieron aquÃ­.
 
-168
-00:08:26,941 --> 00:08:28,672
-Continuando con este trabajo...
+152
+00:08:04,416 --> 00:08:06,147
+Continuando con este trabajo
 
-169
-00:08:28,673 --> 00:08:30,575
-has ayudado a establecer
-a Cardiff Electric...
+153
+00:08:06,148 --> 00:08:07,850
+has ayudado a establecer a Cardiff Electric
 
-170
-00:08:30,576 --> 00:08:33,614
+154
+00:08:07,851 --> 00:08:11,089
 como una empresa colonizadora
 hacia el siglo XXI.
 
-171
-00:08:33,615 --> 00:08:35,980
+155
+00:08:11,090 --> 00:08:13,155
 Una ronda de aplausos para John.
 
-172
-00:08:38,182 --> 00:08:41,417
-Puede que hayan oído rumores
-a lo largo de la última semana.
+156
+00:08:15,657 --> 00:08:18,892
+Ahora, puede que hayan oÃ­do algunos
+rumores a lo largo de la Ãºltima semana.
 
-173
-00:08:41,418 --> 00:08:44,353
-Quizá han visto algunos trajeados
+157
+00:08:18,893 --> 00:08:21,828
+QuizÃ¡s hayan visto algunos trajeados
 poco familiares en el edificio,
 
-174
-00:08:44,354 --> 00:08:46,422
-y escuchado los
-mismos rumores que yo.
+158
+00:08:21,829 --> 00:08:23,897
+y escuchado los mismos rumores que yo.
 
-175
-00:08:46,423 --> 00:08:48,155
-"El cambio está a punto de llegar".
+159
+00:08:23,898 --> 00:08:25,630
+"El cambio estÃ¡ a punto de llegar".
 
-176
-00:08:48,156 --> 00:08:52,961
-Estoy aquí hoy para decirles
+160
+00:08:25,631 --> 00:08:30,436
+Bien, estoy aquÃ­ hoy para deciros
 que esos rumores eran ciertos.
 
-177
-00:08:52,962 --> 00:08:55,360
+161
+00:08:30,437 --> 00:08:32,835
 El cambio llega a Cardiff,
 
-178
-00:08:55,361 --> 00:08:57,861
+162
+00:08:32,836 --> 00:08:35,336
 y me complace anunciarles que
-todos y cada uno de ustedes...
+todos y cada uno de ustedes
 
-179
-00:08:57,862 --> 00:09:01,867
-tendrán un papel que jugar en el
-brillante futuro de esta compañía.
+163
+00:08:35,337 --> 00:08:39,342
+tendrÃ¡n un papel que jugar en el
+brillante futuro de esta compaÃ±Ã­a.
 
-180
-00:09:01,868 --> 00:09:05,607
-Ahora, sólo tengo dos reglas
-para nuestra nueva división PC.
+164
+00:08:39,343 --> 00:08:43,082
+Ahora, solo tengo dos reglas
+para nuestra nueva divisiÃ³n PC.
 
-181
-00:09:05,608 --> 00:09:08,775
-La primera, divirtámonos.
+165
+00:08:43,083 --> 00:08:45,950
+La primera, divirtÃ¡monos.
 
-182
-00:09:10,476 --> 00:09:12,579
+166
+00:08:47,951 --> 00:08:50,054
 Y la segunda...
 
-183
-00:09:12,580 --> 00:09:15,450
-hagamos un montón de
-dinero, ¿sí?
+167
+00:08:50,055 --> 00:08:52,625
+hagamos un montÃ³n de
+dinero, Â¿de acuerdo?
 
-184
-00:09:17,554 --> 00:09:19,021
+168
+00:08:55,029 --> 00:08:56,496
 Y si seguimos estas dos reglas bien,
 
-185
-00:09:19,022 --> 00:09:22,558
-bueno, quizá cambiemos el modo
-en que la gente trabaja,
+169
+00:08:56,497 --> 00:09:00,033
+bueno, quizÃ¡s cambiemos el
+modo en que la gente trabaja,
 
-186
-00:09:22,559 --> 00:09:24,260
+170
+00:09:00,034 --> 00:09:01,735
 el modo en que la gente vive,
 
-187
-00:09:24,261 --> 00:09:27,931
-y el cómo interactúan unos con otros.
+171
+00:09:01,736 --> 00:09:05,406
+y el cÃ³mo interactÃºan unos con otros.
 
-188
-00:09:27,932 --> 00:09:32,467
-Puede que le demos
-un mordisco al universo.
+172
+00:09:05,407 --> 00:09:09,942
+Puede que le demos un
+mordisco al universo.
 
-189
-00:09:32,468 --> 00:09:34,334
-¿Cómo te llamas?
+173
+00:09:09,943 --> 00:09:11,809
+Â¿CÃ³mo te llamas?
 
-190
-00:09:34,335 --> 00:09:37,005
+174
+00:09:11,810 --> 00:09:14,480
 - Tara.
 - Tara, encantado de conocerte.
 
-191
-00:09:37,006 --> 00:09:37,791
-¿Sabes...?
+175
+00:09:14,481 --> 00:09:15,266
+Â¿Sabes...?
 
-192
-00:09:37,792 --> 00:09:40,837
-Gordon, hola, ¿puedes
-acompañarme un segundo?
+176
+00:09:15,267 --> 00:09:18,312
+Gordon, hola, Â¿puedes
+acompaÃ±arme un segundo?
 
-193
-00:09:40,838 --> 00:09:43,506
-- Sólo un segundo.
-- Sí, claro.
+177
+00:09:18,313 --> 00:09:20,681
+- Solo un segundo.
+- SÃ­, claro.
 
-194
-00:09:45,410 --> 00:09:49,275
-Aquí estamos. Esto es tuyo.
+178
+00:09:22,885 --> 00:09:26,450
+AquÃ­ estamos. Esto es tuyo.
 
-195
-00:10:09,732 --> 00:10:11,732
-Mira quién está ascendiendo
-en el mundo.
+179
+00:09:47,207 --> 00:09:49,207
+Mira quiÃ©n estÃ¡ ascendiendo en el mundo.
 
-196
-00:10:11,733 --> 00:10:14,001
+180
+00:09:49,208 --> 00:09:51,176
 Ahora tienes una ventana y todo.
 
-197
-00:10:15,373 --> 00:10:18,975
-Jobs, "darle un
-mordisco al universo".
+181
+00:09:52,848 --> 00:09:56,450
+Jobs, "darle un mordisco al universo".
 
-198
-00:10:18,976 --> 00:10:20,945
+182
+00:09:56,451 --> 00:09:58,420
 Steve Jobs, el tipo que dirige Apple,
 
-199
-00:10:20,946 --> 00:10:22,348
-dijo eso hace unos años.
+183
+00:09:58,421 --> 00:09:59,823
+dijo eso hace unos aÃ±os.
 
-200
-00:10:22,349 --> 00:10:24,586
-Sí. Lo sé. ¿No es genial?
+184
+00:09:59,824 --> 00:10:01,761
+SÃ­. Lo sÃ©. Â¿No es genial?
 
-201
-00:10:28,955 --> 00:10:31,355
-Deberías irte a casa y tener
+185
+00:10:06,430 --> 00:10:08,830
+DeberÃ­as irte a casa y tener
 una buena noche de descanso.
 
-202
-00:10:31,356 --> 00:10:32,556
-Te espera un gran día mañana.
+186
+00:10:08,831 --> 00:10:10,031
+Te espera un gran dÃ­a maÃ±ana.
 
-203
-00:10:32,557 --> 00:10:33,755
-¿Por qué?
+187
+00:10:10,032 --> 00:10:11,230
+Â¿Por quÃ©?
 
-204
-00:10:33,756 --> 00:10:36,991
-Mañana empezamos
-a construir el mañana.
+188
+00:10:11,231 --> 00:10:14,166
+Bueno, maÃ±ana empezamos
+a construir el maÃ±ana.
 
-205
-00:11:26,845 --> 00:11:29,815
+189
+00:11:04,320 --> 00:11:06,990
 Dice que le ayuda a pensar.
 
-206
-00:11:32,418 --> 00:11:35,023
+190
+00:11:09,893 --> 00:11:12,498
 Creo que esto es para ti.
 
-207
-00:11:35,024 --> 00:11:37,858
+191
+00:11:12,499 --> 00:11:15,333
 Genial.
 
-208
-00:11:37,859 --> 00:11:40,393
-Gracias. Él lo paga.
+192
+00:11:15,334 --> 00:11:17,868
+Gracias. Ã‰l lo paga.
 
-209
-00:11:40,394 --> 00:11:42,497
-¿Quieres decirme qué haces?
+193
+00:11:17,869 --> 00:11:19,972
+Â¿Quieres decirme quÃ© estÃ¡s haciendo?
 
-210
-00:11:42,498 --> 00:11:46,104
-Escribir la BIOS para una máquina
-por la que nadie dará una mierda.
+194
+00:11:19,973 --> 00:11:23,279
+Escribir la BIOS para una mÃ¡quina
+por la que nadie darÃ¡ una mierda.
 
-211
-00:11:47,640 --> 00:11:49,272
-Tienes razón. Tienes razón.
+195
+00:11:25,115 --> 00:11:26,747
+Tienes razÃ³n. Tienes razÃ³n.
 
-212
-00:11:49,273 --> 00:11:50,809
-¿A quién le importa la máquina?
+196
+00:11:26,748 --> 00:11:28,284
+Â¿A quiÃ©n le importa la mÃ¡quina?
 
-213
-00:11:50,810 --> 00:11:53,243
-Lo que realmente importa
-son las personas que la usarán.
+197
+00:11:28,285 --> 00:11:30,718
+Lo que realmente importa son
+las personas que la usarÃ¡n.
 
-214
-00:11:53,244 --> 00:11:55,677
+198
+00:11:30,719 --> 00:11:33,152
 Si bajamos el precio,
 bajamos la barrera de entrada,
 
-215
-00:11:55,678 --> 00:11:58,814
-y doblando la velocidad,
-les permitimos hacer el doble.
+199
+00:11:33,153 --> 00:11:36,289
+y doblando la velocidad, les
+permitimos hacer el doble.
 
-216
-00:11:58,815 --> 00:12:00,880
-Así que, ahora tenemos
-el doble de personas...
+200
+00:11:36,290 --> 00:11:38,355
+AsÃ­ que, ahora tenemos
+el doble de personas
 
-217
-00:12:00,881 --> 00:12:02,713
-usando nuestro computador
+201
+00:11:38,356 --> 00:11:40,188
+usando nuestro ordenador
 el doble de tiempo.
 
-218
-00:12:02,714 --> 00:12:04,148
-Vaya.
+202
+00:11:41,624 --> 00:11:43,644
+Â¿Has practicado eso frente al espejo?
 
-219
-00:12:04,149 --> 00:12:06,469
-¿Has practicado eso frente al espejo?
+203
+00:11:45,849 --> 00:11:47,993
+Mira, no creo que aprecies
 
-220
-00:12:08,374 --> 00:12:11,854
-No creo que aprecies la oportunidad
-que tenemos aquí para...
+204
+00:11:47,994 --> 00:11:49,329
+la oportunidad que tenemos aquÃ­ para...
 
-221
-00:12:11,855 --> 00:12:13,922
+205
+00:11:49,330 --> 00:11:51,397
 Lo he escuchado todo.
 
-222
-00:12:13,923 --> 00:12:15,660
+206
+00:11:51,398 --> 00:11:54,235
 "Pasarlo bien, ganar dinero".
+Y luego un montÃ³n de mierda
 
-223
-00:12:15,661 --> 00:12:19,531
-Y luego un montón de mierda
+207
+00:11:54,236 --> 00:11:57,006
 que inventaste o robaste a alguien.
 
-224
-00:12:19,532 --> 00:12:21,665
-Eres sólo un vendedor.
+208
+00:11:57,007 --> 00:11:58,840
+Eres solo un vendedor.
 
-225
-00:12:38,998 --> 00:12:41,035
-¿Y bien?
+209
+00:12:17,933 --> 00:12:19,970
+Â¿Y bien?
 
-226
-00:12:41,036 --> 00:12:43,638
+210
+00:12:19,971 --> 00:12:22,962
 Creo... No estoy seguro,
 
-227
-00:12:43,639 --> 00:12:47,974
-pero tengo buenas
-razones para creer...
+211
+00:12:22,963 --> 00:12:26,998
+pero tengo buenas razones para creer...
 
-228
-00:12:50,012 --> 00:12:52,680
+212
+00:12:29,335 --> 00:12:31,703
 que estaremos bien.
 
-229
-00:12:53,481 --> 00:12:56,080
+213
+00:12:32,804 --> 00:12:35,403
 - Entonces, IBM y...
 - Se han ido.
 
-230
-00:12:56,081 --> 00:12:59,684
-Joe tenía razón. Hemos
+214
+00:12:35,404 --> 00:12:39,007
+Joe tenÃ­a razÃ³n. Hemos
 hecho que se larguen.
 
-231
-00:12:59,685 --> 00:13:02,787
-- Así que vas a...
-- Empiezo mañana...
+215
+00:12:39,008 --> 00:12:42,110
+- AsÃ­ que vas a...
+- Empiezo maÃ±ana...
 
-232
-00:13:02,788 --> 00:13:07,757
+216
+00:12:42,111 --> 00:12:46,780
 En mi nuevo despacho.
 
-233
-00:13:10,229 --> 00:13:12,198
+217
+00:12:49,552 --> 00:12:51,521
 Con ventana y todo.
 
-234
-00:13:12,199 --> 00:13:15,267
-Mírate, don importante.
+218
+00:12:51,522 --> 00:12:54,290
+MÃ­rate, don importante.
 
-235
-00:13:17,504 --> 00:13:21,024
-- ¿Dónde están las niñas?
-- Están jugando en el...
+219
+00:12:56,827 --> 00:13:00,047
+- Â¿DÃ³nde estÃ¡n las niÃ±as?
+- EstÃ¡n jugando en el...
 
-236
-00:13:24,376 --> 00:13:26,243
+220
+00:13:03,699 --> 00:13:05,566
 Espera.
 
-237
-00:13:26,244 --> 00:13:28,613
+221
+00:13:05,567 --> 00:13:07,936
 Estoy intentando...
 
-238
-00:13:28,614 --> 00:13:31,017
+222
+00:13:07,937 --> 00:13:10,040
 - Vamos al dormitorio.
-- Bien.
+- Ok.
 
-239
-00:13:33,720 --> 00:13:36,388
-Mañana debo llevar
+223
+00:13:13,043 --> 00:13:15,711
+MaÃ±ana tengo que llevar
 a Joanie al dentista.
 
-240
-00:13:36,389 --> 00:13:39,025
-Quizá tengan que sacarle un diente.
+224
+00:13:15,712 --> 00:13:18,048
+QuizÃ¡s tengan que sacarle un diente.
 
-241
-00:13:40,528 --> 00:13:43,361
-Podrían pasar por Cardiff.
+225
+00:13:19,851 --> 00:13:22,684
+PodrÃ­an pasar por Cardiff.
 
-242
-00:13:43,362 --> 00:13:45,732
-Debo llevarla de nuevo al colegio.
+226
+00:13:22,685 --> 00:13:25,055
+Tengo que llevarla de nuevo al colegio.
 
-243
-00:13:45,733 --> 00:13:49,666
-Sé que odia el dentista.
+227
+00:13:25,056 --> 00:13:28,989
+Vamos!. SÃ© que odia el dentista.
 
-244
-00:13:49,667 --> 00:13:53,204
-Quizá sea un premio ir
-a ver a su papi después.
+228
+00:13:28,990 --> 00:13:32,527
+QuizÃ¡s sea un premio ir
+a ver a su papi despuÃ©s.
 
-245
-00:13:53,205 --> 00:13:56,306
-Además, podrías ver
-mi nuevo despacho.
+229
+00:13:32,528 --> 00:13:35,329
+AdemÃ¡s, podrÃ­as ver mi nuevo despacho.
 
-246
-00:13:59,209 --> 00:14:01,208
-¿A quién tienen por cierto?
+230
+00:13:38,532 --> 00:13:40,531
+Â¿A quiÃ©n tenÃ©s, por cierto?
 
-247
-00:14:01,209 --> 00:14:03,778
-¿Para escribir la BIOS?
+231
+00:13:40,532 --> 00:13:43,101
+Â¿Para escribir la BIOS?
 
-248
-00:14:03,779 --> 00:14:06,859
+232
+00:13:43,102 --> 00:13:45,882
 Apuesto a que MacMillan tuvo a
-algunos chicos haciendo cola, ¿no?
+algunos chicos haciendo cola, Â¿no?
 
-249
-00:14:08,115 --> 00:14:09,681
-Sí.
+233
+00:13:47,438 --> 00:13:49,004
+SÃ­.
 
-250
-00:14:09,682 --> 00:14:13,353
-- ¿Quién?
+234
+00:13:49,005 --> 00:13:52,676
+- Â¿QuiÃ©n?
 - Cameron Howe.
 
-251
-00:14:13,354 --> 00:14:15,955
-¿De dónde viene?
+235
+00:13:52,677 --> 00:13:55,278
+Â¿De dÃ³nde viene?
 
-252
-00:14:15,956 --> 00:14:19,259
+236
+00:13:55,279 --> 00:13:58,582
 Austin Tech, creo.
 
-253
-00:14:19,260 --> 00:14:23,492
-Debe ser un buen negocio
-si estás a bordo.
+237
+00:13:58,583 --> 00:14:02,515
+Bueno, debe ser un buen
+negocio si estÃ¡s a bordo.
 
-254
-00:14:26,597 --> 00:14:28,864
-Sí.
+238
+00:14:05,920 --> 00:14:07,887
+SÃ­.
 
-255
-00:15:44,878 --> 00:15:49,350
-En cualquier caso, eché a esos imbéciles
-azules de la ciudad, y te diré una cosa:
+239
+00:15:23,552 --> 00:15:28,024
+En cualquier caso, echÃ© a esos bastardos
+azules de la ciudad, y te dirÃ© una cosa:
 
-256
-00:15:49,351 --> 00:15:51,885
-¿te imaginas a los Stangs
-saliendo siempre victoriosos y,
+240
+00:15:28,935 --> 00:15:30,857
+Â¿te imaginas a los Stangs
+saliendo siempre victoriosos
 
-257
-00:15:51,886 --> 00:15:53,189
-aún así, perdiendo en Georgia?
+241
+00:15:30,858 --> 00:15:32,760
+y, aun asÃ­, perdiendo en Georgia?
 
-258
-00:15:53,190 --> 00:15:56,292
-¿Puedes imaginarte a
+242
+00:15:32,761 --> 00:15:35,863
+Â¿Puedes imaginarte a
 Dickerson en la Sugar Bowl?
 
-259
-00:15:56,293 --> 00:16:00,161
-Arrollaría a esos perros, ¿no?
+243
+00:15:35,864 --> 00:15:39,432
+ArrollarÃ­a a esos perros, Â¿eh?
 
-260
-00:16:02,065 --> 00:16:04,464
-Aunque McIlhenny aún
+244
+00:15:41,636 --> 00:15:44,035
+Aunque McIlhenny todavÃ­a
 tiene un buen brazo.
 
-261
-00:16:04,465 --> 00:16:07,266
+245
+00:15:44,036 --> 00:15:46,337
 Te lo digo, te apuesto a que lanza
-más de 1.000 yardas este año...
+mÃ¡s de 1.000 yardas este aÃ±o
 
-262
-00:16:07,267 --> 00:16:10,004
+246
+00:15:46,338 --> 00:15:49,575
 si hace una docena.
 
-263
-00:16:10,005 --> 00:16:12,337
-Sí.
+247
+00:15:49,576 --> 00:15:51,908
+SÃ­.
 
-264
-00:16:12,338 --> 00:16:15,542
-Hace que quieras jugártela.
-¿No, Carl?
+248
+00:15:51,909 --> 00:15:55,113
+Hace que quieras jugÃ¡rtela. Â¿No, Carl?
 
-265
-00:16:15,543 --> 00:16:18,878
-Tú fuiste un buenísimo
-jugador en su día, ¿sabías?
+249
+00:15:55,114 --> 00:15:58,149
+TÃº fuiste un buen jugador
+en su momento, Â¿sabÃ­as?
 
-266
-00:16:20,416 --> 00:16:23,319
-¿Así que piensas apostar este año...
+250
+00:15:59,987 --> 00:16:02,890
+Â¿AsÃ­ que piensas apostar este aÃ±o por
 
-267
-00:16:23,320 --> 00:16:25,155
-por el fondo de reclutamiento
-de jugadores?
+251
+00:16:02,891 --> 00:16:04,726
+el fondo de reclutamiento de jugadores?
 
-268
-00:16:25,156 --> 00:16:27,190
+252
+00:16:04,727 --> 00:16:06,761
 Yo creo que voy a apostar
-a lo grande en otoño.
+a lo grande en otoÃ±o.
 
-269
-00:16:27,191 --> 00:16:29,758
-Aún no estoy seguro.
+253
+00:16:06,762 --> 00:16:09,029
+AÃºn no estoy seguro.
 
-270
-00:16:32,228 --> 00:16:33,762
-¿Carl?
+254
+00:16:11,799 --> 00:16:13,333
+Â¿Carl?
 
-271
-00:16:33,763 --> 00:16:37,923
-¿Cómo vamos con el sistema
+255
+00:16:13,334 --> 00:16:17,194
+Â¿CÃ³mo vamos con el sistema
 inteligente de tu casa?
 
-272
-00:16:37,997 --> 00:16:39,529
-¿Sabes lo que haré?
+256
+00:16:17,568 --> 00:16:19,100
+Â¿Sabes lo que voy a hacer?
 
-273
-00:16:39,530 --> 00:16:41,596
-Te mandaré a un grupo de
+257
+00:16:19,101 --> 00:16:21,167
+Voy a mandarte a un grupo de
 chicos con algunas mejoras,
 
-274
-00:16:41,597 --> 00:16:44,430
-para, ya sabes, asegurarnos...
+258
+00:16:21,168 --> 00:16:24,001
+para, ya sabes, asegurarnos
 
-275
-00:16:44,431 --> 00:16:46,631
-que todo te funciona de
-manera óptima. ¿Qué tal?
+259
+00:16:24,002 --> 00:16:26,202
+de que todo te funciona de
+manera Ã³ptima. Â¿QuÃ© tal?
 
-276
-00:16:46,632 --> 00:16:50,500
-¿Sabes? Sin facturas. No.
+260
+00:16:26,203 --> 00:16:30,071
+Â¿Sabes? Sin facturas. No.
 
-277
-00:16:50,501 --> 00:16:53,405
-Sólo como un favor entre
+261
+00:16:30,072 --> 00:16:32,976
+Solo como un favor entre
 dos fans de los Stangs.
 
-278
-00:16:53,406 --> 00:16:56,542
+262
+00:16:32,977 --> 00:16:35,813
 Genial.
 
-279
-00:17:18,132 --> 00:17:19,866
-¿Dónde está?
+263
+00:16:57,703 --> 00:16:59,437
+Â¿DÃ³nde estÃ¡?
 
-280
-00:17:19,867 --> 00:17:21,133
+264
+00:16:59,438 --> 00:17:00,704
 No tengo ni idea.
 
-281
-00:17:21,134 --> 00:17:22,837
-Es bastante interesante, ¿no crees?
+265
+00:17:00,705 --> 00:17:02,408
+Es bastante interesante, Â¿no crees?
 
-282
-00:17:22,838 --> 00:17:24,707
-Vistiendo esa ropa del ejército.
+266
+00:17:02,409 --> 00:17:04,578
+Vistiendo esa ropa del ejÃ©rcito.
 
-283
-00:17:24,708 --> 00:17:26,274
-¿Por qué no vas a tomar algo de aire?
+267
+00:17:04,579 --> 00:17:05,845
+Â¿Por quÃ© no vas a tomar algo de aire?
 
-284
-00:17:26,275 --> 00:17:27,907
-Yo me ocupo de ella
-de ahora en adelante.
+268
+00:17:05,846 --> 00:17:07,478
+Yo me ocupo de ella de ahora en adelante.
 
-285
-00:17:27,908 --> 00:17:29,708
-Debo mantener el
+269
+00:17:07,479 --> 00:17:08,879
+Tengo que mantener el
 registro de la sala limpia.
 
-286
-00:17:29,709 --> 00:17:31,376
+270
+00:17:08,880 --> 00:17:10,947
 Barry, tienes huevos en la cara.
 
-287
-00:17:31,377 --> 00:17:32,643
-¿Qué?
+271
+00:17:10,948 --> 00:17:12,214
+Â¿QuÃ©?
 
-288
-00:17:32,644 --> 00:17:36,577
+272
+00:17:12,215 --> 00:17:15,848
 - Yo me ocupo.
-- ¿Qué tengo qué?
+- Â¿Que tengo quÃ©?
 
-289
-00:18:07,217 --> 00:18:10,613
-Se me ocurre que crees que aquí
-puedes hacer lo que te dé la gana.
+273
+00:17:46,788 --> 00:17:50,184
+Se me ocurre que crees que aquÃ­
+puedes hacer lo que te dÃ© la gana.
 
-290
-00:18:10,614 --> 00:18:12,558
+274
+00:17:50,185 --> 00:17:52,129
 Este no es tu patio de juegos,
 
-291
-00:18:12,559 --> 00:18:14,528
+275
+00:17:52,130 --> 00:17:54,099
 al contrario de lo que puedas creer,
 
-292
-00:18:14,529 --> 00:18:18,598
-sé qué pinta tiene un código,
-y, desde luego, esto no es código.
+276
+00:17:54,100 --> 00:17:57,869
+sÃ© quÃ© pinta tiene un cÃ³digo,
+y, desde luego, esto no es cÃ³digo.
 
-293
-00:18:21,372 --> 00:18:22,872
-Tienes razón.
+277
+00:18:00,943 --> 00:18:02,443
+Tienes razÃ³n.
 
-294
-00:18:22,873 --> 00:18:24,872
-No, tienes razón.
+278
+00:18:02,444 --> 00:18:04,443
+No, tienes razÃ³n.
 
-295
-00:18:24,873 --> 00:18:26,941
-Sí, esto no es código.
+279
+00:18:04,444 --> 00:18:06,512
+SÃ­, esto no es cÃ³digo.
 
-296
-00:18:26,942 --> 00:18:29,246
+280
+00:18:06,513 --> 00:18:08,817
 Como has dicho.
 
-297
-00:18:29,247 --> 00:18:32,217
+281
+00:18:08,818 --> 00:18:11,788
 Intento decidir si necesitamos
-hacer esta multiplicación...
+hacer esta multiplicaciÃ³n
 
-298
-00:18:32,218 --> 00:18:34,118
-para alinear la separación octal.
+282
+00:18:11,789 --> 00:18:13,689
+para alinear la separaciÃ³n octal.
 
-299
-00:18:34,119 --> 00:18:37,024
+283
+00:18:13,690 --> 00:18:16,595
 Ahora, mi instinto dice, y estoy
-segura que estarás de acuerdo,
+segura de que estarÃ¡s de acuerdo,
 
-300
-00:18:37,025 --> 00:18:40,501
-que podemos hacer un acarreo de
-tres bits a cero hacia la derecha,
+284
+00:18:16,596 --> 00:18:19,032
+que podemos hacer un
+acarreo de tres bits a cero
 
-301
-00:18:40,502 --> 00:18:43,596
-lo que es más rápido y da el mismo
-resultado en el acumulador del 186,
+285
+00:18:19,033 --> 00:18:20,799
+hacia la derecha, lo que es mÃ¡s rÃ¡pido
 
-302
-00:18:43,597 --> 00:18:45,330
-pero... no lo sé.
+286
+00:18:20,800 --> 00:18:23,167
+y da el mismo resultado en
+el acumulador del 186,
 
-303
-00:18:45,331 --> 00:18:47,531
-Me encantaría escuchar tu opinión.
+287
+00:18:23,168 --> 00:18:24,901
+pero... no lo sÃ©.
 
-304
-00:19:25,778 --> 00:19:28,078
-Estás atascada.
+288
+00:18:24,902 --> 00:18:26,802
+Me encantarÃ­a escuchar tu opiniÃ³n.
 
-305
-00:19:28,525 --> 00:19:30,750
-¿Sabes siquiera lo que
-estás intentando hacer?
+289
+00:19:05,349 --> 00:19:07,349
+EstÃ¡s atascada.
 
-306
-00:19:30,751 --> 00:19:32,555
-Como si tú lo supieras.
+290
+00:19:08,096 --> 00:19:10,321
+Â¿Sabes siquiera lo que
+estÃ¡s intentando hacer?
 
-307
-00:19:35,592 --> 00:19:37,591
+291
+00:19:10,322 --> 00:19:11,826
+Como si tÃº lo supieras.
+
+292
+00:19:15,163 --> 00:19:16,862
 Dame un minuto.
 
-308
-00:19:39,163 --> 00:19:42,135
-Quizá pueda ayudar.
+293
+00:19:18,734 --> 00:19:21,406
+QuizÃ¡s pueda ayudar.
 
-309
-00:19:50,118 --> 00:19:52,051
-Está bien.
+294
+00:19:29,689 --> 00:19:31,322
+EstÃ¡ bien.
 
-310
-00:19:57,795 --> 00:19:59,464
-¿Qué haces?
+295
+00:19:37,366 --> 00:19:39,035
+Â¿QuÃ© estÃ¡s haciendo?
 
-311
-00:19:59,465 --> 00:20:01,828
-No quiero pensar más en esto.
+296
+00:19:39,036 --> 00:19:41,399
+No quiero pensar mÃ¡s en esto.
 
-312
-00:20:01,829 --> 00:20:03,303
+297
+00:19:41,400 --> 00:19:42,874
 Necesito despejar mi mente.
 
-313
-00:20:03,304 --> 00:20:05,604
-Pues tómate un descanso.
+298
+00:19:42,875 --> 00:19:44,875
+Pues tÃ³mate un descanso.
 
-314
-00:20:06,971 --> 00:20:11,009
-¿Cómo si pudiésemos tomar una soda
+299
+00:19:46,542 --> 00:19:50,580
+Â¿Como si pudiÃ©semos tomar una soda
 con Debbie y el resto del Club del 700?
 
-315
-00:20:11,010 --> 00:20:13,709
+300
+00:19:50,581 --> 00:19:52,980
 Yo no soy como ellos.
 
-316
-00:20:15,579 --> 00:20:19,282
-Debes subir,
+301
+00:19:55,150 --> 00:19:58,553
+Tienes que ir arriba,
 volver a tu terminal.
 
-317
-00:20:20,383 --> 00:20:23,183
-Entonces, ¿haremos esto o qué?
+302
+00:19:59,954 --> 00:20:02,454
+Entonces, Â¿vamos a hacer esto o quÃ©?
 
-318
-00:20:56,959 --> 00:20:59,254
-Cardiff Electric, ¿cómo puedo
+303
+00:20:37,907 --> 00:20:40,202
+Cardiff Electric, Â¿cÃ³mo puedo
 atender a su llamada?
 
-319
-00:20:59,255 --> 00:21:01,432
+304
+00:20:40,203 --> 00:20:42,237
 Espere, por favor.
 
-320
-00:21:01,433 --> 00:21:03,557
+305
+00:20:42,381 --> 00:20:44,805
 Que quede constancia
-de que no sabemos nada...
+de que no sabemos nada
 
-321
-00:21:03,558 --> 00:21:05,256
-sobre esa chica ni
-de lo que es capaz.
+306
+00:20:44,806 --> 00:20:46,704
+sobre esa chica ni de lo que es capaz.
 
-322
-00:21:05,257 --> 00:21:08,118
-Tienes razón. Cuando termine el código
-deberíamos cortar el anzuelo.
+307
+00:20:46,705 --> 00:20:49,066
+Tienes razÃ³n. Cuando termine el cÃ³digo
+de la BIOS deberÃ­amos cortar el anzuelo.
 
-323
-00:21:08,119 --> 00:21:09,095
-¿A qué te refieres?
+308
+00:20:49,067 --> 00:20:50,043
+Â¿A quÃ© te refieres?
 
-324
-00:21:09,096 --> 00:21:10,631
-Ni vien acabe el código de la BIOS,
+309
+00:20:50,044 --> 00:20:51,579
+Tan pronto como acabe
+el cÃ³digo de la BIOS,
 
-325
-00:21:10,632 --> 00:21:12,999
-no hay ningún acuerdo legal,
-no la necesitaremos más.
+310
+00:20:51,580 --> 00:20:53,647
+no hay ningÃºn acuerdo legal,
+no la necesitaremos mÃ¡s.
 
-326
-00:21:13,000 --> 00:21:16,367
-Me parece bien. Sí, bien.
+311
+00:20:53,648 --> 00:20:57,315
+Bien, me parece bien. SÃ­, bien.
 
-327
-00:21:16,368 --> 00:21:17,936
-Adiós, muy buenas. Tiene sentido,
+312
+00:20:57,316 --> 00:20:59,084
+AdiÃ³s, muy buenas. Tiene sentido,
 
-328
-00:21:17,937 --> 00:21:20,237
-pero ahora necesitamos que
-vuelva a la habitación limpia.
+313
+00:20:59,085 --> 00:21:00,985
+pero ahora mismo necesitamos que
+vuelva a la habitaciÃ³n limpia.
 
-329
-00:21:20,238 --> 00:21:21,704
+314
+00:21:00,986 --> 00:21:02,552
 Entonces ve abajo y habla con ella.
 
-330
-00:21:21,705 --> 00:21:24,038
+315
+00:21:02,553 --> 00:21:04,786
 Se supone que no debo estar
 ni en el mismo piso que ella.
 
-331
-00:21:24,039 --> 00:21:26,442
-Si no está en su escritorio
-pulsando teclas,
+316
+00:21:04,787 --> 00:21:07,390
+Mira, si no estÃ¡ en su
+escritorio pulsando teclas,
 
-332
-00:21:26,443 --> 00:21:28,312
-no está escribiendo
-el código de la BIOS, ¿sí?
+317
+00:21:07,391 --> 00:21:08,960
+entonces no estÃ¡ escribiendo
+el cÃ³digo de la BIOS, Â¿vale?
 
-333
-00:21:28,313 --> 00:21:30,714
+318
+00:21:08,961 --> 00:21:11,062
 La necesitamos escribiendo
-el código de la BIOS.
+el cÃ³digo de la BIOS.
 
-334
-00:21:33,115 --> 00:21:35,283
-Bien.
+319
+00:21:14,063 --> 00:21:15,931
+Ok
 
-335
-00:21:38,289 --> 00:21:40,825
-Mamá, quiero mirarlo.
+320
+00:21:19,237 --> 00:21:21,773
+MamÃ¡, quiero verlo.
 
-336
-00:21:40,826 --> 00:21:42,561
-Pero un vistazo rápido, ¿sí?
+321
+00:21:21,774 --> 00:21:23,609
+Bien, pero un vistazo rÃ¡pido, Â¿vale?
 
-337
-00:21:42,562 --> 00:21:43,964
-Porque mamá debe
-volver al trabajo.
+322
+00:21:23,610 --> 00:21:24,912
+Porque mamÃ¡ tiene que volver al trabajo.
 
-338
-00:21:43,965 --> 00:21:46,131
+323
+00:21:24,913 --> 00:21:26,779
 - Hola.
 - Hola.
 
-339
-00:21:47,734 --> 00:21:49,869
-Muy bien, ahí.
-Vamos a echar un vistazo.
+324
+00:21:28,682 --> 00:21:30,817
+Muy bien, ahÃ­. Vamos a echar un vistazo.
 
-340
-00:21:49,870 --> 00:21:52,073
-¿Ves ahí dentro?
+325
+00:21:30,818 --> 00:21:33,021
+Â¿Ves ahÃ­ dentro?
 
-341
-00:21:52,074 --> 00:21:54,143
-Eso es. Ahí es donde solía estar.
+326
+00:21:33,022 --> 00:21:35,091
+Eso es. AhÃ­ es donde estaba.
 
-342
-00:21:54,144 --> 00:21:56,411
-Es como el Gran Cañón.
+327
+00:21:35,092 --> 00:21:37,559
+Es como el Gran CaÃ±Ã³n.
 
-343
-00:21:56,412 --> 00:21:58,644
+328
+00:21:37,560 --> 00:21:39,592
 El hada de los dientes tiene
 uno bueno para esta noche.
 
-344
-00:21:58,645 --> 00:22:00,879
+329
+00:21:39,593 --> 00:21:41,827
 Parece asqueroso en la lengua.
 
-345
-00:22:00,880 --> 00:22:02,516
-Cariño, eso está feo.
+330
+00:21:41,828 --> 00:21:43,464
+CariÃ±o, eso estÃ¡ feo.
 
-346
-00:22:02,517 --> 00:22:05,354
-Vamos, lávate las manos.
+331
+00:21:43,465 --> 00:21:46,002
+Vamos, lÃ¡vate las manos.
 
-347
-00:22:15,798 --> 00:22:18,534
-¿Has terminado, cariño?
+332
+00:21:56,746 --> 00:21:59,182
+Â¿Has terminado, cariÃ±o?
 
-348
-00:22:22,638 --> 00:22:24,604
-Cepilla bien las
-difíciles de alcanzar.
+333
+00:22:03,586 --> 00:22:05,552
+Cepilla bien las difÃ­ciles de alcanzar.
 
-349
-00:22:24,605 --> 00:22:25,938
-Joanie.
+334
+00:22:05,553 --> 00:22:06,886
+Eh, Joanie.
 
-350
-00:22:25,939 --> 00:22:30,373
+335
+00:22:06,887 --> 00:22:11,021
 Lo siento, acabamos de
 volver del dentista.
 
-351
-00:22:33,909 --> 00:22:36,010
+336
+00:22:14,857 --> 00:22:16,958
 Soy Donna.
 
-352
-00:22:36,011 --> 00:22:38,012
+337
+00:22:16,959 --> 00:22:18,660
 Cameron.
 
-353
-00:22:41,385 --> 00:22:43,286
-- Oh, ¿te dolió?
+338
+00:22:22,333 --> 00:22:24,234
+- Oh, Â¿te doliÃ³?
 - No.
 
-354
-00:22:43,287 --> 00:22:45,119
+339
+00:22:24,235 --> 00:22:26,067
 No puede ser. Choca esos cinco.
 
-355
-00:22:45,120 --> 00:22:47,654
-Eres más que valiente, Dr. J.
+340
+00:22:26,068 --> 00:22:28,302
+Eres mÃ¡s que valiente, Dr. J.
 
-356
-00:22:47,955 --> 00:22:51,660
-Muy bien, señoritas, las veo
-en el partido del sábado.
+341
+00:22:28,903 --> 00:22:32,608
+Muy bien, seÃ±oritas, los veo
+en el partido del sÃ¡bado.
 
-357
-00:22:51,661 --> 00:22:56,568
+342
+00:22:32,609 --> 00:22:37,516
 Y Vicki va a traernos unos
-donuts caseros riquísimos.
+donuts caseros riquÃ­simos.
 
-358
-00:22:56,569 --> 00:22:58,305
+343
+00:22:37,517 --> 00:22:39,253
 Realmente buenos.
 
-359
-00:22:58,306 --> 00:22:59,975
+344
+00:22:39,254 --> 00:22:40,923
 Mantenga las rodillas altas, Dr. J.
 
-360
-00:22:59,976 --> 00:23:02,144
+345
+00:22:40,924 --> 00:22:43,092
 Gracias, Brian.
 
-361
-00:23:02,145 --> 00:23:04,680
-Entonces, ¿qué opinas?
+346
+00:22:43,093 --> 00:22:45,328
+Entonces, Â¿quÃ© opinas?
 
-362
-00:23:05,683 --> 00:23:08,787
-Mi nuevo despacho,
-mi propio despacho.
+347
+00:22:46,631 --> 00:22:49,735
+Mi nuevo despacho, mi propio despacho.
 
-363
-00:23:08,788 --> 00:23:11,489
-No está mal, ¿no?
+348
+00:22:49,736 --> 00:22:52,137
+No estÃ¡ mal, Â¿eh?
 
-364
-00:23:13,830 --> 00:23:16,031
-¿Estás bien?
+349
+00:22:54,778 --> 00:22:56,679
+Â¿EstÃ¡s bien?
 
-365
-00:23:17,534 --> 00:23:19,734
-El dentista se hizo largo.
+350
+00:22:58,482 --> 00:23:00,682
+El dentista se ha hecho largo.
 
-366
-00:23:19,735 --> 00:23:23,204
-Hablando de lo cual,
-deberíamos volver.
+351
+00:23:00,683 --> 00:23:04,452
+Hablando de lo cual, deberÃ­amos volver.
 
-367
-00:23:23,205 --> 00:23:24,805
-¿Estás lista para marchar, monito?
+352
+00:23:04,453 --> 00:23:05,753
+Â¿EstÃ¡s lista para marchar, monito?
 
-368
-00:23:24,806 --> 00:23:27,108
-- De acuerdo.
-- Adiós, papi.
+353
+00:23:05,754 --> 00:23:08,056
+- Vale, de acuerdo.
+- AdiÃ³s, papi.
 
-369
-00:23:27,109 --> 00:23:29,810
-- Adiós, te quiero.
+354
+00:23:08,057 --> 00:23:10,458
+- AdiÃ³s, te quiero.
 - Y yo a ti.
 
-370
-00:23:42,628 --> 00:23:44,630
-Mierda.
+355
+00:23:23,576 --> 00:23:25,278
+Amigo
 
-371
-00:23:45,698 --> 00:23:47,535
+356
+00:23:26,646 --> 00:23:28,483
 Ahora no necesito tu ayuda.
 
-372
-00:23:47,536 --> 00:23:50,205
-Necesito que sea lo que yo necesito,
-no lo que tú quieres que sea.
+357
+00:23:28,484 --> 00:23:31,038
+Mira, necesito que esto sea lo que yo
+necesito, no lo que tÃº quieres que sea.
 
-373
-00:23:50,206 --> 00:23:53,373
+358
+00:23:31,054 --> 00:23:34,321
 Necesito algo que ejecute programas
-PC IBM más rápido que un PC IBM.
+PC IBM mÃ¡s rÃ¡pido que un PC IBM.
 
-374
-00:23:53,374 --> 00:23:55,307
-¿Qué? Les dije que no
-miraría el código original.
+359
+00:23:34,322 --> 00:23:36,255
+Â¿QuÃ©? Les dije que no
+mirarÃ­a el cÃ³digo original.
 
-375
-00:23:55,308 --> 00:23:57,942
-Te dejaría hacerlo a ti si tuviéramos
+360
+00:23:36,256 --> 00:23:38,690
+Te dejarÃ­a hacerlo a ti si tuviÃ©ramos
 tiempo, pero no lo tenemos.
 
-376
-00:23:57,943 --> 00:24:00,310
+361
+00:23:38,691 --> 00:23:41,058
 Eso nos deja en una puerta
-que se está cerrando muy rápido.
+que se estÃ¡ cerrando muy rÃ¡pido.
 
-377
-00:24:00,311 --> 00:24:03,448
+362
+00:23:41,059 --> 00:23:44,396
 Una vez estemos dentro, podremos
 utilizar esas grandes ideas tuyas.
 
-378
-00:24:03,449 --> 00:24:05,283
-Sí, y si copio ese código,
-iré a la cárcel.
+363
+00:23:44,397 --> 00:23:46,231
+SÃ­, y si copio ese
+cÃ³digo, irÃ© a la cÃ¡rcel.
 
-379
-00:24:05,284 --> 00:24:06,717
+364
+00:23:46,232 --> 00:23:47,665
 IBM sabe que vas a mirarlo.
 
-380
-00:24:06,718 --> 00:24:09,621
-Sólo cambia tu BIOS lo suficiente
-para mantenerte fuera de problemas.
+365
+00:23:47,666 --> 00:23:50,569
+Solo cambia tu BIOS lo suficiente para
+mantenerte fuera de problemas.
 
-381
-00:24:09,622 --> 00:24:12,827
-Entonces, en un año, nuestro PC
-estará en un estante al lado del suyo.
+366
+00:23:50,570 --> 00:23:53,775
+Entonces, en un aÃ±o, nuestro PC
+estarÃ¡ en un estante al lado del suyo.
 
-382
-00:24:12,828 --> 00:24:16,266
-Así es como funciona. Venga,
+367
+00:23:53,776 --> 00:23:57,214
+AsÃ­ es como funciona. Venga,
 vamos a entrar en el juego.
 
-383
-00:24:16,267 --> 00:24:18,771
-Estoy trabajando, así que
-¿por qué no harás...
+368
+00:23:57,215 --> 00:23:59,919
+Estoy trabajando, asÃ­ que
+Â¿por quÃ© no vas a hacer
 
-384
-00:24:18,772 --> 00:24:23,307
+369
+00:23:59,920 --> 00:24:01,620
 lo que quiera que haga
 un gerente de productos?
 
-385
-00:24:23,308 --> 00:24:25,744
+370
+00:24:04,256 --> 00:24:06,392
 Dios.
 
-386
-00:24:30,151 --> 00:24:32,884
-Estaba riquísimo.
+371
+00:24:11,099 --> 00:24:13,532
+Estaba riquÃ­simo.
 
-387
-00:24:35,555 --> 00:24:37,358
-¿Puedo llevármelo? ¿Has terminado?
+372
+00:24:16,503 --> 00:24:18,306
+Â¿Puedo llevÃ¡rmelo? Â¿Has terminado?
 
-388
-00:24:37,359 --> 00:24:38,492
-Toma, no, déjame tomar eso.
+373
+00:24:18,307 --> 00:24:19,440
+Toma, no, dÃ©jame levantar eso.
 
-389
-00:24:38,493 --> 00:24:40,127
+374
+00:24:19,441 --> 00:24:21,075
 - No, no, lo tengo.
-- No, déjame cogerlo.
+- No, dÃ©jame levantarlo.
 
-390
-00:24:40,128 --> 00:24:42,730
+375
+00:24:21,076 --> 00:24:23,378
 Gracias.
 
-391
-00:24:44,166 --> 00:24:45,869
-Así que, ¿has vuelto a trabajar hoy?
+376
+00:24:25,114 --> 00:24:26,817
+AsÃ­ que, Â¿has vuelto a trabajar hoy?
 
-392
-00:24:45,870 --> 00:24:48,072
-No, no hasta luego de las tres.
+377
+00:24:26,818 --> 00:24:29,020
+No, no hasta despuÃ©s de las tres.
 
-393
-00:24:48,073 --> 00:24:50,475
+378
+00:24:29,021 --> 00:24:31,123
 Gracias a Dios que Hunt
 no se ha dado cuenta.
 
-394
-00:24:56,519 --> 00:25:00,189
-Mira, Cameron es una chica, ¿sí?
-Es una chica.
+379
+00:24:37,467 --> 00:24:41,137
+Mira, Cameron es una chica,
+Â¿vale? Es una chica.
 
-395
-00:25:00,190 --> 00:25:03,392
-Lo siento. No sé por qué
-no te lo conté.
+380
+00:24:41,138 --> 00:24:44,340
+Lo siento. No sÃ© por quÃ© no te lo contÃ©.
 
-396
-00:25:03,393 --> 00:25:05,664
+381
+00:24:44,341 --> 00:24:46,612
 Cameron Howe es una chica.
 
-397
-00:25:05,665 --> 00:25:08,134
-Joe la contrató. Él la impuso.
+382
+00:24:46,613 --> 00:24:49,082
+Joe la contratÃ³. Ã‰l la impuso.
 
-398
-00:25:08,135 --> 00:25:10,904
+383
+00:24:49,083 --> 00:24:51,852
 He dicho chica, pero es rara.
 
-399
-00:25:10,905 --> 00:25:12,473
-Sí que fue a Austin Tech, pero...
+384
+00:24:51,853 --> 00:24:53,421
+SÃ­ que fue a Austin Tech, pero...
 
-400
-00:25:12,474 --> 00:25:13,843
+385
+00:24:53,422 --> 00:24:54,791
 La he conocido hoy.
 
-401
-00:25:13,844 --> 00:25:17,046
-¿Y por qué no me lo habías dicho?
+386
+00:24:54,792 --> 00:24:57,994
+Â¿Y por quÃ© no me lo habÃ­as dicho?
 
-402
-00:25:17,047 --> 00:25:18,881
-¿Por qué no te lo había dicho?
+387
+00:24:57,995 --> 00:24:59,829
+Â¿Por quÃ© no te lo habÃ­a dicho?
 
-403
-00:25:18,882 --> 00:25:20,750
-No te preocupes, ¿sí?
+388
+00:24:59,830 --> 00:25:01,698
+Mira, no te preocupes, Â¿vale?
 
-404
-00:25:20,751 --> 00:25:23,857
-Sólo está escribiendo la BIOS y,
-después, bon voyage.
+389
+00:25:01,699 --> 00:25:04,805
+Solo estÃ¡ escribiendo la
+BIOS y, despuÃ©s, bon voyage.
 
-405
-00:25:23,858 --> 00:25:27,459
-Sí, bueno, esperemos que
-Joe esté en lo cierto.
+390
+00:25:04,806 --> 00:25:08,107
+SÃ­, bueno, esperemos que
+Joe estÃ© en lo cierto.
 
-406
-00:26:14,161 --> 00:26:17,997
-¿Qué?
+391
+00:25:55,109 --> 00:25:58,645
+Â¿QuÃ©?
 
-407
-00:26:41,664 --> 00:26:43,966
-Disculpe, señorita.
+392
+00:26:22,612 --> 00:26:24,614
+Disculpe, seÃ±orita.
 
-408
-00:26:45,003 --> 00:26:47,639
-Señorita, debemos hablar con usted.
+393
+00:26:25,951 --> 00:26:28,587
+SeÃ±orita, tenemos que hablar con usted.
 
-409
-00:26:47,640 --> 00:26:51,243
-¿Qué? Lo pagaré todo.
+394
+00:26:28,588 --> 00:26:31,891
+Â¿QuÃ©? Bueno, lo pagarÃ© todo.
 
-410
-00:26:52,179 --> 00:26:55,579
+395
+00:26:33,127 --> 00:26:36,227
 Tenemos una oferta de la
 que queremos hablarle.
 
-411
-00:26:57,648 --> 00:27:00,250
-- ¿Maylene?
-- ¿Sí?
+396
+00:26:38,596 --> 00:26:41,198
+- Â¿Maylene?
+- Â¿SÃ­?
 
-412
-00:27:00,251 --> 00:27:02,653
-¿Por qué no puedo hablar por
-teléfono con Carl Suberry?
+397
+00:26:41,199 --> 00:26:43,701
+Â¿Por quÃ© no puedo hablar por
+telÃ©fono con Carl Suberry?
 
-413
-00:27:02,654 --> 00:27:05,391
-- Déjeme intentarlo en su oficina.
-- No, ya intenté con su oficina,
+398
+00:26:43,702 --> 00:26:45,939
+- DÃ©jeme intentarlo en su oficina.
+- No, ya lo he intentado con su oficina,
 
-414
-00:27:05,392 --> 00:27:08,262
-y con su casa y ese teléfono
+399
+00:26:45,940 --> 00:26:49,210
+y con su casa y ese telÃ©fono
 que tiene en el coche.
 
-415
-00:27:08,263 --> 00:27:10,665
-¿Y con Jeff Martin de EDS?
+400
+00:26:49,211 --> 00:26:51,613
+Ya sabes, Â¿y con Jeff Martin de EDS?
 
-416
-00:27:10,666 --> 00:27:12,600
-Su oficina dice que sigue
-en una reunión.
+401
+00:26:51,614 --> 00:26:53,248
+Su oficina dice que
+sigue en una reuniÃ³n.
 
-417
-00:27:17,339 --> 00:27:19,140
-ClubSys también se retira.
+402
+00:26:58,287 --> 00:27:00,088
+ClubSys tambiÃ©n se retira.
 
-418
-00:27:19,141 --> 00:27:21,577
-Ponle al teléfono. Ponle ya.
+403
+00:27:00,089 --> 00:27:02,525
+Ponle al telÃ©fono. Ponle ya.
 
-419
-00:27:21,578 --> 00:27:23,947
-Sí, señor.
+404
+00:27:02,526 --> 00:27:04,895
+SÃ­, seÃ±or.
 
-420
-00:27:23,948 --> 00:27:26,517
-¿Qué demonios está pasando?
+405
+00:27:04,896 --> 00:27:07,165
+Â¿QuÃ© demonios estÃ¡ pasando?
 
-421
-00:27:28,188 --> 00:27:31,259
-De hecho... sí, señor.
+406
+00:27:09,136 --> 00:27:12,207
+De hecho... sÃ­, seÃ±or.
 
-422
-00:27:31,260 --> 00:27:34,494
+407
+00:27:12,208 --> 00:27:15,442
 - Esos son tres que nos dejan.
-- Turner, ¿qué haces?
+- Turner, Â¿quÃ© estÃ¡s haciendo?
 
-423
-00:27:34,495 --> 00:27:35,495
-¿Qué ocurre?
+408
+00:27:15,443 --> 00:27:19,484
+- Â¿QuÃ© ocurre? - Acabamos de
+perder a Granger, se va a IBM.
 
-424
-00:27:35,496 --> 00:27:38,836
-Acabamos de perder a Granger,
-se va a IBM.
-
-425
-00:27:39,102 --> 00:27:41,206
-Vuelve a ponerlo al teléfono.
+409
+00:27:20,050 --> 00:27:22,154
+Vuelve a ponerlo al telÃ©fono.
 Vuelve a ponerlo...
 
-426
-00:27:41,207 --> 00:27:43,508
-John, nos están invadiendo.
+410
+00:27:22,155 --> 00:27:24,156
+John, nos estÃ¡n invadiendo.
 
-427
-00:27:46,112 --> 00:27:48,747
-¿Es Jim? Jim.
+411
+00:27:27,060 --> 00:27:29,695
+Â¿Es Jim? Jim, Jim, Jim.
 
-428
-00:27:48,748 --> 00:27:50,517
-Jimmy. Hola, qué hay.
+412
+00:27:29,696 --> 00:27:31,665
+Jimmy. Hola, quÃ© hay.
 
-429
-00:27:50,518 --> 00:27:52,317
-Déjame volver contigo.
-Déjame volver contigo.
+413
+00:27:31,666 --> 00:27:33,265
+DÃ©jame volver contigo.
+DÃ©jame volver contigo.
 
-430
-00:27:52,318 --> 00:27:53,752
-Llevamos haciendo negocios 11 años.
+414
+00:27:33,266 --> 00:27:34,700
+Llevamos haciendo negocios 11 aÃ±os.
 
-431
-00:27:53,753 --> 00:27:56,524
-Odiaría verte salir pitando
+415
+00:27:34,701 --> 00:27:37,472
+OdiarÃ­a verte salir pitando
 hacia IBM. Vamos, Jim.
 
-432
-00:27:56,525 --> 00:27:59,831
-Están desinstalando todos los sistemas
+416
+00:27:37,473 --> 00:27:40,779
+EstÃ¡n desinstalando todos los sistemas
 de Cardif en Texas Communications.
 
-433
-00:27:59,832 --> 00:28:02,701
-Haz algo con eso, Gordon.
+417
+00:27:40,780 --> 00:27:43,649
+Bien, haz algo con eso, Gordon.
 
-434
-00:28:02,702 --> 00:28:04,874
+418
+00:27:43,650 --> 00:27:45,822
 Dios... vuelve a poner
-a Jim al teléfono.
+a Jim al telÃ©fono.
 
-435
-00:28:04,875 --> 00:28:07,277
-IBM está contra ofertándonos
+419
+00:27:45,823 --> 00:27:48,225
+IBM estÃ¡ contraofertÃ¡ndonos
 por 300 de los grandes.
 
-436
-00:28:07,278 --> 00:28:09,678
-- ¡Ponle al teléfono ahora!
-- Lo siento.
+420
+00:27:48,226 --> 00:27:50,626
+- Â¡Ponle al telÃ©fono ahora!
+- De acuerdo, lo siento.
 
-437
-00:28:09,679 --> 00:28:12,180
-¿Eres Bill? Hola, Bill, ¿cómo estás?
+421
+00:27:50,627 --> 00:27:53,128
+Â¿Eres Bill? Hola, Bill, Â¿cÃ³mo estÃ¡s?
 
-438
-00:28:12,181 --> 00:28:15,085
+422
+00:27:53,129 --> 00:27:56,033
 No, no, deja que le quite
 importancia, amigo. Vamos.
 
-439
-00:28:15,086 --> 00:28:15,838
+423
+00:27:56,034 --> 00:27:56,786
 Espera.
 
-440
-00:28:15,839 --> 00:28:18,756
+424
+00:27:56,787 --> 00:27:59,704
 Hemos perdido American Airlines,
 Texas Comm, ClubSys,
 
-441
-00:28:18,757 --> 00:28:21,061
-EDS, General Dynamics
-y otras siete más.
+425
+00:27:59,705 --> 00:28:02,009
+EDS, General Dynamics y otras siete mÃ¡s.
 
-442
-00:28:21,062 --> 00:28:23,564
-- Déjeme ayudar.
-- Llevas 10 días, por el amor de Dios.
+426
+00:28:02,010 --> 00:28:04,512
+- DÃ©jeme ayudar.
+- Llevas 10 dÃ­as, por el amor de Dios.
 
-443
-00:28:23,565 --> 00:28:24,730
+427
+00:28:04,513 --> 00:28:05,678
 Conozco el negocio.
 
-444
-00:28:24,731 --> 00:28:26,398
-Hijo, esto trata
-sobre las relaciones.
+428
+00:28:05,679 --> 00:28:07,346
+Hijo, esto trata sobre las relaciones.
 
-445
-00:28:26,399 --> 00:28:28,401
-Es algo que tú no entenderías.
+429
+00:28:07,347 --> 00:28:09,349
+Es algo que tÃº no entenderÃ­as.
 
-446
-00:28:28,402 --> 00:28:31,070
-Toma, habla con él.
-Quítate de mi vista.
+430
+00:28:09,350 --> 00:28:12,018
+Toma, habla con Ã©l. QuÃ­tate de mi vista.
 
-447
-00:28:31,071 --> 00:28:33,637
-Bill, sí.
+431
+00:28:12,019 --> 00:28:14,285
+Bill, sÃ­.
 
-448
-00:28:36,283 --> 00:28:40,610
+432
+00:28:18,797 --> 00:28:23,124
 Carl, vamos. Carl, que soy John.
 
-449
-00:28:40,611 --> 00:28:42,444
+433
+00:28:23,125 --> 00:28:24,958
 No me hagas esto.
 
-450
-00:28:42,445 --> 00:28:46,482
-Vamos, Carl. ¿Me vas a
+434
+00:28:24,959 --> 00:28:28,696
+Vamos, Carl. Â¿Me vas a
 hacer suplicar por esto?
 
-451
-00:28:48,316 --> 00:28:50,186
+435
+00:28:30,830 --> 00:28:32,700
 De acuerdo.
 
-452
-00:28:50,187 --> 00:28:53,388
-Si quieres abandonar
+436
+00:28:32,701 --> 00:28:35,902
+De acuerdo. Si quieres abandonar
 el barco y subirte al de IBM,
 
-453
-00:28:53,389 --> 00:28:55,524
-tú mismo.
+437
+00:28:35,903 --> 00:28:38,038
+tÃº mismo.
 
-454
-00:28:55,525 --> 00:28:57,962
-Pero recuerda que fui yo
-el que informatizó...
+438
+00:28:38,039 --> 00:28:40,476
+Pero recuerda que fui
+yo el que informatizÃ³
 
-455
-00:28:57,963 --> 00:29:00,065
-tu basura de compañía hace 15 años.
+439
+00:28:40,477 --> 00:28:42,579
+tu basura de compaÃ±Ã­a hace 15 aÃ±os.
 
-456
-00:29:00,066 --> 00:29:02,963
-¿Sí? ¡Sí, bueno,
-eras un receptor terrible...
+440
+00:28:42,580 --> 00:28:45,477
+Â¿SÃ­? Â¡SÃ­, bueno, eras
+un receptor terrible
 
-457
-00:29:02,964 --> 00:29:07,131
-cuyo culo estuvo chupando más
+441
+00:28:45,478 --> 00:28:49,345
+cuyo culo estuvo chupando mÃ¡s
 banquillo que corriendo, Carl!
 
-458
-00:29:13,470 --> 00:29:15,407
+442
+00:28:55,984 --> 00:28:57,921
 Carl dice que no.
 
-459
-00:29:15,408 --> 00:29:18,210
+443
+00:28:57,922 --> 00:29:00,424
 Entonces asumiendo
 que ADP sigue fuera...
 
-460
-00:29:20,044 --> 00:29:23,078
+444
+00:29:02,558 --> 00:29:05,592
 15 cuentas perdidas, de las
-cuales, las tres principales...
+cuales, las tres principales
 
-461
-00:29:23,079 --> 00:29:25,717
+445
+00:29:05,593 --> 00:29:08,231
 representan el 68 por ciento
-de nuestro núcleo de facturación.
+de nuestro nÃºcleo de facturaciÃ³n.
 
-462
-00:29:25,718 --> 00:29:27,853
+446
+00:29:08,232 --> 00:29:10,367
 Dios.
 
-463
-00:29:27,854 --> 00:29:31,325
-Entonces, ¿con qué severidad
-nos van a afectar estos...
+447
+00:29:10,368 --> 00:29:13,839
+Entonces, Â¿con quÃ© severidad
+nos van a afectar estos
 
-464
-00:29:31,326 --> 00:29:33,961
-contratiempos al programa PC
-en términos de...?
+448
+00:29:13,840 --> 00:29:16,475
+contratiempos al programa
+PC en tÃ©rminos de...?
 
-465
-00:29:33,962 --> 00:29:37,896
+449
+00:29:16,476 --> 00:29:20,410
 Sin estos 15 clientes, y dada la actual
-sobrecarga de personal y su tamaño,
+sobrecarga de personal y su tamaÃ±o,
 
-466
-00:29:37,897 --> 00:29:40,600
-Cardiff Electric será capaz
-de mantenerse operativa...
+450
+00:29:20,411 --> 00:29:23,114
+Cardiff Electric serÃ¡ capaz
+de mantenerse operativa
 
-467
-00:29:40,601 --> 00:29:43,636
+451
+00:29:23,115 --> 00:29:25,850
 durante poco menos de dos meses.
 
-468
-00:29:44,939 --> 00:29:46,672
-¿Dos meses?
+452
+00:29:27,453 --> 00:29:29,186
+Â¿Dos meses?
 
-469
-00:29:46,673 --> 00:29:48,340
-¿Has oído eso, Gordon?
+453
+00:29:29,187 --> 00:29:30,854
+Â¿Has oÃ­do eso, Gordon?
 
-470
-00:29:48,341 --> 00:29:50,909
-¿Dos meses?
+454
+00:29:30,855 --> 00:29:33,423
+Â¿Dos meses?
 
-471
-00:29:50,910 --> 00:29:53,745
-Por lo que dice Alan,
-y quiero ser claro en esto...
+455
+00:29:33,424 --> 00:29:36,259
+Por lo que dice Alan, y
+quiero ser claro en esto...
 
-472
-00:29:53,746 --> 00:29:57,549
-IBM nos acaba de
-rajar las gargantas...
+456
+00:29:36,260 --> 00:29:40,063
+IBM nos acaba de rajar las gargantas
 
-473
-00:29:57,550 --> 00:30:00,522
-y nos ha dejado desangrándonos como
+457
+00:29:40,064 --> 00:29:43,036
+y nos ha dejado desangrÃ¡ndonos como
 un cerdo colgado de un gancho,
 
-474
-00:30:00,523 --> 00:30:03,895
-y la próxima semana, la mitad
-de esa gente de ahí fuera...
+458
+00:29:43,037 --> 00:29:46,409
+y la prÃ³xima semana, la mitad
+de esa gente de ahÃ­ fuera
 
-475
-00:30:03,896 --> 00:30:06,232
-se va a quedar sin trabajo,
-en la calle,
+459
+00:29:46,410 --> 00:29:48,746
+se va a quedar sin trabajo, en la calle,
 
-476
-00:30:06,233 --> 00:30:08,536
-por tu computador personal.
+460
+00:29:48,747 --> 00:29:51,050
+por tu ordenador personal.
 
-477
-00:30:08,537 --> 00:30:11,074
-Y sin embargo, sabías
-que esto podía ocurrir.
+461
+00:29:51,051 --> 00:29:53,588
+Y sin embargo, sabÃ­as
+que esto podÃ­a ocurrir.
 
-478
-00:30:11,075 --> 00:30:13,477
+462
+00:29:53,589 --> 00:29:55,691
 Es todo parte del plan.
 
-479
-00:30:15,078 --> 00:30:17,839
+463
+00:29:57,592 --> 00:30:00,053
 Dime que tienes un plan, Joe.
 
-480
-00:30:25,951 --> 00:30:28,820
-Sólo estabas fingiendo.
+464
+00:30:08,465 --> 00:30:11,434
+Solo estabas fingiendo.
 
-481
-00:30:28,821 --> 00:30:30,462
-Eres como uno de tipos
-que va por ahí...
+465
+00:30:11,435 --> 00:30:12,976
+Eres como uno de esos
+tipos que va por ahÃ­
 
-482
-00:30:30,463 --> 00:30:32,690
-y lee "El guardián entre el centeno"
-demasiadas veces...
+466
+00:30:12,977 --> 00:30:14,504
+y lee "El guardiÃ¡n entre
+el centeno" demasiadas veces
 
-483
-00:30:32,691 --> 00:30:34,255
-y entonces decide
-disparar a un Beatle.
+467
+00:30:14,505 --> 00:30:16,469
+y entonces decide disparar a un Beatle.
 
-484
-00:30:34,256 --> 00:30:36,024
-Sólo que en esta historia,
+468
+00:30:16,470 --> 00:30:18,438
+Solo que en esta historia,
 yo soy el Beatle.
 
-485
-00:30:36,025 --> 00:30:38,159
-Porque leíste mi
-artículo en una revista.
+469
+00:30:18,439 --> 00:30:20,673
+Porque leÃ­ste mi
+artÃ­culo en una revista.
 
-486
-00:30:38,160 --> 00:30:39,993
-Leíste mi artículo
-y preparaste un plan...
+470
+00:30:20,674 --> 00:30:22,507
+LeÃ­ste mi artÃ­culo y preparaste un plan
 
-487
-00:30:39,994 --> 00:30:42,728
-y en ningún momento te
+471
+00:30:22,508 --> 00:30:25,242
+y en ningÃºn momento te
 paraste a pensar algo como...
 
-488
-00:30:42,729 --> 00:30:47,437
-¿Simplemente recitaste tus palabras
-mágicas con una gran y sucia sonrisa?
+472
+00:30:25,243 --> 00:30:29,651
+Â¿Simplemente recitaste tus palabras
+mÃ¡gicas con una gran y sucia sonrisa?
 
-489
-00:30:59,247 --> 00:31:01,916
-¿Dónde está?
+473
+00:30:41,761 --> 00:30:44,430
+Â¿DÃ³nde estÃ¡?
 
-490
-00:31:01,917 --> 00:31:04,254
-Vamos, ¿dónde está?
+474
+00:30:44,431 --> 00:30:46,468
+Vamos, Â¿dÃ³nde estÃ¡?
 
-491
-00:31:12,226 --> 00:31:14,525
-¿Joe?
+475
+00:30:54,740 --> 00:30:56,739
+Â¿Joe?
 
-492
-00:31:18,197 --> 00:31:19,866
-¿Dónde está ella?
+476
+00:31:00,711 --> 00:31:02,380
+Â¿DÃ³nde estÃ¡ ella?
 
-493
-00:31:19,867 --> 00:31:22,634
+477
+00:31:02,381 --> 00:31:04,848
 La BIOS.
 
-494
-00:31:23,167 --> 00:31:25,733
-¿Qué?
+478
+00:31:05,681 --> 00:31:07,947
+Â¿QuÃ©?
 
-495
-00:31:27,403 --> 00:31:30,072
-¿Dónde está la carpeta, Joe?
+479
+00:31:09,917 --> 00:31:12,286
+Â¿DÃ³nde estÃ¡ la carpeta, Joe?
 
-496
-00:31:31,508 --> 00:31:34,010
+480
+00:31:14,022 --> 00:31:16,524
 Por favor, dime que
 no le diste la carpeta.
 
-497
-00:31:34,011 --> 00:31:36,949
-El código en ensamblador,
+481
+00:31:16,525 --> 00:31:19,763
+El cÃ³digo en ensamblador,
 la BIOS de IBM.
 
-498
-00:31:36,950 --> 00:31:39,052
-¡Mierda, querías que se
+482
+00:31:19,764 --> 00:31:21,566
+Â¡Mierda, querÃ­as que se
 pusiera otra vez en marcha!
 
-499
-00:31:39,053 --> 00:31:40,453
-¡No me lo encasquetes a mí!
+483
+00:31:21,567 --> 00:31:22,967
+Â¡No me lo encasquetes a mÃ­!
 
-500
-00:31:40,454 --> 00:31:42,822
-¡Básicamente me pediste
-que se lo diera!
+484
+00:31:22,968 --> 00:31:25,336
+Â¡BÃ¡sicamente me pediste que se lo diera!
 
-501
-00:31:42,823 --> 00:31:45,223
-Vamos a ir a la cárcel.
+485
+00:31:25,337 --> 00:31:27,737
+Vamos a ir a la cÃ¡rcel.
 
-502
-00:31:45,224 --> 00:31:48,058
-No vamos a ir a la cárcel.
+486
+00:31:27,738 --> 00:31:30,572
+No vamos a ir a la cÃ¡rcel.
 Siempre hay otra jugada.
 
-503
-00:31:48,059 --> 00:31:50,861
-La había. Y era no darle la carpeta.
+487
+00:31:30,573 --> 00:31:33,475
+La habÃ­a. Y era no darle la carpeta.
 
-504
-00:31:50,862 --> 00:31:53,033
-Quizá no se haya ido.
-Quizá sólo se haya distanciado.
+488
+00:31:33,476 --> 00:31:35,547
+QuizÃ¡ no se haya ido. QuizÃ¡
+solo se haya distanciado.
 
-505
-00:31:53,034 --> 00:31:55,735
-No está aquí. Y estoy seguro
-que no está en su terminal.
+489
+00:31:35,548 --> 00:31:38,249
+Mira, no estÃ¡ aquÃ­. Y estoy seguro
+de que no estÃ¡ en su terminal.
 
-506
-00:31:55,736 --> 00:31:58,569
+490
+00:31:38,250 --> 00:31:41,083
 Y como no sabemos absolutamente
 nada de esta chica,
 
-507
-00:31:58,570 --> 00:32:01,774
-a menos que esté en el baño,
-estamos...
+491
+00:31:41,084 --> 00:31:43,988
+a menos que estÃ© en el baÃ±o, estamos...
 
-508
-00:32:06,477 --> 00:32:09,408
+492
+00:31:48,991 --> 00:31:51,922
 Mira esto.
 
-509
-00:32:09,409 --> 00:32:11,941
+493
+00:31:51,923 --> 00:31:54,155
 La forma en la que ataja el...
 
-510
-00:32:14,010 --> 00:32:16,243
-Qué desastre.
+494
+00:31:56,524 --> 00:31:58,457
+QuÃ© desastre.
 
-511
-00:32:18,912 --> 00:32:22,684
+495
+00:32:01,426 --> 00:32:04,898
 No. No.
 
-512
-00:32:24,318 --> 00:32:26,848
+496
+00:32:06,832 --> 00:32:09,062
 No, es brillante.
 
-513
-00:32:28,684 --> 00:32:31,219
+497
+00:32:11,198 --> 00:32:13,433
 Es brillante.
 
-514
-00:33:23,805 --> 00:33:25,572
-Es un sistema de cassette.
+498
+00:33:06,319 --> 00:33:08,086
+Eso es un sistema de cassette.
 
-515
-00:33:25,573 --> 00:33:27,573
+499
+00:33:08,087 --> 00:33:10,087
 Nuevo en el mercado.
 
-516
-00:33:27,574 --> 00:33:29,754
-Podría rebajárselo un poco más.
+500
+00:33:10,088 --> 00:33:11,968
+PodrÃ­a rebajÃ¡rselo un poco mÃ¡s.
 
-517
-00:33:30,511 --> 00:33:33,178
-Están marcados para retirarlos,
-¿sabe?
+501
+00:33:13,025 --> 00:33:15,692
+EstÃ¡n marcados para retirarlos, Â¿sabe?
 
-518
-00:33:33,179 --> 00:33:35,705
-No pretendo atribuirlo
-a la deflación,
+502
+00:33:15,693 --> 00:33:17,919
+Quiero decir, no pretendo
+atribuirlo a la deflaciÃ³n,
 
-519
-00:33:36,148 --> 00:33:38,617
-sólo que no veo que
-se venda ningún producto.
+503
+00:33:18,662 --> 00:33:21,131
+solo que no veo que se
+venda ningÃºn producto.
 
-520
-00:33:38,618 --> 00:33:40,618
-Pero ya sabe cómo es eso, ¿no?
+504
+00:33:21,132 --> 00:33:23,132
+Pero ya sabe cÃ³mo es eso, Â¿no?
 
-521
-00:33:40,619 --> 00:33:42,753
+505
+00:33:23,133 --> 00:33:25,267
 Usted es vendedor.
 
-522
-00:33:42,754 --> 00:33:44,355
-Lo sabía.
+506
+00:33:25,268 --> 00:33:26,869
+Lo sabÃ­a.
 
-523
-00:33:44,356 --> 00:33:47,025
-Dios los cría...
+507
+00:33:26,870 --> 00:33:29,539
+Dios los crÃ­a...
 
-524
-00:33:47,026 --> 00:33:49,395
-Así que cierras el negocio.
+508
+00:33:29,540 --> 00:33:31,909
+AsÃ­ que cierras el negocio.
 
-525
-00:33:49,396 --> 00:33:53,030
-Sí, no puedo recordar
-mi último cliente.
+509
+00:33:31,910 --> 00:33:35,544
+SÃ­, no puedo recordar mi Ãºltimo cliente.
 
-526
-00:33:53,031 --> 00:33:57,270
-Yo soy un cliente.
-Véndeme un estéreo.
+510
+00:33:35,545 --> 00:33:39,784
+Yo soy un cliente. VÃ©ndeme un estÃ©reo.
 
-527
-00:33:57,271 --> 00:33:59,004
-Bien.
+511
+00:33:39,785 --> 00:33:41,518
+Ok.
 
-528
-00:33:59,005 --> 00:34:02,471
+512
+00:33:41,519 --> 00:33:44,985
 Ese es el MRF-1080. Verdadero sistema
-de referencia. Bobina móvil...
+de referencia. Bobina mÃ³vil...
 
-529
-00:34:02,472 --> 00:34:04,105
-¿Cuál es tu problema?
+513
+00:33:44,986 --> 00:33:46,619
+Â¿CuÃ¡l es tu problema?
 
-530
-00:34:04,106 --> 00:34:06,742
-- ¿Perdone?
-- ¿Qué hiciste mal?
+514
+00:33:46,620 --> 00:33:49,256
+- Â¿Perdone?
+- Â¿QuÃ© hiciste mal?
 
-531
-00:34:06,743 --> 00:34:09,545
-¿Por qué va a cerrar esta tienda?
+515
+00:33:49,257 --> 00:33:52,059
+Â¿Por quÃ© va a cerrar esta tienda?
 
-532
-00:34:09,546 --> 00:34:11,413
-Debe haber una razón.
-Quiero saber cuál es.
+516
+00:33:52,060 --> 00:33:53,927
+Debe haber una razÃ³n.
+Quiero saber cuÃ¡l es.
 
-533
-00:34:11,414 --> 00:34:13,550
-Ni idea. La
+517
+00:33:53,928 --> 00:33:56,064
+Ni idea. Quiero decir, la
 calidad de sonido es genial.
 
-534
-00:34:13,551 --> 00:34:14,751
+518
+00:33:56,065 --> 00:33:57,265
 La gente no quiere invert...
 
-535
-00:34:14,752 --> 00:34:16,987
+519
+00:33:57,266 --> 00:33:59,501
 Simplemente no lo viste venir.
 
-536
-00:34:16,988 --> 00:34:20,926
-Mire, señor, no sé de qué
-va todo esto pero...
+520
+00:33:59,502 --> 00:34:03,440
+Mire, seÃ±or, no sÃ© de
+quÃ© va todo esto pero...
 
-537
-00:34:20,927 --> 00:34:23,365
-No haga eso.
+521
+00:34:03,441 --> 00:34:05,879
+Eh, no haga eso.
 
-538
-00:34:23,366 --> 00:34:26,403
-Señor, no... si lo toca,
-lo compra, ¿sí?
+522
+00:34:05,880 --> 00:34:09,017
+SeÃ±or, no... si lo toca,
+lo compra, Â¿de acuerdo?
 
-539
-00:34:26,404 --> 00:34:28,503
-- ¡Hará estallar los altavoces!
-- ¿Ese es tu trabajo?
+523
+00:34:09,018 --> 00:34:11,017
+- Â¡Va a hacer estallar los altavoces!
+- Â¿Ese es tu trabajo?
 
-540
-00:34:28,504 --> 00:34:29,284
-¡Vamos!
+524
+00:34:11,018 --> 00:34:11,798
+Â¡Vamos!
 
-541
-00:34:29,285 --> 00:34:32,310
+525
+00:34:11,799 --> 00:34:14,824
 Si ni siquiera puedes verlo,
-¿por qué sigues aquí?
+Â¿por quÃ© sigues aquÃ­?
 
-542
-00:34:32,311 --> 00:34:33,978
-Voy a llamar a la policía.
+526
+00:34:14,825 --> 00:34:16,192
+Voy a llamar a la policÃ­a.
 
-543
-00:34:51,809 --> 00:34:54,245
-Sólo llevará un minuto.
+527
+00:34:35,898 --> 00:34:38,034
+Solo llevarÃ¡ un minuto.
 
-544
-00:34:56,452 --> 00:34:58,553
+528
+00:34:41,476 --> 00:34:42,807
 Acogedor.
 
-545
-00:34:58,554 --> 00:35:00,989
-¿Qué es lo que quieres?
+529
+00:34:42,808 --> 00:34:44,943
+Â¿QuÃ© es lo que quieres?
 
-546
-00:35:02,962 --> 00:35:04,864
+530
+00:34:47,216 --> 00:34:49,118
 Es una pena, pero no me puedo quedar.
 
-547
-00:35:04,865 --> 00:35:06,932
-Debo tomar un vuelo nocturno
-a las 9:30.
+531
+00:34:49,119 --> 00:34:51,186
+Tengo que coger un vuelo
+nocturno a las 9:30.
 
-548
-00:35:06,933 --> 00:35:10,203
-Pero quería ocuparme de una
-última cosa antes de marcharnos.
+532
+00:34:51,187 --> 00:34:54,457
+Pero querÃ­a ocuparme de una
+Ãºltima cosa antes de marcharnos.
 
-549
-00:35:10,204 --> 00:35:13,872
+533
+00:34:54,458 --> 00:34:58,126
 Cuando te largaste, nunca
 diste un aviso formal.
 
-550
-00:35:13,873 --> 00:35:16,676
+534
+00:34:58,127 --> 00:35:00,930
 Salarios atrasados.
 
-551
-00:35:16,677 --> 00:35:19,709
-Tenías unos días de vacaciones en el
+535
+00:35:00,931 --> 00:35:03,963
+TenÃ­as unos dÃ­as de vacaciones en el
 sistema que no llegaste a utilizar.
 
-552
-00:35:19,710 --> 00:35:22,913
-615,38 dólares.
+536
+00:35:03,964 --> 00:35:07,167
+615,38 dÃ³lares.
 
-553
-00:35:22,914 --> 00:35:24,849
-Aquí tienes.
+537
+00:35:07,168 --> 00:35:09,103
+AquÃ­ tienes.
 
-554
-00:35:24,850 --> 00:35:28,217
-615,38 dólares.
+538
+00:35:09,104 --> 00:35:12,471
+615,38 dÃ³lares.
 
-555
-00:35:28,218 --> 00:35:31,788
-Provoqué un daño al datacenter
-valorado en dos millones de dólares.
+539
+00:35:12,472 --> 00:35:16,042
+ProvoquÃ© un daÃ±o al datacenter valorado
+en dos millones de dÃ³lares.
 
-556
-00:35:31,789 --> 00:35:35,356
-Sí, bueno.
-Tras reclamarlo al seguro...
+540
+00:35:16,043 --> 00:35:19,610
+SÃ­, bueno. Tras reclamarlo al seguro
 
-557
-00:35:35,357 --> 00:35:37,717
-también acabamos ganando
-más dinero con ese asunto.
+541
+00:35:19,611 --> 00:35:21,671
+tambiÃ©n acabamos ganando
+mÃ¡s dinero con ese asunto.
 
-558
-00:35:39,828 --> 00:35:43,894
+542
+00:35:24,082 --> 00:35:28,148
 Considera tu archivo de
 empleado de IBM cerrado.
 
-559
-00:35:43,895 --> 00:35:46,815
+543
+00:35:28,149 --> 00:35:30,769
 Eso es, a menos que vuelvas con
-nosotros esta noche en el avión.
+nosotros esta noche en el aviÃ³n.
 
-560
-00:35:48,063 --> 00:35:51,931
+544
+00:35:32,317 --> 00:35:36,185
 Incluso te hemos sacado
 un billete, por si acaso.
 
-561
-00:35:51,932 --> 00:35:54,967
+545
+00:35:36,186 --> 00:35:39,221
 En clase business, pasillo.
 
-562
-00:35:54,968 --> 00:35:56,636
+546
+00:35:39,222 --> 00:35:40,890
 Muy bonito.
 
-563
-00:35:56,637 --> 00:35:59,938
+547
+00:35:40,891 --> 00:35:43,892
 Me gusta esto.
 
-564
-00:36:01,105 --> 00:36:03,941
-Le prometí a tu viejo
-que te daría una oportunidad.
+548
+00:35:45,359 --> 00:35:47,895
+Bueno, le prometÃ­ a tu viejo
+que te darÃ­a una oportunidad.
 
-565
-00:36:06,914 --> 00:36:08,648
-Diría que estará decepcionado,
+549
+00:35:51,168 --> 00:35:52,902
+DirÃ­a que estarÃ¡ decepcionado,
 
-566
-00:36:08,649 --> 00:36:11,849
-pero ya está bastante decepcionado.
+550
+00:35:52,903 --> 00:35:55,803
+pero ya estÃ¡ bastante decepcionado.
 
-567
-00:36:20,963 --> 00:36:23,829
-Posiblemente te guste
-estar aquí ahora,
+551
+00:36:05,217 --> 00:36:08,083
+Posiblemente te guste estar aquÃ­ ahora,
 
-568
-00:36:23,830 --> 00:36:25,430
+552
+00:36:08,084 --> 00:36:09,684
 pero...
 
-569
-00:36:25,431 --> 00:36:28,731
-veamos qué ocurre
-cuando averigüen...
+553
+00:36:09,685 --> 00:36:12,985
+veamos quÃ© ocurre cuando averigÃ¼en
 
-570
-00:36:28,732 --> 00:36:32,069
-qué eres realmente.
+554
+00:36:12,986 --> 00:36:16,023
+quÃ© eres realmente.
 
-571
-00:37:12,737 --> 00:37:15,571
-¿Dónde está?
+555
+00:36:57,391 --> 00:36:59,925
+Â¿DÃ³nde estÃ¡?
 
-572
-00:37:15,672 --> 00:37:18,875
-- ¿Dónde está el qué?
+556
+00:36:59,926 --> 00:37:03,129
+- Â¿DÃ³nde estÃ¡ el quÃ©?
 - La carpeta, la BIOS.
 
-573
-00:37:18,876 --> 00:37:20,879
-¿Se lo has dado a IBM?
+557
+00:37:03,130 --> 00:37:05,133
+Â¿Se lo has dado a IBM?
 
-574
-00:37:20,880 --> 00:37:23,380
-¿Para qué estoy realmente aquí? ¿No?
+558
+00:37:05,134 --> 00:37:07,634
+Â¿Para quÃ© estoy realmente aquÃ­? Â¿Eh?
 
-575
-00:37:23,381 --> 00:37:26,316
+559
+00:37:07,635 --> 00:37:10,570
 Para cuatro o cinco semanas, el
-tiempo que me lleve escribirla, ¿no?
+tiempo que me lleve escribirla, Â¿no?
 
-576
-00:37:26,317 --> 00:37:28,484
-¿Y luego qué? ¿Estoy fuera?
+560
+00:37:10,571 --> 00:37:12,738
+Â¿Y luego quÃ©? Â¿Estoy fuera?
 
-577
-00:37:28,485 --> 00:37:31,482
-¿Qué? No.
+561
+00:37:12,739 --> 00:37:15,736
+Â¿QuÃ©? No.
 
-578
-00:37:31,483 --> 00:37:35,352
-No, no, ¿quién te dijo eso?
+562
+00:37:15,737 --> 00:37:19,306
+No, no, Â¿quiÃ©n te dijo eso?
 
-579
-00:37:38,555 --> 00:37:40,423
+563
+00:37:22,809 --> 00:37:24,677
 Portabilidad.
 
-580
-00:37:40,424 --> 00:37:43,861
+564
+00:37:24,678 --> 00:37:27,815
 La gente necesita poder
 llevarlo a todas partes.
 
-581
-00:37:44,288 --> 00:37:46,432
-Tendrá un asa.
+565
+00:37:28,542 --> 00:37:30,686
+Va a tener una manija.
 
-582
-00:37:46,433 --> 00:37:49,036
-¿Un asa?
+566
+00:37:30,687 --> 00:37:33,290
+Â¿Una manija?
 
-583
-00:37:49,037 --> 00:37:52,037
-Dios mío, Joe. Debo reconocértelo.
+567
+00:37:33,291 --> 00:37:36,291
+Dios mÃ­o, Joe. Tengo que reconocÃ©rtelo.
 
-584
-00:37:52,038 --> 00:37:53,471
+568
+00:37:36,292 --> 00:37:37,725
 Esto lo cambia todo.
 
-585
-00:37:53,472 --> 00:37:56,640
-Un asa. Qué revolucionaria idea.
+569
+00:37:37,726 --> 00:37:40,994
+Una manija. QuÃ© revolucionaria idea.
 
-586
-00:37:56,641 --> 00:37:59,174
+570
+00:37:40,995 --> 00:37:43,428
 Entonces sigue siendo una copia
 de mierda de una caja aburrida.
 
-587
-00:37:59,175 --> 00:38:01,109
+571
+00:37:43,429 --> 00:37:45,363
 Joe, le ha dado la carpeta a IBM.
 
-588
-00:38:01,110 --> 00:38:02,745
-¿Qué hiciste qué?
+572
+00:37:45,364 --> 00:37:47,199
+Â¿Que has hecho quÃ©?
 
-589
-00:38:02,746 --> 00:38:04,648
+573
+00:37:47,200 --> 00:37:49,102
 No he dicho que le haya
 dado la carpeta a IBM.
 
-590
-00:38:04,649 --> 00:38:06,416
-- Entonces, ¿dónde está?
-- ¿Qué importa eso?
+574
+00:37:49,103 --> 00:37:50,670
+- Entonces, Â¿dÃ³nde estÃ¡?
+- Â¿QuÃ© importa eso?
 
-591
-00:38:06,417 --> 00:38:08,750
+575
+00:37:50,671 --> 00:37:52,704
 Me ibas a despedir tras terminar
 la BIOS de todas formas.
 
-592
-00:38:08,751 --> 00:38:12,016
-- Sí, ¿y nos culpas?
-- Así que es cierto.
+576
+00:37:52,705 --> 00:37:56,270
+- SÃ­, Â¿y nos culpas?
+- AsÃ­ que es cierto.
 
-593
-00:38:12,017 --> 00:38:13,250
-Fantástico.
+577
+00:37:56,271 --> 00:37:58,104
+FantÃ¡stico.
 
-594
-00:38:13,251 --> 00:38:16,217
-No se preocupen, IBM me dará un trabajo
-con el triple de salario así que...
+578
+00:37:58,105 --> 00:38:00,471
+No se preocupen, IBM me darÃ¡ un trabajo
+con el triple de salario asÃ­ que...
 
-595
-00:38:16,218 --> 00:38:18,852
+579
+00:38:00,472 --> 00:38:03,106
 Excelente, excelente. Es un
 lugar genial para trabajar.
 
-596
-00:38:18,853 --> 00:38:20,453
-Podría escribirte una recomendación.
+580
+00:38:03,107 --> 00:38:04,707
+PodrÃ­a escribirte una recomendaciÃ³n.
 
-597
-00:38:20,454 --> 00:38:21,753
-- ¿Lo harías?
+581
+00:38:04,708 --> 00:38:06,007
+- Â¿Lo harÃ­as?
 - Eso es.
 
-598
-00:38:21,754 --> 00:38:23,553
-Eso es, tú trabajabas para IBM.
+582
+00:38:06,008 --> 00:38:07,807
+Eso es, tÃº trabajabas para IBM.
 
-599
-00:38:23,554 --> 00:38:25,053
-Eso fue antes que vinieses...
+583
+00:38:07,808 --> 00:38:09,307
+Eso fue antes de que vinieses aquÃ­
 
-600
-00:38:25,054 --> 00:38:27,935
+584
+00:38:09,308 --> 00:38:11,889
 y arruinases la vida de muchas
-personas y a la compañía entera.
+personas y a la compaÃ±Ã­a entera.
 
-601
-00:38:30,722 --> 00:38:32,954
-Antes de mí, te estabas emborrachando,
-no construyendo,
+585
+00:38:14,976 --> 00:38:17,208
+Antes de mÃ­, te estabas
+emborrachando, no construyendo,
 
-602
-00:38:32,955 --> 00:38:36,791
+586
+00:38:17,209 --> 00:38:20,745
 y tus pelotas estaban en una caja,
 en la mesita de noche de tu mujer.
 
-603
-00:38:39,391 --> 00:38:41,291
-¡Déjalo, hombre!
+587
+00:38:23,645 --> 00:38:25,245
+Â¡DÃ©jalo, hombre!
 
-604
-00:38:48,600 --> 00:38:50,800
+588
+00:38:32,854 --> 00:38:34,754
 Mierda.
 
-605
-00:38:59,572 --> 00:39:02,305
-Tenía nueve años.
+589
+00:38:43,826 --> 00:38:46,259
+TenÃ­a nueve aÃ±os.
 
-606
-00:39:03,407 --> 00:39:06,041
-Había algunos chicos en
-mi escuela que solían...
+590
+00:38:47,661 --> 00:38:49,995
+HabÃ­a algunos chicos en
+mi escuela que solÃ­an...
 
-607
-00:39:07,645 --> 00:39:09,879
+591
+00:38:51,899 --> 00:38:53,833
 perseguirme.
 
-608
-00:39:10,177 --> 00:39:13,721
-No me importaban los
-New York Giants como a ellos.
+592
+00:38:54,431 --> 00:38:57,975
+No me importaban los New
+York Giants como a ellos.
 
-609
-00:39:13,722 --> 00:39:15,523
+593
+00:38:57,976 --> 00:38:59,777
 Me importaba el Sputnik.
 
-610
-00:39:15,524 --> 00:39:18,825
+594
+00:38:59,778 --> 00:39:02,779
 Estaba loco por ello. Me apasionaba.
 
-611
-00:39:19,729 --> 00:39:22,895
-Nadie me dijo que los adultos...
+595
+00:39:03,983 --> 00:39:07,149
+Nadie me dijo que los adultos
 
-612
-00:39:22,896 --> 00:39:24,998
+596
+00:39:07,150 --> 00:39:09,252
 tuviesen que estar avergonzados
 de esos sentimientos.
 
-613
-00:39:24,999 --> 00:39:29,836
-Aprendí esa lección la noche
-que los Colts ganaron a los Giants.
+597
+00:39:09,253 --> 00:39:13,790
+AprendÃ­ esa lecciÃ³n la noche que
+los Colts ganaron a los Giants.
 
-614
-00:39:30,905 --> 00:39:33,743
-El campeonato del 58,
-el mejor partido de la historia,
+598
+00:39:15,159 --> 00:39:17,997
+El campeonato del 58, el
+mejor partido de la historia,
 
-615
-00:39:33,744 --> 00:39:35,610
+599
+00:39:17,998 --> 00:39:19,864
 y ni siquiera vi un poco.
 
-616
-00:39:35,611 --> 00:39:38,511
+600
+00:39:19,865 --> 00:39:22,765
 Estaba enchufado a unas
-máquinas en el St. Peter.
+mÃ¡quinas en el St. Peter.
 
-617
-00:39:38,512 --> 00:39:42,617
-A día de hoy, no les culpo.
+601
+00:39:22,766 --> 00:39:26,871
+A dÃ­a de hoy, no les culpo.
 
-618
-00:39:42,618 --> 00:39:45,786
+602
+00:39:26,872 --> 00:39:29,740
 No creo que quisieran
 tirarme del tejado.
 
-619
-00:39:49,024 --> 00:39:52,859
-Luego de IBM, recorrí el país...
+603
+00:39:33,278 --> 00:39:37,113
+DespuÃ©s de IBM, recorrÃ­ el paÃ­s
 
-620
-00:39:52,860 --> 00:39:55,395
+604
+00:39:37,114 --> 00:39:39,649
 buscando respuestas.
 
-621
-00:39:55,396 --> 00:39:59,633
-Leí tu artículo y no pude
+605
+00:39:39,650 --> 00:39:43,887
+LeÃ­ tu artÃ­culo y no pude
 dejar de pensar en ello.
 
-622
-00:39:59,634 --> 00:40:03,338
+606
+00:39:43,888 --> 00:39:47,592
 Arquitectura abierta, esa idea.
 
-623
-00:40:03,339 --> 00:40:05,441
+607
+00:39:47,593 --> 00:39:49,695
 Como una forma de vida.
 
-624
-00:40:05,442 --> 00:40:08,710
-Me mantenía despierto por las noches.
-Me convirtió en aquel niño de nuevo,
+608
+00:39:49,696 --> 00:39:52,964
+Me mantenÃ­a despierto por las noches.
+Me convirtiÃ³ en aquel niÃ±o de nuevo,
 
-625
-00:40:08,711 --> 00:40:10,513
-y te seguí la pista hasta COMDEX
+609
+00:39:52,965 --> 00:39:54,767
+y te seguÃ­ la pista hasta COMDEX
 
-626
-00:40:10,514 --> 00:40:16,383
-y también vi cómo te echaron a ti y a tu
-preciosa máquina de las estanterías.
+610
+00:39:54,768 --> 00:39:57,837
+y tambiÃ©n vi cÃ³mo te echaron a ti
 
-627
-00:40:17,788 --> 00:40:20,558
-Y tú, cuando te vi,
+611
+00:39:57,838 --> 00:40:01,007
+y a tu preciosa mÃ¡quina
+de las estanterÃ­as.
 
-628
-00:40:20,559 --> 00:40:23,730
+612
+00:40:02,042 --> 00:40:04,812
+Y tÃº, cuando te vi,
+
+613
+00:40:04,813 --> 00:40:07,984
 todo sobre ti amenaza a la gente.
 
-629
-00:40:23,731 --> 00:40:26,469
-Pensé que quizá
-podríamos hacer esto...
+614
+00:40:07,985 --> 00:40:10,723
+PensÃ© que quizÃ¡s podrÃ­amos hacer esto
 
-630
-00:40:26,470 --> 00:40:29,237
+615
+00:40:10,724 --> 00:40:13,491
 precisamente porque no
-somos personas razonables...
+somos personas razonables
 
-631
-00:40:29,238 --> 00:40:33,342
-y el progreso depende de cómo cambiemos
+616
+00:40:13,492 --> 00:40:17,296
+y el progreso depende de cÃ³mo cambiemos
 el mundo para amoldarse a nosotros.
 
-632
-00:40:34,346 --> 00:40:37,047
+617
+00:40:18,600 --> 00:40:21,001
 Y no al contrario.
 
-633
-00:40:38,517 --> 00:40:40,954
+618
+00:40:22,771 --> 00:40:24,908
 Quiero creer eso.
 
-634
-00:40:43,359 --> 00:40:45,692
+619
+00:40:27,613 --> 00:40:29,646
 Debo creer eso.
 
-635
-00:40:46,318 --> 00:40:48,662
-Mañana, estaré por
-aquí a las 7:00 A.M.
+620
+00:40:30,572 --> 00:40:32,916
+MaÃ±ana, estarÃ© por aquÃ­ a las 7:00 A.M.
 
-636
-00:40:48,663 --> 00:40:51,431
-y continuaré.
+621
+00:40:32,917 --> 00:40:35,685
+y continuarÃ©.
 
-637
-00:40:51,432 --> 00:40:55,136
-No tienen que unirse a mí, pero...
+622
+00:40:35,686 --> 00:40:39,090
+No tienen que unirse a mÃ­, pero...
 
-638
-00:40:56,404 --> 00:40:58,303
-algo me dice que...
+623
+00:40:40,658 --> 00:40:42,557
+algo me dice que
 
-639
-00:40:58,304 --> 00:41:03,009
-necesitan esto tanto como yo.
+624
+00:40:42,558 --> 00:40:46,963
+ambos necesitan esto tanto como yo.
 
-640
-00:42:12,916 --> 00:42:15,518
+625
+00:41:57,170 --> 00:41:59,472
 Hola.
 
-641
-00:42:16,686 --> 00:42:18,755
-¿El mejor partido de la historia?
+626
+00:42:00,940 --> 00:42:03,009
+Â¿El mejor partido de la historia?
 
-642
-00:42:18,756 --> 00:42:21,894
-Mi padre solía contarme historias
-antes de dormir cuando era niña.
+627
+00:42:03,010 --> 00:42:06,148
+Mi padre solÃ­a contarme historias
+antes de dormir cuando era niÃ±a.
 
-643
-00:42:21,895 --> 00:42:23,180
-El tiempo de descuento,
+628
+00:42:06,149 --> 00:42:09,650
+El tiempo de descuento, las 12
+recepciones de Raymond Berry, todo eso.
 
-644
-00:42:23,181 --> 00:42:25,696
-las 12 recepciones de Raymond Berry,
-todo eso.
-
-645
-00:42:27,734 --> 00:42:31,306
+629
+00:42:11,988 --> 00:42:15,560
 El partido fue en diciembre del 58.
 
-646
-00:42:31,307 --> 00:42:35,640
-El Sputnik cayó casi un año antes.
+630
+00:42:15,561 --> 00:42:19,594
+El Sputnik cayÃ³ casi un aÃ±o antes.
 
-647
-00:42:36,875 --> 00:42:39,142
-¿De verdad?
-
-648
-00:42:42,705 --> 00:42:45,705
-Sigue Halt and Catch Fire por
-Www.Subadictos.Net...
-
+631
+00:42:21,129 --> 00:42:23,096
+Â¿De verdad?
