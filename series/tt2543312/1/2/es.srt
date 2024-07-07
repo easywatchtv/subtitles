@@ -1,2782 +1,2782 @@
 1
-00:00:08,480 --> 00:00:10,738
+00:00:08,455 --> 00:00:10,713
 ¿Cuándo fue Joe MacMillan
 a usted con la idea
 
 2
-00:00:10,739 --> 00:00:13,395
+00:00:10,714 --> 00:00:13,370
 para hacerle la ingeniería
 inversa al IBM PC?
 
 3
-00:00:13,547 --> 00:00:16,679
+00:00:13,522 --> 00:00:16,654
 Eso es, de hecho, incorrecto.
 
 4
-00:00:16,680 --> 00:00:19,784
+00:00:16,655 --> 00:00:19,759
 John Bosworth y Nathan
 Cardiff se acercaron a mí
 
 5
-00:00:19,785 --> 00:00:23,597
+00:00:19,760 --> 00:00:23,572
 para hablarme de un programa de PC
 el cuatro de abril de este año.
 
 6
-00:00:24,290 --> 00:00:26,394
+00:00:24,265 --> 00:00:26,369
 A ver si lo entiendo.
 
 7
-00:00:26,395 --> 00:00:28,961
+00:00:26,370 --> 00:00:28,936
 Usted fue contratada para escribir un
 duplicado del código de nuestra BIOS,
 
 8
-00:00:28,962 --> 00:00:30,868
+00:00:28,937 --> 00:00:30,843
 pero no mirará el
 código de nuestra BIOS.
 
 9
-00:00:30,869 --> 00:00:32,215
+00:00:30,844 --> 00:00:32,190
 Pareces una buena chica.
 
 10
-00:00:32,216 --> 00:00:33,802
+00:00:32,191 --> 00:00:33,777
 No estamos aquí por ti,
 así que ¿por qué no...?
 
 11
-00:00:33,803 --> 00:00:35,906
+00:00:33,778 --> 00:00:35,881
 Miren, no necesito mirar su BIOS
 
 12
-00:00:35,907 --> 00:00:37,947
+00:00:35,882 --> 00:00:37,922
 porque no estoy interesada
 en copiar basura.
 
 13
-00:00:37,948 --> 00:00:41,055
+00:00:37,923 --> 00:00:41,030
 Claro, puede que decida que
 quiero pasar el resto de mi vida
 
 14
-00:00:41,056 --> 00:00:43,221
+00:00:41,031 --> 00:00:43,196
 esperando a mover una instrucción
 sin un bus de 16 bits,
 
 15
-00:00:43,222 --> 00:00:45,454
+00:00:43,197 --> 00:00:45,429
 pero aparte de eso, no estoy
 interesada en esa carpeta.
 
 16
-00:00:45,455 --> 00:00:47,695
+00:00:45,430 --> 00:00:47,670
 - ¿Y por qué usted?
 - ¿Perdone?
 
 17
-00:00:47,696 --> 00:00:49,265
+00:00:47,671 --> 00:00:49,240
 ¿Por qué usted?
 
 18
-00:00:49,562 --> 00:00:52,066
+00:00:49,537 --> 00:00:52,041
 Usted es ingeniero de software.
 
 19
-00:00:52,067 --> 00:00:53,939
+00:00:52,042 --> 00:00:53,914
 Desde luego no construye nada.
 
 20
-00:00:53,940 --> 00:00:55,879
+00:00:53,915 --> 00:00:55,854
 El Sr. Clark no tiene que
 teorizar el motivo...
 
 21
-00:00:55,880 --> 00:00:59,850
+00:00:55,855 --> 00:00:59,825
 Tengo más experiencia en microcomputación
 que cualquiera aquí.
 
 22
-00:00:59,851 --> 00:01:03,789
+00:00:59,826 --> 00:01:03,764
 Para que me quede claro, ¿dice usted
 que sus antiguos fracasos en este área
 
 23
-00:01:03,790 --> 00:01:07,795
+00:01:03,765 --> 00:01:07,770
 de alguna forma le cualificaron para
 encabezar el programa PC de Cardiff?
 
 24
-00:01:08,066 --> 00:01:10,970
+00:01:08,041 --> 00:01:10,945
 ¿Durante cuánto tiempo
 crees que la tendrán?
 
 25
-00:01:10,971 --> 00:01:14,509
+00:01:10,946 --> 00:01:14,484
 - ¿Cuatro o cinco semanas?
 - Lo que se tarde en terminar la BIOS.
 
 26
-00:01:14,510 --> 00:01:17,779
+00:01:14,485 --> 00:01:17,754
 Para serle sinceros, si
 decide abrir esta carpeta,
 
 27
-00:01:17,780 --> 00:01:20,211
+00:01:17,755 --> 00:01:20,186
 será la primera en ir a la cárcel.
 
 28
-00:01:26,117 --> 00:01:28,149
+00:01:26,092 --> 00:01:28,124
 Te toca ahora.
 
 29
-00:01:28,150 --> 00:01:30,251
+00:01:28,125 --> 00:01:30,226
 Esto no va a salir bien,
 no va a salir bien.
 
 30
-00:01:30,252 --> 00:01:31,554
+00:01:30,227 --> 00:01:31,529
 Simplemente entra y ajústate al guión.
 
 31
-00:01:31,555 --> 00:01:33,188
+00:01:31,530 --> 00:01:33,163
 ¿Te crees que esto es fácil?
 
 32
-00:01:33,189 --> 00:01:34,655
+00:01:33,164 --> 00:01:34,630
 Parlotear un par de mentiras descaradas,
 
 33
-00:01:34,656 --> 00:01:35,856
+00:01:34,631 --> 00:01:35,831
 irme a casa, dormir como un campeón.
 
 34
-00:01:35,857 --> 00:01:37,025
+00:01:35,832 --> 00:01:37,000
 Te queda mucho por aprender, hijo.
 
 35
-00:01:37,026 --> 00:01:38,428
+00:01:37,001 --> 00:01:38,403
 ¿Crees que IBM nunca ha mentido?
 
 36
-00:01:38,429 --> 00:01:40,328
+00:01:38,404 --> 00:01:40,303
 Ni lo sé, ni me importa.
 
 37
-00:01:40,329 --> 00:01:41,529
+00:01:40,304 --> 00:01:41,504
 Mira, necesito que entiendas
 
 38
-00:01:41,530 --> 00:01:43,197
+00:01:41,505 --> 00:01:43,172
 que lo que hice lo hice
 porque estaba bien,
 
 39
-00:01:43,198 --> 00:01:44,833
+00:01:43,173 --> 00:01:44,808
 no solo para mí, sino para
 ti, para todo el mundo.
 
 40
-00:01:44,834 --> 00:01:46,671
+00:01:44,809 --> 00:01:46,646
 Si hubiese venido por aquí hace una
 semana y hubiese preguntado amablemente,
 
 41
-00:01:46,672 --> 00:01:48,238
+00:01:46,647 --> 00:01:48,213
 me hubieras echado a
 carcajadas de la habitación.
 
 42
-00:01:48,239 --> 00:01:50,871
+00:01:48,214 --> 00:01:50,846
 Te hubiera pateado el culo,
 eso es lo que habría hecho.
 
 43
-00:01:50,872 --> 00:01:53,173
+00:01:50,847 --> 00:01:53,148
 Y puede que aún lo haga.
 
 44
-00:02:05,190 --> 00:02:07,524
+00:02:05,165 --> 00:02:07,499
 Dale, sin abogados.
 
 45
-00:02:07,525 --> 00:02:09,060
+00:02:07,500 --> 00:02:09,035
 ¿Por qué?
 
 46
-00:02:09,061 --> 00:02:10,830
+00:02:09,036 --> 00:02:10,805
 Ya sé lo que vas a decir.
 
 47
-00:02:10,831 --> 00:02:12,667
+00:02:10,806 --> 00:02:12,642
 Has entrenado bien a tu equipo.
 
 48
-00:02:12,668 --> 00:02:14,804
+00:02:12,643 --> 00:02:14,779
 Lo único que hemos hecho
 es movernos en los límites.
 
 49
-00:02:14,805 --> 00:02:17,071
+00:02:14,780 --> 00:02:17,046
 Dile a los chicos de Boca Ratón
 
 50
-00:02:17,072 --> 00:02:18,572
+00:02:17,047 --> 00:02:18,547
 que han escrito una bonita BIOS.
 
 51
-00:02:18,573 --> 00:02:20,174
+00:02:18,548 --> 00:02:20,149
 Será difícil de superar.
 
 52
-00:02:20,175 --> 00:02:22,946
+00:02:20,150 --> 00:02:22,921
 Pero puedes estar seguro, la nuestra
 no contiene material con copyright.
 
 53
-00:02:22,947 --> 00:02:25,749
+00:02:22,922 --> 00:02:25,724
 Cameron Howe estará incomunicada
 en un entorno aislado,
 
 54
-00:02:25,750 --> 00:02:27,786
+00:02:25,725 --> 00:02:27,761
 no tendrá ningún tipo de
 contacto con Gordon Clark
 
 55
-00:02:27,787 --> 00:02:29,689
+00:02:27,762 --> 00:02:29,664
 ni su trabajo de ingeniería inversa.
 
 56
-00:02:29,690 --> 00:02:32,458
+00:02:29,665 --> 00:02:32,433
 Cualquier similitud en el código
 será pura coincidencia,
 
 57
-00:02:32,459 --> 00:02:34,194
+00:02:32,434 --> 00:02:34,169
 como con Columbia Data.
 
 58
-00:02:34,195 --> 00:02:36,427
+00:02:34,170 --> 00:02:36,402
 Como con Compaq.
 
 59
-00:02:36,428 --> 00:02:39,296
+00:02:36,403 --> 00:02:39,271
 Conoces el vacío legal tan bien como yo.
 
 60
-00:02:40,598 --> 00:02:42,601
+00:02:40,573 --> 00:02:42,576
 Honestamente, no me importa.
 
 61
-00:02:42,602 --> 00:02:45,406
+00:02:42,577 --> 00:02:45,381
 Estoy más interesado en saber dónde
 coño has estado el último año y medio.
 
 62
-00:02:45,407 --> 00:02:47,774
+00:02:45,382 --> 00:02:47,749
 Te fuiste sin decir ni adiós.
 
 63
-00:02:48,643 --> 00:02:51,023
+00:02:48,618 --> 00:02:50,998
 ¿Les has contado a tus nuevos
 amigos algo sobre aquel día?
 
 64
-00:02:52,942 --> 00:02:55,247
+00:02:52,917 --> 00:02:55,222
 Digamos que todos tus
 asuntos están en orden.
 
 65
-00:02:55,248 --> 00:02:57,249
+00:02:55,223 --> 00:02:57,224
 Quizás te demandemos de todas formas.
 
 66
-00:02:57,250 --> 00:03:02,017
+00:02:57,225 --> 00:03:01,992
 Te enterraremos en papeleo
 y costes legales.
 
 67
-00:03:02,018 --> 00:03:03,619
+00:03:01,993 --> 00:03:03,594
 ¿Ves a ese caballero ahí afuera?
 
 68
-00:03:03,620 --> 00:03:06,289
+00:03:03,595 --> 00:03:06,264
 Ese es nuestro abogado
 interno, Barry Shields.
 
 69
-00:03:06,290 --> 00:03:09,324
+00:03:06,265 --> 00:03:09,299
 Le cuesta a Cardiff Electric
 55 000 dólares al año,
 
 70
-00:03:09,325 --> 00:03:12,529
+00:03:09,300 --> 00:03:12,504
 y no importa cuántos cientos de
 abogados te saques de la manga.
 
 71
-00:03:12,530 --> 00:03:14,297
+00:03:12,505 --> 00:03:14,272
 Continuaremos con Barry.
 
 72
-00:03:14,298 --> 00:03:15,631
+00:03:14,273 --> 00:03:15,606
 Solo con Barry.
 
 73
-00:03:15,632 --> 00:03:18,901
+00:03:15,607 --> 00:03:18,876
 Arruinaremos su vida.
 
 74
-00:03:20,772 --> 00:03:24,274
+00:03:20,747 --> 00:03:24,249
 Y si esto alguna vez llega a
 los tribunales, van a perder...
 
 75
-00:03:24,275 --> 00:03:27,812
+00:03:24,250 --> 00:03:27,787
 porque al fin y al cabo, no tienen nada.
 
 76
-00:03:29,248 --> 00:03:31,247
+00:03:29,223 --> 00:03:31,222
 Que tengas un buen vuelo.
 
 77
-00:03:40,359 --> 00:03:43,163
+00:03:40,334 --> 00:03:43,138
 - Entonces, estamos bien.
 - Estamos perfectos.
 
 78
-00:03:44,501 --> 00:03:48,437
+00:03:44,476 --> 00:03:48,412
 Entonces, ¿escribo el código
 de la BIOS y luego qué?
 
 79
-00:03:48,438 --> 00:03:51,374
+00:03:48,413 --> 00:03:51,349
 ¿Qué vamos a construir exactamente?
 
 80
-00:04:37,179 --> 00:04:39,014
+00:04:37,154 --> 00:04:38,989
 Eso es físicamente imposible.
 
 81
-00:04:39,060 --> 00:04:41,529
+00:04:39,035 --> 00:04:41,504
 Quiero decir, es literalmente
 un problema de física.
 
 82
-00:04:41,996 --> 00:04:44,898
+00:04:41,971 --> 00:04:44,873
 No lo entiendo. ¿De verdad eso
 es todo lo que vamos a construir?
 
 83
-00:04:44,899 --> 00:04:48,134
+00:04:44,874 --> 00:04:48,109
 Mira, no lo entiendes. El mercado
 se mueve por incrementos.
 
 84
-00:04:48,135 --> 00:04:51,136
+00:04:48,110 --> 00:04:51,111
 La próxima máquina que llegue a las
 estanterías será más rápida o más barata.
 
 85
-00:04:51,137 --> 00:04:52,802
+00:04:51,112 --> 00:04:52,777
 No puede ser ambas, ya sabes.
 
 86
-00:04:52,803 --> 00:04:54,805
+00:04:52,778 --> 00:04:54,780
 Eso es imposible. Es...
 
 87
-00:04:56,642 --> 00:04:59,712
+00:04:56,617 --> 00:04:59,687
 ¿De qué estás hablando,
 puro megahercio o...?
 
 88
-00:05:01,246 --> 00:05:03,949
+00:05:01,221 --> 00:05:03,924
 O quizás podamos...
 
 89
-00:05:03,950 --> 00:05:06,218
+00:05:03,925 --> 00:05:06,193
 podríamos subir el reloj
 
 90
-00:05:06,219 --> 00:05:08,052
+00:05:06,194 --> 00:05:08,027
 o atacar al software.
 
 91
-00:05:08,053 --> 00:05:11,055
+00:05:08,028 --> 00:05:11,030
 Joe, esto es interesante.
 Realmente interesante.
 
 92
-00:05:11,056 --> 00:05:13,693
+00:05:11,031 --> 00:05:13,668
 Espera, ¿qué? ¡Rebobina!
 
 93
-00:05:13,694 --> 00:05:16,068
+00:05:13,669 --> 00:05:16,043
 Esto no es nada. Es aburrido.
 
 94
-00:05:16,069 --> 00:05:18,437
+00:05:16,044 --> 00:05:18,412
 Esto es un cortacésped o un microondas.
 
 95
-00:05:18,438 --> 00:05:20,500
+00:05:18,413 --> 00:05:20,475
 Déjame adivinar, tú eres una de
 esas "personas de ideas".
 
 96
-00:05:20,501 --> 00:05:22,327
+00:05:20,476 --> 00:05:22,302
 Si por "persona de ideas" te
 refieres a que estoy familiarizada
 
 97
-00:05:22,328 --> 00:05:24,765
+00:05:22,303 --> 00:05:24,740
 con la tecnología que no estaba
 obsoleta hace una década.
 
 98
-00:05:24,766 --> 00:05:27,567
+00:05:24,741 --> 00:05:27,542
 ¿Has tocado alguna vez siquiera
 un componente hardware?
 
 99
-00:05:27,568 --> 00:05:29,569
+00:05:27,543 --> 00:05:29,544
 ¿Ves? Ese el problema con ustedes,
 los críos con títulos universitarios.
 
 100
-00:05:29,570 --> 00:05:30,938
+00:05:29,545 --> 00:05:30,913
 Tienen muchas teorías fantasiosas,
 
 101
-00:05:30,939 --> 00:05:33,199
+00:05:30,914 --> 00:05:33,174
 pero nunca han estado
 cerca del metal.
 
 102
-00:05:36,898 --> 00:05:38,682
+00:05:36,873 --> 00:05:38,657
 ¡Si la teoría real es
 que quiero hacer algo
 
 103
-00:05:38,683 --> 00:05:42,953
+00:05:38,658 --> 00:05:42,928
 más que dos veces lo que todo
 el mundo está haciendo!
 
 104
-00:05:42,954 --> 00:05:45,891
+00:05:42,929 --> 00:05:45,866
 Los ordenadores deberían tener
 pantallas con foto-realismo.
 
 105
-00:05:45,892 --> 00:05:49,193
+00:05:45,867 --> 00:05:49,168
 Deberían tener un millón
 de píxeles, ser autodidactas
 
 106
-00:05:49,194 --> 00:05:50,793
+00:05:49,169 --> 00:05:50,768
 y ejecutar sistemas expertos.
 
 107
-00:05:50,794 --> 00:05:52,095
+00:05:50,769 --> 00:05:52,070
 Deberían ganarme al ajedrez.
 
 108
-00:05:52,096 --> 00:05:54,330
+00:05:52,071 --> 00:05:54,305
 Y quizás HAL pueda tener
 emociones reales también,
 
 109
-00:05:54,331 --> 00:05:55,768
+00:05:54,306 --> 00:05:55,743
 y dirigir la nave mientras dormimos.
 
 110
-00:05:55,769 --> 00:05:57,731
+00:05:55,744 --> 00:05:57,706
 Así que vamos a construir
 otra caja beige y aburrida.
 
 111
-00:05:57,732 --> 00:05:59,365
+00:05:57,707 --> 00:05:59,340
 Tú no vas a construir nada, ¿vale?
 
 112
-00:05:59,366 --> 00:06:01,102
+00:05:59,341 --> 00:06:01,077
 - Yo lo haré.
 - ¿Qué se supone que significa eso?
 
 113
-00:06:01,103 --> 00:06:03,604
+00:06:01,078 --> 00:06:03,579
 ¿Por qué estan aún los
 dos en la misma habitación?
 
 114
-00:06:03,605 --> 00:06:07,107
+00:06:03,580 --> 00:06:07,082
 No, de aquí en adelante haremos esto
 honradamente, como dicta la ley.
 
 115
-00:06:07,108 --> 00:06:10,780
+00:06:07,083 --> 00:06:10,755
 Y eso significa que ustedes dos
 no haran más que sonreír el uno al otro
 
 116
-00:06:10,781 --> 00:06:12,081
+00:06:10,756 --> 00:06:12,056
 de camino al baño.
 
 117
-00:06:12,082 --> 00:06:13,614
+00:06:12,057 --> 00:06:13,589
 Bien, sácala de aquí.
 
 118
-00:06:13,615 --> 00:06:15,819
+00:06:13,590 --> 00:06:15,794
 Debbie, ¿te encargas de la señorita?
 
 119
-00:06:15,820 --> 00:06:19,121
+00:06:15,795 --> 00:06:19,096
 ¿Me repites qué es lo
 que haces para nosotros?
 
 120
-00:06:19,122 --> 00:06:20,990
+00:06:19,097 --> 00:06:20,965
 Escribir código de la BIOS.
 
 121
-00:06:21,694 --> 00:06:23,959
+00:06:21,669 --> 00:06:23,934
 Es el "Basic Input Output Software".
 
 122
-00:06:23,960 --> 00:06:25,795
+00:06:23,935 --> 00:06:25,770
 Es lo que primero se ejecuta
 cuando enciendes el ordenador.
 
 123
-00:06:25,796 --> 00:06:28,099
+00:06:25,771 --> 00:06:28,074
 ¿Como el WordStar?
 
 124
-00:06:28,968 --> 00:06:31,369
+00:06:28,943 --> 00:06:31,344
 La BIOS inicia el ordenador,
 
 125
-00:06:31,370 --> 00:06:33,938
+00:06:31,345 --> 00:06:33,913
 lo que te permite cargar
 el sistema operativo
 
 126
-00:06:33,939 --> 00:06:36,307
+00:06:33,914 --> 00:06:36,282
 y luego puedes ejecutar WordStar.
 
 127
-00:06:36,308 --> 00:06:38,473
+00:06:36,283 --> 00:06:38,448
 ¿Para que pueda escribirle una
 cartita de amor a mi novio?
 
 128
-00:06:38,474 --> 00:06:40,274
+00:06:38,449 --> 00:06:40,249
 ¿Es eso?
 
 129
-00:06:40,275 --> 00:06:42,535
+00:06:40,250 --> 00:06:42,510
 Sí, algo parecido.
 
 130
-00:06:43,412 --> 00:06:45,180
+00:06:43,387 --> 00:06:45,155
 Bienvenida a la habitación limpia.
 
 131
-00:06:49,584 --> 00:06:53,021
+00:06:49,559 --> 00:06:52,996
 ¿Sabes?, hay un tres por uno en
 Sanger's todo el fin de semana.
 
 132
-00:06:53,022 --> 00:06:55,223
+00:06:52,997 --> 00:06:55,198
 Tienen cosas muy buenas.
 
 133
-00:07:02,764 --> 00:07:04,899
+00:07:02,739 --> 00:07:04,874
 Bueno, tengo que sentarme
 aquí mientras tú escribes el...
 
 134
-00:07:04,900 --> 00:07:06,566
+00:07:04,875 --> 00:07:06,541
 ¿Todo el tiempo?
 
 135
-00:07:06,567 --> 00:07:09,333
+00:07:06,542 --> 00:07:09,308
 Sí, estoy legalmente obligado a
 mantener un registro de la sala limpia.
 
 136
-00:07:09,334 --> 00:07:13,270
+00:07:09,309 --> 00:07:13,245
 Mantener la Muralla China entre
 tú y ese ingeniero corrupto.
 
 137
-00:07:19,305 --> 00:07:21,940
+00:07:19,280 --> 00:07:21,915
 De acuerdo.
 
 138
-00:07:21,941 --> 00:07:23,509
+00:07:21,916 --> 00:07:23,484
 ¡Escuchen todos!
 
 139
-00:07:23,510 --> 00:07:25,310
+00:07:23,485 --> 00:07:25,285
 Voy a ponerlos al día con un par de cosas.
 
 140
-00:07:25,311 --> 00:07:27,178
+00:07:25,286 --> 00:07:27,153
 Está bien. Este es Joe MacMillan.
 
 141
-00:07:27,179 --> 00:07:30,249
+00:07:27,154 --> 00:07:30,224
 Es el nuevo...
 
 142
-00:07:30,250 --> 00:07:33,152
+00:07:30,225 --> 00:07:33,127
 jefe de producto senior
 
 143
-00:07:33,153 --> 00:07:36,759
+00:07:33,128 --> 00:07:36,734
 de la nueva división de
 Ordenadores Personales.
 
 144
-00:07:39,062 --> 00:07:42,867
+00:07:39,037 --> 00:07:42,842
 Sí, Joe se nos ha venido
 desde IBM, más o menos.
 
 145
-00:07:42,868 --> 00:07:45,004
+00:07:42,843 --> 00:07:44,979
 Lleva con nosotros poco tiempo,
 
 146
-00:07:45,005 --> 00:07:46,906
+00:07:44,980 --> 00:07:46,881
 pero ya ha producido un gran impacto.
 
 147
-00:07:46,907 --> 00:07:49,176
+00:07:46,882 --> 00:07:49,151
 - Joe, ¿quieres...?
 - Oh, gracias, John.
 
 148
-00:07:49,177 --> 00:07:50,608
+00:07:49,152 --> 00:07:50,583
 Y sería negligente por
 mi parte si no dijera
 
 149
-00:07:50,609 --> 00:07:52,676
+00:07:50,584 --> 00:07:52,651
 que no fue por tu fe, tu previsión,
 
 150
-00:07:52,677 --> 00:07:55,013
+00:07:52,652 --> 00:07:54,988
 y, ya me disculparás,
 
 151
-00:07:55,014 --> 00:07:57,815
+00:07:54,989 --> 00:07:57,790
 tus pelotas de hierro las
 que nos metieron aquí.
 
 152
-00:07:59,716 --> 00:08:01,447
+00:07:59,691 --> 00:08:01,422
 Continuando con este trabajo
 
 153
-00:08:01,448 --> 00:08:03,150
+00:08:01,423 --> 00:08:03,125
 has ayudado a establecer a Cardiff Electric
 
 154
-00:08:03,151 --> 00:08:06,389
+00:08:03,126 --> 00:08:06,364
 como una empresa colonizadora
 hacia el siglo XXI.
 
 155
-00:08:06,390 --> 00:08:08,455
+00:08:06,365 --> 00:08:08,430
 Una ronda de aplausos para John.
 
 156
-00:08:10,957 --> 00:08:14,192
+00:08:10,932 --> 00:08:14,167
 Ahora, puede que hayan oído algunos
 rumores a lo largo de la última semana.
 
 157
-00:08:14,193 --> 00:08:17,128
+00:08:14,168 --> 00:08:17,103
 Quizás hayan visto algunos trajeados
 poco familiares en el edificio,
 
 158
-00:08:17,129 --> 00:08:19,197
+00:08:17,104 --> 00:08:19,172
 y escuchado los mismos rumores que yo.
 
 159
-00:08:19,198 --> 00:08:20,930
+00:08:19,173 --> 00:08:20,905
 "El cambio está a punto de llegar".
 
 160
-00:08:20,931 --> 00:08:25,736
+00:08:20,906 --> 00:08:25,711
 Bien, estoy aquí hoy para deciros
 que esos rumores eran ciertos.
 
 161
-00:08:25,737 --> 00:08:28,135
+00:08:25,712 --> 00:08:28,110
 El cambio llega a Cardiff,
 
 162
-00:08:28,136 --> 00:08:30,636
+00:08:28,111 --> 00:08:30,611
 y me complace anunciarles que
 todos y cada uno de ustedes
 
 163
-00:08:30,637 --> 00:08:34,642
+00:08:30,612 --> 00:08:34,617
 tendrán un papel que jugar en el
 brillante futuro de esta compañía.
 
 164
-00:08:34,643 --> 00:08:38,382
+00:08:34,618 --> 00:08:38,357
 Ahora, solo tengo dos reglas
 para nuestra nueva división PC.
 
 165
-00:08:38,383 --> 00:08:41,250
+00:08:38,358 --> 00:08:41,225
 La primera, divirtámonos.
 
 166
-00:08:43,251 --> 00:08:45,354
+00:08:43,226 --> 00:08:45,329
 Y la segunda...
 
 167
-00:08:45,355 --> 00:08:47,925
+00:08:45,330 --> 00:08:47,900
 hagamos un montón de
 dinero, ¿de acuerdo?
 
 168
-00:08:50,329 --> 00:08:51,796
+00:08:50,304 --> 00:08:51,771
 Y si seguimos estas dos reglas bien,
 
 169
-00:08:51,797 --> 00:08:55,333
+00:08:51,772 --> 00:08:55,308
 bueno, quizás cambiemos el
 modo en que la gente trabaja,
 
 170
-00:08:55,334 --> 00:08:57,035
+00:08:55,309 --> 00:08:57,010
 el modo en que la gente vive,
 
 171
-00:08:57,036 --> 00:09:00,706
+00:08:57,011 --> 00:09:00,681
 y el cómo interactúan unos con otros.
 
 172
-00:09:00,707 --> 00:09:05,242
+00:09:00,682 --> 00:09:05,217
 Puede que le demos un
 mordisco al universo.
 
 173
-00:09:05,243 --> 00:09:07,109
+00:09:05,218 --> 00:09:07,084
 ¿Cómo te llamas?
 
 174
-00:09:07,110 --> 00:09:09,780
+00:09:07,085 --> 00:09:09,755
 - Tara.
 - Tara, encantado de conocerte.
 
 175
-00:09:09,781 --> 00:09:10,566
+00:09:09,756 --> 00:09:10,541
 ¿Sabes...?
 
 176
-00:09:10,567 --> 00:09:13,612
+00:09:10,542 --> 00:09:13,587
 Gordon, hola, ¿puedes
 acompañarme un segundo?
 
 177
-00:09:13,613 --> 00:09:15,981
+00:09:13,588 --> 00:09:15,956
 - Solo un segundo.
 - Sí, claro.
 
 178
-00:09:18,185 --> 00:09:21,750
+00:09:18,160 --> 00:09:21,725
 Aquí estamos. Esto es tuyo.
 
 179
-00:09:42,507 --> 00:09:44,507
+00:09:42,482 --> 00:09:44,482
 Mira quién está ascendiendo en el mundo.
 
 180
-00:09:44,508 --> 00:09:46,476
+00:09:44,483 --> 00:09:46,451
 Ahora tienes una ventana y todo.
 
 181
-00:09:48,148 --> 00:09:51,750
+00:09:48,123 --> 00:09:51,725
 Jobs, "darle un mordisco al universo".
 
 182
-00:09:51,751 --> 00:09:53,720
+00:09:51,726 --> 00:09:53,695
 Steve Jobs, el tipo que dirige Apple,
 
 183
-00:09:53,721 --> 00:09:55,123
+00:09:53,696 --> 00:09:55,098
 dijo eso hace unos años.
 
 184
-00:09:55,124 --> 00:09:57,061
+00:09:55,099 --> 00:09:57,036
 Sí. Lo sé. ¿No es genial?
 
 185
-00:10:01,730 --> 00:10:04,130
+00:10:01,705 --> 00:10:04,105
 Deberías irte a casa y tener
 una buena noche de descanso.
 
 186
-00:10:04,131 --> 00:10:05,331
+00:10:04,106 --> 00:10:05,306
 Te espera un gran día mañana.
 
 187
-00:10:05,332 --> 00:10:06,530
+00:10:05,307 --> 00:10:06,505
 ¿Por qué?
 
 188
-00:10:06,531 --> 00:10:09,466
+00:10:06,506 --> 00:10:09,441
 Bueno, mañana empezamos
 a construir el mañana.
 
 189
-00:10:59,620 --> 00:11:02,290
+00:10:59,595 --> 00:11:02,265
 Dice que le ayuda a pensar.
 
 190
-00:11:05,193 --> 00:11:07,798
+00:11:05,168 --> 00:11:07,773
 Creo que esto es para ti.
 
 191
-00:11:07,799 --> 00:11:10,633
+00:11:07,774 --> 00:11:10,608
 Genial.
 
 192
-00:11:10,634 --> 00:11:13,168
+00:11:10,609 --> 00:11:13,143
 Gracias. Él lo paga.
 
 193
-00:11:13,169 --> 00:11:15,272
+00:11:13,144 --> 00:11:15,247
 ¿Quieres decirme qué estás haciendo?
 
 194
-00:11:15,273 --> 00:11:18,579
+00:11:15,248 --> 00:11:18,554
 Escribir la BIOS para una máquina
 por la que nadie dará una mierda.
 
 195
-00:11:20,415 --> 00:11:22,047
+00:11:20,390 --> 00:11:22,022
 Tienes razón. Tienes razón.
 
 196
-00:11:22,048 --> 00:11:23,584
+00:11:22,023 --> 00:11:23,559
 ¿A quién le importa la máquina?
 
 197
-00:11:23,585 --> 00:11:26,018
+00:11:23,560 --> 00:11:25,993
 Lo que realmente importa son
 las personas que la usarán.
 
 198
-00:11:26,019 --> 00:11:28,452
+00:11:25,994 --> 00:11:28,427
 Si bajamos el precio,
 bajamos la barrera de entrada,
 
 199
-00:11:28,453 --> 00:11:31,589
+00:11:28,428 --> 00:11:31,564
 y doblando la velocidad, les
 permitimos hacer el doble.
 
 200
-00:11:31,590 --> 00:11:33,655
+00:11:31,565 --> 00:11:33,630
 Así que, ahora tenemos
 el doble de personas
 
 201
-00:11:33,656 --> 00:11:35,488
+00:11:33,631 --> 00:11:35,463
 usando nuestro ordenador
 el doble de tiempo.
 
 202
-00:11:36,924 --> 00:11:38,944
+00:11:36,899 --> 00:11:38,919
 ¿Has practicado eso frente al espejo?
 
 203
-00:11:41,149 --> 00:11:43,293
+00:11:41,124 --> 00:11:43,268
 Mira, no creo que aprecies
 
 204
-00:11:43,294 --> 00:11:44,629
+00:11:43,269 --> 00:11:44,604
 la oportunidad que tenemos aquí para...
 
 205
-00:11:44,630 --> 00:11:46,697
+00:11:44,605 --> 00:11:46,672
 Lo he escuchado todo.
 
 206
-00:11:46,698 --> 00:11:49,535
+00:11:46,673 --> 00:11:49,510
 "Pasarlo bien, ganar dinero".
 Y luego un montón de mierda
 
 207
-00:11:49,536 --> 00:11:52,306
+00:11:49,511 --> 00:11:52,281
 que inventaste o robaste a alguien.
 
 208
-00:11:52,307 --> 00:11:54,140
+00:11:52,282 --> 00:11:54,115
 Eres solo un vendedor.
 
 209
-00:12:13,233 --> 00:12:15,270
+00:12:13,208 --> 00:12:15,245
 ¿Y bien?
 
 210
-00:12:15,271 --> 00:12:18,262
+00:12:15,246 --> 00:12:18,237
 Creo... No estoy seguro,
 
 211
-00:12:18,263 --> 00:12:22,298
+00:12:18,238 --> 00:12:22,273
 pero tengo buenas razones para creer...
 
 212
-00:12:24,635 --> 00:12:27,003
+00:12:24,610 --> 00:12:26,978
 que estaremos bien.
 
 213
-00:12:28,104 --> 00:12:30,703
+00:12:28,079 --> 00:12:30,678
 - Entonces, IBM y...
 - Se han ido.
 
 214
-00:12:30,704 --> 00:12:34,307
+00:12:30,679 --> 00:12:34,282
 Joe tenía razón. Hemos
 hecho que se larguen.
 
 215
-00:12:34,308 --> 00:12:37,410
+00:12:34,283 --> 00:12:37,385
 - Así que vas a...
 - Empiezo mañana...
 
 216
-00:12:37,411 --> 00:12:42,080
+00:12:37,386 --> 00:12:42,055
 En mi nuevo despacho.
 
 217
-00:12:44,852 --> 00:12:46,821
+00:12:44,827 --> 00:12:46,796
 Con ventana y todo.
 
 218
-00:12:46,822 --> 00:12:49,590
+00:12:46,797 --> 00:12:49,565
 Mírate, don importante.
 
 219
-00:12:52,127 --> 00:12:55,347
+00:12:52,102 --> 00:12:55,322
 - ¿Dónde están las niñas?
 - Están jugando en el...
 
 220
-00:12:58,999 --> 00:13:00,866
+00:12:58,974 --> 00:13:00,841
 Espera.
 
 221
-00:13:00,867 --> 00:13:03,236
+00:13:00,842 --> 00:13:03,211
 Estoy intentando...
 
 222
-00:13:03,237 --> 00:13:05,340
+00:13:03,212 --> 00:13:05,315
 - Vamos al dormitorio.
 - Ok.
 
 223
-00:13:08,343 --> 00:13:11,011
+00:13:08,318 --> 00:13:10,986
 Mañana tengo que llevar
 a Joanie al dentista.
 
 224
-00:13:11,012 --> 00:13:13,348
+00:13:10,987 --> 00:13:13,323
 Quizás tengan que sacarle un diente.
 
 225
-00:13:15,151 --> 00:13:17,984
+00:13:15,126 --> 00:13:17,959
 Podrían pasar por Cardiff.
 
 226
-00:13:17,985 --> 00:13:20,355
+00:13:17,960 --> 00:13:20,330
 Tengo que llevarla de nuevo al colegio.
 
 227
-00:13:20,356 --> 00:13:24,289
+00:13:20,331 --> 00:13:24,264
 Vamos!. Sé que odia el dentista.
 
 228
-00:13:24,290 --> 00:13:27,827
+00:13:24,265 --> 00:13:27,802
 Quizás sea un premio ir
 a ver a su papi después.
 
 229
-00:13:27,828 --> 00:13:30,629
+00:13:27,803 --> 00:13:30,604
 Además, podrías ver mi nuevo despacho.
 
 230
-00:13:33,832 --> 00:13:35,831
+00:13:33,807 --> 00:13:35,806
 ¿A quién tenés, por cierto?
 
 231
-00:13:35,832 --> 00:13:38,401
+00:13:35,807 --> 00:13:38,376
 ¿Para escribir la BIOS?
 
 232
-00:13:38,402 --> 00:13:41,182
+00:13:38,377 --> 00:13:41,157
 Apuesto a que MacMillan tuvo a
 algunos chicos haciendo cola, ¿no?
 
 233
-00:13:42,738 --> 00:13:44,304
+00:13:42,713 --> 00:13:44,279
 Sí.
 
 234
-00:13:44,305 --> 00:13:47,976
+00:13:44,280 --> 00:13:47,951
 - ¿Quién?
 - Cameron Howe.
 
 235
-00:13:47,977 --> 00:13:50,578
+00:13:47,952 --> 00:13:50,553
 ¿De dónde viene?
 
 236
-00:13:50,579 --> 00:13:53,882
+00:13:50,554 --> 00:13:53,857
 Austin Tech, creo.
 
 237
-00:13:53,883 --> 00:13:57,815
+00:13:53,858 --> 00:13:57,790
 Bueno, debe ser un buen
 negocio si estás a bordo.
 
 238
-00:14:01,220 --> 00:14:03,187
+00:14:01,195 --> 00:14:03,162
 Sí.
 
 239
-00:15:18,852 --> 00:15:23,324
+00:15:18,827 --> 00:15:23,299
 En cualquier caso, eché a esos bastardos
 azules de la ciudad, y te diré una cosa:
 
 240
-00:15:24,235 --> 00:15:26,157
+00:15:24,210 --> 00:15:26,132
 ¿te imaginas a los Stangs
 saliendo siempre victoriosos
 
 241
-00:15:26,158 --> 00:15:28,060
+00:15:26,133 --> 00:15:28,035
 y, aun así, perdiendo en Georgia?
 
 242
-00:15:28,061 --> 00:15:31,163
+00:15:28,036 --> 00:15:31,138
 ¿Puedes imaginarte a
 Dickerson en la Sugar Bowl?
 
 243
-00:15:31,164 --> 00:15:34,732
+00:15:31,139 --> 00:15:34,707
 Arrollaría a esos perros, ¿eh?
 
 244
-00:15:36,936 --> 00:15:39,335
+00:15:36,911 --> 00:15:39,310
 Aunque McIlhenny todavía
 tiene un buen brazo.
 
 245
-00:15:39,336 --> 00:15:41,637
+00:15:39,311 --> 00:15:41,612
 Te lo digo, te apuesto a que lanza
 más de 1.000 yardas este año
 
 246
-00:15:41,638 --> 00:15:44,875
+00:15:41,613 --> 00:15:44,850
 si hace una docena.
 
 247
-00:15:44,876 --> 00:15:47,208
+00:15:44,851 --> 00:15:47,183
 Sí.
 
 248
-00:15:47,209 --> 00:15:50,413
+00:15:47,184 --> 00:15:50,388
 Hace que quieras jugártela. ¿No, Carl?
 
 249
-00:15:50,414 --> 00:15:53,449
+00:15:50,389 --> 00:15:53,424
 Tú fuiste un buen jugador
 en su momento, ¿sabías?
 
 250
-00:15:55,287 --> 00:15:58,190
+00:15:55,262 --> 00:15:58,165
 ¿Así que piensas apostar este año por
 
 251
-00:15:58,191 --> 00:16:00,026
+00:15:58,166 --> 00:16:00,001
 el fondo de reclutamiento de jugadores?
 
 252
-00:16:00,027 --> 00:16:02,061
+00:16:00,002 --> 00:16:02,036
 Yo creo que voy a apostar
 a lo grande en otoño.
 
 253
-00:16:02,062 --> 00:16:04,329
+00:16:02,037 --> 00:16:04,304
 Aún no estoy seguro.
 
 254
-00:16:07,099 --> 00:16:08,633
+00:16:07,074 --> 00:16:08,608
 ¿Carl?
 
 255
-00:16:08,634 --> 00:16:12,494
+00:16:08,609 --> 00:16:12,469
 ¿Cómo vamos con el sistema
 inteligente de tu casa?
 
 256
-00:16:12,868 --> 00:16:14,400
+00:16:12,843 --> 00:16:14,375
 ¿Sabes lo que voy a hacer?
 
 257
-00:16:14,401 --> 00:16:16,467
+00:16:14,376 --> 00:16:16,442
 Voy a mandarte a un grupo de
 chicos con algunas mejoras,
 
 258
-00:16:16,468 --> 00:16:19,301
+00:16:16,443 --> 00:16:19,276
 para, ya sabes, asegurarnos
 
 259
-00:16:19,302 --> 00:16:21,502
+00:16:19,277 --> 00:16:21,477
 de que todo te funciona de
 manera óptima. ¿Qué tal?
 
 260
-00:16:21,503 --> 00:16:25,371
+00:16:21,478 --> 00:16:25,346
 ¿Sabes? Sin facturas. No.
 
 261
-00:16:25,372 --> 00:16:28,276
+00:16:25,347 --> 00:16:28,251
 Solo como un favor entre
 dos fans de los Stangs.
 
 262
-00:16:28,277 --> 00:16:31,113
+00:16:28,252 --> 00:16:31,088
 Genial.
 
 263
-00:16:53,003 --> 00:16:54,737
+00:16:52,978 --> 00:16:54,712
 ¿Dónde está?
 
 264
-00:16:54,738 --> 00:16:56,004
+00:16:54,713 --> 00:16:55,979
 No tengo ni idea.
 
 265
-00:16:56,005 --> 00:16:57,708
+00:16:55,980 --> 00:16:57,683
 Es bastante interesante, ¿no crees?
 
 266
-00:16:57,709 --> 00:16:59,878
+00:16:57,684 --> 00:16:59,853
 Vistiendo esa ropa del ejército.
 
 267
-00:16:59,879 --> 00:17:01,145
+00:16:59,854 --> 00:17:01,120
 ¿Por qué no vas a tomar algo de aire?
 
 268
-00:17:01,146 --> 00:17:02,778
+00:17:01,121 --> 00:17:02,753
 Yo me ocupo de ella de ahora en adelante.
 
 269
-00:17:02,779 --> 00:17:04,179
+00:17:02,754 --> 00:17:04,154
 Tengo que mantener el
 registro de la sala limpia.
 
 270
-00:17:04,180 --> 00:17:06,247
+00:17:04,155 --> 00:17:06,222
 Barry, tienes huevos en la cara.
 
 271
-00:17:06,248 --> 00:17:07,514
+00:17:06,223 --> 00:17:07,489
 ¿Qué?
 
 272
-00:17:07,515 --> 00:17:11,148
+00:17:07,490 --> 00:17:11,123
 - Yo me ocupo.
 - ¿Que tengo qué?
 
 273
-00:17:42,088 --> 00:17:45,484
+00:17:42,063 --> 00:17:45,459
 Se me ocurre que crees que aquí
 puedes hacer lo que te dé la gana.
 
 274
-00:17:45,485 --> 00:17:47,429
+00:17:45,460 --> 00:17:47,404
 Este no es tu patio de juegos,
 
 275
-00:17:47,430 --> 00:17:49,399
+00:17:47,405 --> 00:17:49,374
 al contrario de lo que puedas creer,
 
 276
-00:17:49,400 --> 00:17:53,169
+00:17:49,375 --> 00:17:53,144
 sé qué pinta tiene un código,
 y, desde luego, esto no es código.
 
 277
-00:17:56,243 --> 00:17:57,743
+00:17:56,218 --> 00:17:57,718
 Tienes razón.
 
 278
-00:17:57,744 --> 00:17:59,743
+00:17:57,719 --> 00:17:59,718
 No, tienes razón.
 
 279
-00:17:59,744 --> 00:18:01,812
+00:17:59,719 --> 00:18:01,787
 Sí, esto no es código.
 
 280
-00:18:01,813 --> 00:18:04,117
+00:18:01,788 --> 00:18:04,092
 Como has dicho.
 
 281
-00:18:04,118 --> 00:18:07,088
+00:18:04,093 --> 00:18:07,063
 Intento decidir si necesitamos
 hacer esta multiplicación
 
 282
-00:18:07,089 --> 00:18:08,989
+00:18:07,064 --> 00:18:08,964
 para alinear la separación octal.
 
 283
-00:18:08,990 --> 00:18:11,895
+00:18:08,965 --> 00:18:11,870
 Ahora, mi instinto dice, y estoy
 segura de que estarás de acuerdo,
 
 284
-00:18:11,896 --> 00:18:14,332
+00:18:11,871 --> 00:18:14,307
 que podemos hacer un
 acarreo de tres bits a cero
 
 285
-00:18:14,333 --> 00:18:16,099
+00:18:14,308 --> 00:18:16,074
 hacia la derecha, lo que es más rápido
 
 286
-00:18:16,100 --> 00:18:18,467
+00:18:16,075 --> 00:18:18,442
 y da el mismo resultado en
 el acumulador del 186,
 
 287
-00:18:18,468 --> 00:18:20,201
+00:18:18,443 --> 00:18:20,176
 pero... no lo sé.
 
 288
-00:18:20,202 --> 00:18:22,102
+00:18:20,177 --> 00:18:22,077
 Me encantaría escuchar tu opinión.
 
 289
-00:19:00,649 --> 00:19:02,649
+00:19:00,624 --> 00:19:02,624
 Estás atascada.
 
 290
-00:19:03,396 --> 00:19:05,621
+00:19:03,371 --> 00:19:05,596
 ¿Sabes siquiera lo que
 estás intentando hacer?
 
 291
-00:19:05,622 --> 00:19:07,126
+00:19:05,597 --> 00:19:07,101
 Como si tú lo supieras.
 
 292
-00:19:10,463 --> 00:19:12,162
+00:19:10,438 --> 00:19:12,137
 Dame un minuto.
 
 293
-00:19:14,034 --> 00:19:16,706
+00:19:14,009 --> 00:19:16,681
 Quizás pueda ayudar.
 
 294
-00:19:24,989 --> 00:19:26,622
+00:19:24,964 --> 00:19:26,597
 Está bien.
 
 295
-00:19:32,666 --> 00:19:34,335
+00:19:32,641 --> 00:19:34,310
 ¿Qué estás haciendo?
 
 296
-00:19:34,336 --> 00:19:36,699
+00:19:34,311 --> 00:19:36,674
 No quiero pensar más en esto.
 
 297
-00:19:36,700 --> 00:19:38,174
+00:19:36,675 --> 00:19:38,149
 Necesito despejar mi mente.
 
 298
-00:19:38,175 --> 00:19:40,175
+00:19:38,150 --> 00:19:40,150
 Pues tómate un descanso.
 
 299
-00:19:41,842 --> 00:19:45,880
+00:19:41,817 --> 00:19:45,855
 ¿Como si pudiésemos tomar una soda
 con Debbie y el resto del Club del 700?
 
 300
-00:19:45,881 --> 00:19:48,280
+00:19:45,856 --> 00:19:48,255
 Yo no soy como ellos.
 
 301
-00:19:50,450 --> 00:19:53,853
+00:19:50,425 --> 00:19:53,828
 Tienes que ir arriba,
 volver a tu terminal.
 
 302
-00:19:55,254 --> 00:19:57,754
+00:19:55,229 --> 00:19:57,729
 Entonces, ¿vamos a hacer esto o qué?
 
 303
-00:20:33,207 --> 00:20:35,502
+00:20:33,182 --> 00:20:35,477
 Cardiff Electric, ¿cómo puedo
 atender a su llamada?
 
 304
-00:20:35,503 --> 00:20:37,537
+00:20:35,478 --> 00:20:37,512
 Espere, por favor.
 
 305
-00:20:37,681 --> 00:20:40,105
+00:20:37,656 --> 00:20:40,080
 Que quede constancia
 de que no sabemos nada
 
 306
-00:20:40,106 --> 00:20:42,004
+00:20:40,081 --> 00:20:41,979
 sobre esa chica ni de lo que es capaz.
 
 307
-00:20:42,005 --> 00:20:44,366
+00:20:41,980 --> 00:20:44,341
 Tienes razón. Cuando termine el código
 de la BIOS deberíamos cortar el anzuelo.
 
 308
-00:20:44,367 --> 00:20:45,343
+00:20:44,342 --> 00:20:45,318
 ¿A qué te refieres?
 
 309
-00:20:45,344 --> 00:20:46,879
+00:20:45,319 --> 00:20:46,854
 Tan pronto como acabe
 el código de la BIOS,
 
 310
-00:20:46,880 --> 00:20:48,947
+00:20:46,855 --> 00:20:48,922
 no hay ningún acuerdo legal,
 no la necesitaremos más.
 
 311
-00:20:48,948 --> 00:20:52,615
+00:20:48,923 --> 00:20:52,590
 Bien, me parece bien. Sí, bien.
 
 312
-00:20:52,616 --> 00:20:54,384
+00:20:52,591 --> 00:20:54,359
 Adiós, muy buenas. Tiene sentido,
 
 313
-00:20:54,385 --> 00:20:56,285
+00:20:54,360 --> 00:20:56,260
 pero ahora mismo necesitamos que
 vuelva a la habitación limpia.
 
 314
-00:20:56,286 --> 00:20:57,852
+00:20:56,261 --> 00:20:57,827
 Entonces ve abajo y habla con ella.
 
 315
-00:20:57,853 --> 00:21:00,086
+00:20:57,828 --> 00:21:00,061
 Se supone que no debo estar
 ni en el mismo piso que ella.
 
 316
-00:21:00,087 --> 00:21:02,690
+00:21:00,062 --> 00:21:02,665
 Mira, si no está en su
 escritorio pulsando teclas,
 
 317
-00:21:02,691 --> 00:21:04,260
+00:21:02,666 --> 00:21:04,235
 entonces no está escribiendo
 el código de la BIOS, ¿vale?
 
 318
-00:21:04,261 --> 00:21:06,362
+00:21:04,236 --> 00:21:06,337
 La necesitamos escribiendo
 el código de la BIOS.
 
 319
-00:21:09,363 --> 00:21:11,231
+00:21:09,338 --> 00:21:11,206
 Ok
 
 320
-00:21:14,537 --> 00:21:17,073
+00:21:14,512 --> 00:21:17,048
 Mamá, quiero verlo.
 
 321
-00:21:17,074 --> 00:21:18,909
+00:21:17,049 --> 00:21:18,884
 Bien, pero un vistazo rápido, ¿vale?
 
 322
-00:21:18,910 --> 00:21:20,212
+00:21:18,885 --> 00:21:20,187
 Porque mamá tiene que volver al trabajo.
 
 323
-00:21:20,213 --> 00:21:22,079
+00:21:20,188 --> 00:21:22,054
 - Hola.
 - Hola.
 
 324
-00:21:23,982 --> 00:21:26,117
+00:21:23,957 --> 00:21:26,092
 Muy bien, ahí. Vamos a echar un vistazo.
 
 325
-00:21:26,118 --> 00:21:28,321
+00:21:26,093 --> 00:21:28,296
 ¿Ves ahí dentro?
 
 326
-00:21:28,322 --> 00:21:30,391
+00:21:28,297 --> 00:21:30,366
 Eso es. Ahí es donde estaba.
 
 327
-00:21:30,392 --> 00:21:32,859
+00:21:30,367 --> 00:21:32,834
 Es como el Gran Cañón.
 
 328
-00:21:32,860 --> 00:21:34,892
+00:21:32,835 --> 00:21:34,867
 El hada de los dientes tiene
 uno bueno para esta noche.
 
 329
-00:21:34,893 --> 00:21:37,127
+00:21:34,868 --> 00:21:37,102
 Parece asqueroso en la lengua.
 
 330
-00:21:37,128 --> 00:21:38,764
+00:21:37,103 --> 00:21:38,739
 Cariño, eso está feo.
 
 331
-00:21:38,765 --> 00:21:41,302
+00:21:38,740 --> 00:21:41,277
 Vamos, lávate las manos.
 
 332
-00:21:52,046 --> 00:21:54,482
+00:21:52,021 --> 00:21:54,457
 ¿Has terminado, cariño?
 
 333
-00:21:58,886 --> 00:22:00,852
+00:21:58,861 --> 00:22:00,827
 Cepilla bien las difíciles de alcanzar.
 
 334
-00:22:00,853 --> 00:22:02,186
+00:22:00,828 --> 00:22:02,161
 Eh, Joanie.
 
 335
-00:22:02,187 --> 00:22:06,321
+00:22:02,162 --> 00:22:06,296
 Lo siento, acabamos de
 volver del dentista.
 
 336
-00:22:10,157 --> 00:22:12,258
+00:22:10,132 --> 00:22:12,233
 Soy Donna.
 
 337
-00:22:12,259 --> 00:22:13,960
+00:22:12,234 --> 00:22:13,935
 Cameron.
 
 338
-00:22:17,633 --> 00:22:19,534
+00:22:17,608 --> 00:22:19,509
 - Oh, ¿te dolió?
 - No.
 
 339
-00:22:19,535 --> 00:22:21,367
+00:22:19,510 --> 00:22:21,342
 No puede ser. Choca esos cinco.
 
 340
-00:22:21,368 --> 00:22:23,602
+00:22:21,343 --> 00:22:23,577
 Eres más que valiente, Dr. J.
 
 341
-00:22:24,203 --> 00:22:27,908
+00:22:24,178 --> 00:22:27,883
 Muy bien, señoritas, los veo
 en el partido del sábado.
 
 342
-00:22:27,909 --> 00:22:32,816
+00:22:27,884 --> 00:22:32,791
 Y Vicki va a traernos unos
 donuts caseros riquísimos.
 
 343
-00:22:32,817 --> 00:22:34,553
+00:22:32,792 --> 00:22:34,528
 Realmente buenos.
 
 344
-00:22:34,554 --> 00:22:36,223
+00:22:34,529 --> 00:22:36,198
 Mantenga las rodillas altas, Dr. J.
 
 345
-00:22:36,224 --> 00:22:38,392
+00:22:36,199 --> 00:22:38,367
 Gracias, Brian.
 
 346
-00:22:38,393 --> 00:22:40,628
+00:22:38,368 --> 00:22:40,603
 Entonces, ¿qué opinas?
 
 347
-00:22:41,931 --> 00:22:45,035
+00:22:41,906 --> 00:22:45,010
 Mi nuevo despacho, mi propio despacho.
 
 348
-00:22:45,036 --> 00:22:47,437
+00:22:45,011 --> 00:22:47,412
 No está mal, ¿eh?
 
 349
-00:22:50,078 --> 00:22:51,979
+00:22:50,053 --> 00:22:51,954
 ¿Estás bien?
 
 350
-00:22:53,782 --> 00:22:55,982
+00:22:53,757 --> 00:22:55,957
 El dentista se ha hecho largo.
 
 351
-00:22:55,983 --> 00:22:59,752
+00:22:55,958 --> 00:22:59,727
 Hablando de lo cual, deberíamos volver.
 
 352
-00:22:59,753 --> 00:23:01,053
+00:22:59,728 --> 00:23:01,028
 ¿Estás lista para marchar, monito?
 
 353
-00:23:01,054 --> 00:23:03,356
+00:23:01,029 --> 00:23:03,331
 - Vale, de acuerdo.
 - Adiós, papi.
 
 354
-00:23:03,357 --> 00:23:05,758
+00:23:03,332 --> 00:23:05,733
 - Adiós, te quiero.
 - Y yo a ti.
 
 355
-00:23:18,876 --> 00:23:20,578
+00:23:18,851 --> 00:23:20,553
 Amigo
 
 356
-00:23:21,946 --> 00:23:23,783
+00:23:21,921 --> 00:23:23,758
 Ahora no necesito tu ayuda.
 
 357
-00:23:23,784 --> 00:23:26,338
+00:23:23,759 --> 00:23:26,313
 Mira, necesito que esto sea lo que yo
 necesito, no lo que tú quieres que sea.
 
 358
-00:23:26,354 --> 00:23:29,621
+00:23:26,329 --> 00:23:29,596
 Necesito algo que ejecute programas
 PC IBM más rápido que un PC IBM.
 
 359
-00:23:29,622 --> 00:23:31,555
+00:23:29,597 --> 00:23:31,530
 ¿Qué? Les dije que no
 miraría el código original.
 
 360
-00:23:31,556 --> 00:23:33,990
+00:23:31,531 --> 00:23:33,965
 Te dejaría hacerlo a ti si tuviéramos
 tiempo, pero no lo tenemos.
 
 361
-00:23:33,991 --> 00:23:36,358
+00:23:33,966 --> 00:23:36,333
 Eso nos deja en una puerta
 que se está cerrando muy rápido.
 
 362
-00:23:36,359 --> 00:23:39,696
+00:23:36,334 --> 00:23:39,671
 Una vez estemos dentro, podremos
 utilizar esas grandes ideas tuyas.
 
 363
-00:23:39,697 --> 00:23:41,531
+00:23:39,672 --> 00:23:41,506
 Sí, y si copio ese
 código, iré a la cárcel.
 
 364
-00:23:41,532 --> 00:23:42,965
+00:23:41,507 --> 00:23:42,940
 IBM sabe que vas a mirarlo.
 
 365
-00:23:42,966 --> 00:23:45,869
+00:23:42,941 --> 00:23:45,844
 Solo cambia tu BIOS lo suficiente para
 mantenerte fuera de problemas.
 
 366
-00:23:45,870 --> 00:23:49,075
+00:23:45,845 --> 00:23:49,050
 Entonces, en un año, nuestro PC
 estará en un estante al lado del suyo.
 
 367
-00:23:49,076 --> 00:23:52,514
+00:23:49,051 --> 00:23:52,489
 Así es como funciona. Venga,
 vamos a entrar en el juego.
 
 368
-00:23:52,515 --> 00:23:55,219
+00:23:52,490 --> 00:23:55,194
 Estoy trabajando, así que
 ¿por qué no vas a hacer
 
 369
-00:23:55,220 --> 00:23:56,920
+00:23:55,195 --> 00:23:56,895
 lo que quiera que haga
 un gerente de productos?
 
 370
-00:23:59,556 --> 00:24:01,692
+00:23:59,531 --> 00:24:01,667
 Dios.
 
 371
-00:24:06,399 --> 00:24:08,832
+00:24:06,374 --> 00:24:08,807
 Estaba riquísimo.
 
 372
-00:24:11,803 --> 00:24:13,606
+00:24:11,778 --> 00:24:13,581
 ¿Puedo llevármelo? ¿Has terminado?
 
 373
-00:24:13,607 --> 00:24:14,740
+00:24:13,582 --> 00:24:14,715
 Toma, no, déjame levantar eso.
 
 374
-00:24:14,741 --> 00:24:16,375
+00:24:14,716 --> 00:24:16,350
 - No, no, lo tengo.
 - No, déjame levantarlo.
 
 375
-00:24:16,376 --> 00:24:18,678
+00:24:16,351 --> 00:24:18,653
 Gracias.
 
 376
-00:24:20,414 --> 00:24:22,117
+00:24:20,389 --> 00:24:22,092
 Así que, ¿has vuelto a trabajar hoy?
 
 377
-00:24:22,118 --> 00:24:24,320
+00:24:22,093 --> 00:24:24,295
 No, no hasta después de las tres.
 
 378
-00:24:24,321 --> 00:24:26,423
+00:24:24,296 --> 00:24:26,398
 Gracias a Dios que Hunt
 no se ha dado cuenta.
 
 379
-00:24:32,767 --> 00:24:36,437
+00:24:32,742 --> 00:24:36,412
 Mira, Cameron es una chica,
 ¿vale? Es una chica.
 
 380
-00:24:36,438 --> 00:24:39,640
+00:24:36,413 --> 00:24:39,615
 Lo siento. No sé por qué no te lo conté.
 
 381
-00:24:39,641 --> 00:24:41,912
+00:24:39,616 --> 00:24:41,887
 Cameron Howe es una chica.
 
 382
-00:24:41,913 --> 00:24:44,382
+00:24:41,888 --> 00:24:44,357
 Joe la contrató. Él la impuso.
 
 383
-00:24:44,383 --> 00:24:47,152
+00:24:44,358 --> 00:24:47,127
 He dicho chica, pero es rara.
 
 384
-00:24:47,153 --> 00:24:48,721
+00:24:47,128 --> 00:24:48,696
 Sí que fue a Austin Tech, pero...
 
 385
-00:24:48,722 --> 00:24:50,091
+00:24:48,697 --> 00:24:50,066
 La he conocido hoy.
 
 386
-00:24:50,092 --> 00:24:53,294
+00:24:50,067 --> 00:24:53,269
 ¿Y por qué no me lo habías dicho?
 
 387
-00:24:53,295 --> 00:24:55,129
+00:24:53,270 --> 00:24:55,104
 ¿Por qué no te lo había dicho?
 
 388
-00:24:55,130 --> 00:24:56,998
+00:24:55,105 --> 00:24:56,973
 Mira, no te preocupes, ¿vale?
 
 389
-00:24:56,999 --> 00:25:00,105
+00:24:56,974 --> 00:25:00,080
 Solo está escribiendo la
 BIOS y, después, bon voyage.
 
 390
-00:25:00,106 --> 00:25:03,407
+00:25:00,081 --> 00:25:03,382
 Sí, bueno, esperemos que
 Joe esté en lo cierto.
 
 391
-00:25:50,409 --> 00:25:53,945
+00:25:50,384 --> 00:25:53,920
 ¿Qué?
 
 392
-00:26:17,912 --> 00:26:19,914
+00:26:17,887 --> 00:26:19,889
 Disculpe, señorita.
 
 393
-00:26:21,251 --> 00:26:23,887
+00:26:21,226 --> 00:26:23,862
 Señorita, tenemos que hablar con usted.
 
 394
-00:26:23,888 --> 00:26:27,191
+00:26:23,863 --> 00:26:27,166
 ¿Qué? Bueno, lo pagaré todo.
 
 395
-00:26:28,427 --> 00:26:31,527
+00:26:28,402 --> 00:26:31,502
 Tenemos una oferta de la
 que queremos hablarle.
 
 396
-00:26:33,896 --> 00:26:36,498
+00:26:33,871 --> 00:26:36,473
 - ¿Maylene?
 - ¿Sí?
 
 397
-00:26:36,499 --> 00:26:39,001
+00:26:36,474 --> 00:26:38,976
 ¿Por qué no puedo hablar por
 teléfono con Carl Suberry?
 
 398
-00:26:39,002 --> 00:26:41,239
+00:26:38,977 --> 00:26:41,214
 - Déjeme intentarlo en su oficina.
 - No, ya lo he intentado con su oficina,
 
 399
-00:26:41,240 --> 00:26:44,510
+00:26:41,215 --> 00:26:44,485
 y con su casa y ese teléfono
 que tiene en el coche.
 
 400
-00:26:44,511 --> 00:26:46,913
+00:26:44,486 --> 00:26:46,888
 Ya sabes, ¿y con Jeff Martin de EDS?
 
 401
-00:26:46,914 --> 00:26:48,548
+00:26:46,889 --> 00:26:48,523
 Su oficina dice que
 sigue en una reunión.
 
 402
-00:26:53,587 --> 00:26:55,388
+00:26:53,562 --> 00:26:55,363
 ClubSys también se retira.
 
 403
-00:26:55,389 --> 00:26:57,825
+00:26:55,364 --> 00:26:57,800
 Ponle al teléfono. Ponle ya.
 
 404
-00:26:57,826 --> 00:27:00,195
+00:26:57,801 --> 00:27:00,170
 Sí, señor.
 
 405
-00:27:00,196 --> 00:27:02,465
+00:27:00,171 --> 00:27:02,440
 ¿Qué demonios está pasando?
 
 406
-00:27:04,436 --> 00:27:07,507
+00:27:04,411 --> 00:27:07,482
 De hecho... sí, señor.
 
 407
-00:27:07,508 --> 00:27:10,742
+00:27:07,483 --> 00:27:10,717
 - Esos son tres que nos dejan.
 - Turner, ¿qué estás haciendo?
 
 408
-00:27:10,743 --> 00:27:14,784
+00:27:10,718 --> 00:27:14,759
 - ¿Qué ocurre? - Acabamos de
 perder a Granger, se va a IBM.
 
 409
-00:27:15,350 --> 00:27:17,454
+00:27:15,325 --> 00:27:17,429
 Vuelve a ponerlo al teléfono.
 Vuelve a ponerlo...
 
 410
-00:27:17,455 --> 00:27:19,456
+00:27:17,430 --> 00:27:19,431
 John, nos están invadiendo.
 
 411
-00:27:22,360 --> 00:27:24,995
+00:27:22,335 --> 00:27:24,970
 ¿Es Jim? Jim, Jim, Jim.
 
 412
-00:27:24,996 --> 00:27:26,965
+00:27:24,971 --> 00:27:26,940
 Jimmy. Hola, qué hay.
 
 413
-00:27:26,966 --> 00:27:28,565
+00:27:26,941 --> 00:27:28,540
 Déjame volver contigo.
 Déjame volver contigo.
 
 414
-00:27:28,566 --> 00:27:30,000
+00:27:28,541 --> 00:27:29,975
 Llevamos haciendo negocios 11 años.
 
 415
-00:27:30,001 --> 00:27:32,772
+00:27:29,976 --> 00:27:32,747
 Odiaría verte salir pitando
 hacia IBM. Vamos, Jim.
 
 416
-00:27:32,773 --> 00:27:36,079
+00:27:32,748 --> 00:27:36,054
 Están desinstalando todos los sistemas
 de Cardif en Texas Communications.
 
 417
-00:27:36,080 --> 00:27:38,949
+00:27:36,055 --> 00:27:38,924
 Bien, haz algo con eso, Gordon.
 
 418
-00:27:38,950 --> 00:27:41,122
+00:27:38,925 --> 00:27:41,097
 Dios... vuelve a poner
 a Jim al teléfono.
 
 419
-00:27:41,123 --> 00:27:43,525
+00:27:41,098 --> 00:27:43,500
 IBM está contraofertándonos
 por 300 de los grandes.
 
 420
-00:27:43,526 --> 00:27:45,926
+00:27:43,501 --> 00:27:45,901
 - ¡Ponle al teléfono ahora!
 - De acuerdo, lo siento.
 
 421
-00:27:45,927 --> 00:27:48,428
+00:27:45,902 --> 00:27:48,403
 ¿Eres Bill? Hola, Bill, ¿cómo estás?
 
 422
-00:27:48,429 --> 00:27:51,333
+00:27:48,404 --> 00:27:51,308
 No, no, deja que le quite
 importancia, amigo. Vamos.
 
 423
-00:27:51,334 --> 00:27:52,086
+00:27:51,309 --> 00:27:52,061
 Espera.
 
 424
-00:27:52,087 --> 00:27:55,004
+00:27:52,062 --> 00:27:54,979
 Hemos perdido American Airlines,
 Texas Comm, ClubSys,
 
 425
-00:27:55,005 --> 00:27:57,309
+00:27:54,980 --> 00:27:57,284
 EDS, General Dynamics y otras siete más.
 
 426
-00:27:57,310 --> 00:27:59,812
+00:27:57,285 --> 00:27:59,787
 - Déjeme ayudar.
 - Llevas 10 días, por el amor de Dios.
 
 427
-00:27:59,813 --> 00:28:00,978
+00:27:59,788 --> 00:28:00,953
 Conozco el negocio.
 
 428
-00:28:00,979 --> 00:28:02,646
+00:28:00,954 --> 00:28:02,621
 Hijo, esto trata sobre las relaciones.
 
 429
-00:28:02,647 --> 00:28:04,649
+00:28:02,622 --> 00:28:04,624
 Es algo que tú no entenderías.
 
 430
-00:28:04,650 --> 00:28:07,318
+00:28:04,625 --> 00:28:07,293
 Toma, habla con él. Quítate de mi vista.
 
 431
-00:28:07,319 --> 00:28:09,585
+00:28:07,294 --> 00:28:09,560
 Bill, sí.
 
 432
-00:28:14,097 --> 00:28:18,424
+00:28:14,072 --> 00:28:18,399
 Carl, vamos. Carl, que soy John.
 
 433
-00:28:18,425 --> 00:28:20,258
+00:28:18,400 --> 00:28:20,233
 No me hagas esto.
 
 434
-00:28:20,259 --> 00:28:23,996
+00:28:20,234 --> 00:28:23,971
 Vamos, Carl. ¿Me vas a
 hacer suplicar por esto?
 
 435
-00:28:26,130 --> 00:28:28,000
+00:28:26,105 --> 00:28:27,975
 De acuerdo.
 
 436
-00:28:28,001 --> 00:28:31,202
+00:28:27,976 --> 00:28:31,177
 De acuerdo. Si quieres abandonar
 el barco y subirte al de IBM,
 
 437
-00:28:31,203 --> 00:28:33,338
+00:28:31,178 --> 00:28:33,313
 tú mismo.
 
 438
-00:28:33,339 --> 00:28:35,776
+00:28:33,314 --> 00:28:35,751
 Pero recuerda que fui
 yo el que informatizó
 
 439
-00:28:35,777 --> 00:28:37,879
+00:28:35,752 --> 00:28:37,854
 tu basura de compañía hace 15 años.
 
 440
-00:28:37,880 --> 00:28:40,777
+00:28:37,855 --> 00:28:40,752
 ¿Sí? ¡Sí, bueno, eras
 un receptor terrible
 
 441
-00:28:40,778 --> 00:28:44,645
+00:28:40,753 --> 00:28:44,620
 cuyo culo estuvo chupando más
 banquillo que corriendo, Carl!
 
 442
-00:28:51,284 --> 00:28:53,221
+00:28:51,259 --> 00:28:53,196
 Carl dice que no.
 
 443
-00:28:53,222 --> 00:28:55,724
+00:28:53,197 --> 00:28:55,699
 Entonces asumiendo
 que ADP sigue fuera...
 
 444
-00:28:57,858 --> 00:29:00,892
+00:28:57,833 --> 00:29:00,867
 15 cuentas perdidas, de las
 cuales, las tres principales
 
 445
-00:29:00,893 --> 00:29:03,531
+00:29:00,868 --> 00:29:03,506
 representan el 68 por ciento
 de nuestro núcleo de facturación.
 
 446
-00:29:03,532 --> 00:29:05,667
+00:29:03,507 --> 00:29:05,642
 Dios.
 
 447
-00:29:05,668 --> 00:29:09,139
+00:29:05,643 --> 00:29:09,114
 Entonces, ¿con qué severidad
 nos van a afectar estos
 
 448
-00:29:09,140 --> 00:29:11,775
+00:29:09,115 --> 00:29:11,750
 contratiempos al programa
 PC en términos de...?
 
 449
-00:29:11,776 --> 00:29:15,710
+00:29:11,751 --> 00:29:15,685
 Sin estos 15 clientes, y dada la actual
 sobrecarga de personal y su tamaño,
 
 450
-00:29:15,711 --> 00:29:18,414
+00:29:15,686 --> 00:29:18,389
 Cardiff Electric será capaz
 de mantenerse operativa
 
 451
-00:29:18,415 --> 00:29:21,150
+00:29:18,390 --> 00:29:21,125
 durante poco menos de dos meses.
 
 452
-00:29:22,753 --> 00:29:24,486
+00:29:22,728 --> 00:29:24,461
 ¿Dos meses?
 
 453
-00:29:24,487 --> 00:29:26,154
+00:29:24,462 --> 00:29:26,129
 ¿Has oído eso, Gordon?
 
 454
-00:29:26,155 --> 00:29:28,723
+00:29:26,130 --> 00:29:28,698
 ¿Dos meses?
 
 455
-00:29:28,724 --> 00:29:31,559
+00:29:28,699 --> 00:29:31,534
 Por lo que dice Alan, y
 quiero ser claro en esto...
 
 456
-00:29:31,560 --> 00:29:35,363
+00:29:31,535 --> 00:29:35,338
 IBM nos acaba de rajar las gargantas
 
 457
-00:29:35,364 --> 00:29:38,336
+00:29:35,339 --> 00:29:38,311
 y nos ha dejado desangrándonos como
 un cerdo colgado de un gancho,
 
 458
-00:29:38,337 --> 00:29:41,709
+00:29:38,312 --> 00:29:41,684
 y la próxima semana, la mitad
 de esa gente de ahí fuera
 
 459
-00:29:41,710 --> 00:29:44,046
+00:29:41,685 --> 00:29:44,021
 se va a quedar sin trabajo, en la calle,
 
 460
-00:29:44,047 --> 00:29:46,350
+00:29:44,022 --> 00:29:46,325
 por tu ordenador personal.
 
 461
-00:29:46,351 --> 00:29:48,888
+00:29:46,326 --> 00:29:48,863
 Y sin embargo, sabías
 que esto podía ocurrir.
 
 462
-00:29:48,889 --> 00:29:50,991
+00:29:48,864 --> 00:29:50,966
 Es todo parte del plan.
 
 463
-00:29:52,892 --> 00:29:55,353
+00:29:52,867 --> 00:29:55,328
 Dime que tienes un plan, Joe.
 
 464
-00:30:03,765 --> 00:30:06,734
+00:30:03,740 --> 00:30:06,709
 Solo estabas fingiendo.
 
 465
-00:30:06,735 --> 00:30:08,276
+00:30:06,710 --> 00:30:08,251
 Eres como uno de esos
 tipos que va por ahí
 
 466
-00:30:08,277 --> 00:30:09,804
+00:30:08,252 --> 00:30:09,779
 y lee "El guardián entre
 el centeno" demasiadas veces
 
 467
-00:30:09,805 --> 00:30:11,769
+00:30:09,780 --> 00:30:11,744
 y entonces decide disparar a un Beatle.
 
 468
-00:30:11,770 --> 00:30:13,738
+00:30:11,745 --> 00:30:13,713
 Solo que en esta historia,
 yo soy el Beatle.
 
 469
-00:30:13,739 --> 00:30:15,973
+00:30:13,714 --> 00:30:15,948
 Porque leíste mi
 artículo en una revista.
 
 470
-00:30:15,974 --> 00:30:17,807
+00:30:15,949 --> 00:30:17,782
 Leíste mi artículo y preparaste un plan
 
 471
-00:30:17,808 --> 00:30:20,542
+00:30:17,783 --> 00:30:20,517
 y en ningún momento te
 paraste a pensar algo como...
 
 472
-00:30:20,543 --> 00:30:24,951
+00:30:20,518 --> 00:30:24,926
 ¿Simplemente recitaste tus palabras
 mágicas con una gran y sucia sonrisa?
 
 473
-00:30:37,061 --> 00:30:39,730
+00:30:37,036 --> 00:30:39,705
 ¿Dónde está?
 
 474
-00:30:39,731 --> 00:30:41,768
+00:30:39,706 --> 00:30:41,743
 Vamos, ¿dónde está?
 
 475
-00:30:50,040 --> 00:30:52,039
+00:30:50,015 --> 00:30:52,014
 ¿Joe?
 
 476
-00:30:56,011 --> 00:30:57,680
+00:30:55,986 --> 00:30:57,655
 ¿Dónde está ella?
 
 477
-00:30:57,681 --> 00:31:00,148
+00:30:57,656 --> 00:31:00,123
 La BIOS.
 
 478
-00:31:00,981 --> 00:31:03,247
+00:31:00,956 --> 00:31:03,222
 ¿Qué?
 
 479
-00:31:05,217 --> 00:31:07,586
+00:31:05,192 --> 00:31:07,561
 ¿Dónde está la carpeta, Joe?
 
 480
-00:31:09,322 --> 00:31:11,824
+00:31:09,297 --> 00:31:11,799
 Por favor, dime que
 no le diste la carpeta.
 
 481
-00:31:11,825 --> 00:31:15,063
+00:31:11,800 --> 00:31:15,038
 El código en ensamblador,
 la BIOS de IBM.
 
 482
-00:31:15,064 --> 00:31:16,866
+00:31:15,039 --> 00:31:16,841
 ¡Mierda, querías que se
 pusiera otra vez en marcha!
 
 483
-00:31:16,867 --> 00:31:18,267
+00:31:16,842 --> 00:31:18,242
 ¡No me lo encasquetes a mí!
 
 484
-00:31:18,268 --> 00:31:20,636
+00:31:18,243 --> 00:31:20,611
 ¡Básicamente me pediste que se lo diera!
 
 485
-00:31:20,637 --> 00:31:23,037
+00:31:20,612 --> 00:31:23,012
 Vamos a ir a la cárcel.
 
 486
-00:31:23,038 --> 00:31:25,872
+00:31:23,013 --> 00:31:25,847
 No vamos a ir a la cárcel.
 Siempre hay otra jugada.
 
 487
-00:31:25,873 --> 00:31:28,775
+00:31:25,848 --> 00:31:28,750
 La había. Y era no darle la carpeta.
 
 488
-00:31:28,776 --> 00:31:30,847
+00:31:28,751 --> 00:31:30,822
 Quizá no se haya ido. Quizá
 solo se haya distanciado.
 
 489
-00:31:30,848 --> 00:31:33,549
+00:31:30,823 --> 00:31:33,524
 Mira, no está aquí. Y estoy seguro
 de que no está en su terminal.
 
 490
-00:31:33,550 --> 00:31:36,383
+00:31:33,525 --> 00:31:36,358
 Y como no sabemos absolutamente
 nada de esta chica,
 
 491
-00:31:36,384 --> 00:31:39,288
+00:31:36,359 --> 00:31:39,263
 a menos que esté en el baño, estamos...
 
 492
-00:31:44,291 --> 00:31:47,222
+00:31:44,266 --> 00:31:47,197
 Mira esto.
 
 493
-00:31:47,223 --> 00:31:49,455
+00:31:47,198 --> 00:31:49,430
 La forma en la que ataja el...
 
 494
-00:31:51,824 --> 00:31:53,757
+00:31:51,799 --> 00:31:53,732
 Qué desastre.
 
 495
-00:31:56,726 --> 00:32:00,198
+00:31:56,701 --> 00:32:00,173
 No. No.
 
 496
-00:32:02,132 --> 00:32:04,362
+00:32:02,107 --> 00:32:04,337
 No, es brillante.
 
 497
-00:32:06,498 --> 00:32:08,733
+00:32:06,473 --> 00:32:08,708
 Es brillante.
 
 498
-00:33:01,619 --> 00:33:03,386
+00:33:01,594 --> 00:33:03,361
 Eso es un sistema de cassette.
 
 499
-00:33:03,387 --> 00:33:05,387
+00:33:03,362 --> 00:33:05,362
 Nuevo en el mercado.
 
 500
-00:33:05,388 --> 00:33:07,268
+00:33:05,363 --> 00:33:07,243
 Podría rebajárselo un poco más.
 
 501
-00:33:08,325 --> 00:33:10,992
+00:33:08,300 --> 00:33:10,967
 Están marcados para retirarlos, ¿sabe?
 
 502
-00:33:10,993 --> 00:33:13,219
+00:33:10,968 --> 00:33:13,194
 Quiero decir, no pretendo
 atribuirlo a la deflación,
 
 503
-00:33:13,962 --> 00:33:16,431
+00:33:13,937 --> 00:33:16,406
 solo que no veo que se
 venda ningún producto.
 
 504
-00:33:16,432 --> 00:33:18,432
+00:33:16,407 --> 00:33:18,407
 Pero ya sabe cómo es eso, ¿no?
 
 505
-00:33:18,433 --> 00:33:20,567
+00:33:18,408 --> 00:33:20,542
 Usted es vendedor.
 
 506
-00:33:20,568 --> 00:33:22,169
+00:33:20,543 --> 00:33:22,144
 Lo sabía.
 
 507
-00:33:22,170 --> 00:33:24,839
+00:33:22,145 --> 00:33:24,814
 Dios los cría...
 
 508
-00:33:24,840 --> 00:33:27,209
+00:33:24,815 --> 00:33:27,184
 Así que cierras el negocio.
 
 509
-00:33:27,210 --> 00:33:30,844
+00:33:27,185 --> 00:33:30,819
 Sí, no puedo recordar mi último cliente.
 
 510
-00:33:30,845 --> 00:33:35,084
+00:33:30,820 --> 00:33:35,059
 Yo soy un cliente. Véndeme un estéreo.
 
 511
-00:33:35,085 --> 00:33:36,818
+00:33:35,060 --> 00:33:36,793
 Ok.
 
 512
-00:33:36,819 --> 00:33:40,285
+00:33:36,794 --> 00:33:40,260
 Ese es el MRF-1080. Verdadero sistema
 de referencia. Bobina móvil...
 
 513
-00:33:40,286 --> 00:33:41,919
+00:33:40,261 --> 00:33:41,894
 ¿Cuál es tu problema?
 
 514
-00:33:41,920 --> 00:33:44,556
+00:33:41,895 --> 00:33:44,531
 - ¿Perdone?
 - ¿Qué hiciste mal?
 
 515
-00:33:44,557 --> 00:33:47,359
+00:33:44,532 --> 00:33:47,334
 ¿Por qué va a cerrar esta tienda?
 
 516
-00:33:47,360 --> 00:33:49,227
+00:33:47,335 --> 00:33:49,202
 Debe haber una razón.
 Quiero saber cuál es.
 
 517
-00:33:49,228 --> 00:33:51,364
+00:33:49,203 --> 00:33:51,339
 Ni idea. Quiero decir, la
 calidad de sonido es genial.
 
 518
-00:33:51,365 --> 00:33:52,565
+00:33:51,340 --> 00:33:52,540
 La gente no quiere invert...
 
 519
-00:33:52,566 --> 00:33:54,801
+00:33:52,541 --> 00:33:54,776
 Simplemente no lo viste venir.
 
 520
-00:33:54,802 --> 00:33:58,740
+00:33:54,777 --> 00:33:58,715
 Mire, señor, no sé de
 qué va todo esto pero...
 
 521
-00:33:58,741 --> 00:34:01,179
+00:33:58,716 --> 00:34:01,154
 Eh, no haga eso.
 
 522
-00:34:01,180 --> 00:34:04,317
+00:34:01,155 --> 00:34:04,292
 Señor, no... si lo toca,
 lo compra, ¿de acuerdo?
 
 523
-00:34:04,318 --> 00:34:06,317
+00:34:04,293 --> 00:34:06,292
 - ¡Va a hacer estallar los altavoces!
 - ¿Ese es tu trabajo?
 
 524
-00:34:06,318 --> 00:34:07,098
+00:34:06,293 --> 00:34:07,073
 ¡Vamos!
 
 525
-00:34:07,099 --> 00:34:10,124
+00:34:07,074 --> 00:34:10,099
 Si ni siquiera puedes verlo,
 ¿por qué sigues aquí?
 
 526
-00:34:10,125 --> 00:34:11,492
+00:34:10,100 --> 00:34:11,467
 Voy a llamar a la policía.
 
 527
-00:34:31,198 --> 00:34:33,334
+00:34:31,173 --> 00:34:33,309
 Solo llevará un minuto.
 
 528
-00:34:36,776 --> 00:34:38,107
+00:34:36,751 --> 00:34:38,082
 Acogedor.
 
 529
-00:34:38,108 --> 00:34:40,243
+00:34:38,083 --> 00:34:40,218
 ¿Qué es lo que quieres?
 
 530
-00:34:42,516 --> 00:34:44,418
+00:34:42,491 --> 00:34:44,393
 Es una pena, pero no me puedo quedar.
 
 531
-00:34:44,419 --> 00:34:46,486
+00:34:44,394 --> 00:34:46,461
 Tengo que coger un vuelo
 nocturno a las 9:30.
 
 532
-00:34:46,487 --> 00:34:49,757
+00:34:46,462 --> 00:34:49,732
 Pero quería ocuparme de una
 última cosa antes de marcharnos.
 
 533
-00:34:49,758 --> 00:34:53,426
+00:34:49,733 --> 00:34:53,401
 Cuando te largaste, nunca
 diste un aviso formal.
 
 534
-00:34:53,427 --> 00:34:56,230
+00:34:53,402 --> 00:34:56,205
 Salarios atrasados.
 
 535
-00:34:56,231 --> 00:34:59,263
+00:34:56,206 --> 00:34:59,238
 Tenías unos días de vacaciones en el
 sistema que no llegaste a utilizar.
 
 536
-00:34:59,264 --> 00:35:02,467
+00:34:59,239 --> 00:35:02,442
 615,38 dólares.
 
 537
-00:35:02,468 --> 00:35:04,403
+00:35:02,443 --> 00:35:04,378
 Aquí tienes.
 
 538
-00:35:04,404 --> 00:35:07,771
+00:35:04,379 --> 00:35:07,746
 615,38 dólares.
 
 539
-00:35:07,772 --> 00:35:11,342
+00:35:07,747 --> 00:35:11,317
 Provoqué un daño al datacenter valorado
 en dos millones de dólares.
 
 540
-00:35:11,343 --> 00:35:14,910
+00:35:11,318 --> 00:35:14,885
 Sí, bueno. Tras reclamarlo al seguro
 
 541
-00:35:14,911 --> 00:35:16,971
+00:35:14,886 --> 00:35:16,946
 también acabamos ganando
 más dinero con ese asunto.
 
 542
-00:35:19,382 --> 00:35:23,448
+00:35:19,357 --> 00:35:23,423
 Considera tu archivo de
 empleado de IBM cerrado.
 
 543
-00:35:23,449 --> 00:35:26,069
+00:35:23,424 --> 00:35:26,044
 Eso es, a menos que vuelvas con
 nosotros esta noche en el avión.
 
 544
-00:35:27,617 --> 00:35:31,485
+00:35:27,592 --> 00:35:31,460
 Incluso te hemos sacado
 un billete, por si acaso.
 
 545
-00:35:31,486 --> 00:35:34,521
+00:35:31,461 --> 00:35:34,496
 En clase business, pasillo.
 
 546
-00:35:34,522 --> 00:35:36,190
+00:35:34,497 --> 00:35:36,165
 Muy bonito.
 
 547
-00:35:36,191 --> 00:35:39,192
+00:35:36,166 --> 00:35:39,167
 Me gusta esto.
 
 548
-00:35:40,659 --> 00:35:43,195
+00:35:40,634 --> 00:35:43,170
 Bueno, le prometí a tu viejo
 que te daría una oportunidad.
 
 549
-00:35:46,468 --> 00:35:48,202
+00:35:46,443 --> 00:35:48,177
 Diría que estará decepcionado,
 
 550
-00:35:48,203 --> 00:35:51,103
+00:35:48,178 --> 00:35:51,078
 pero ya está bastante decepcionado.
 
 551
-00:36:00,517 --> 00:36:03,383
+00:36:00,492 --> 00:36:03,358
 Posiblemente te guste estar aquí ahora,
 
 552
-00:36:03,384 --> 00:36:04,984
+00:36:03,359 --> 00:36:04,959
 pero...
 
 553
-00:36:04,985 --> 00:36:08,285
+00:36:04,960 --> 00:36:08,260
 veamos qué ocurre cuando averigüen
 
 554
-00:36:08,286 --> 00:36:11,323
+00:36:08,261 --> 00:36:11,298
 qué eres realmente.
 
 555
-00:36:52,691 --> 00:36:55,225
+00:36:52,666 --> 00:36:55,200
 ¿Dónde está?
 
 556
-00:36:55,226 --> 00:36:58,429
+00:36:55,201 --> 00:36:58,404
 - ¿Dónde está el qué?
 - La carpeta, la BIOS.
 
 557
-00:36:58,430 --> 00:37:00,433
+00:36:58,405 --> 00:37:00,408
 ¿Se lo has dado a IBM?
 
 558
-00:37:00,434 --> 00:37:02,934
+00:37:00,409 --> 00:37:02,909
 ¿Para qué estoy realmente aquí? ¿Eh?
 
 559
-00:37:02,935 --> 00:37:05,870
+00:37:02,910 --> 00:37:05,845
 Para cuatro o cinco semanas, el
 tiempo que me lleve escribirla, ¿no?
 
 560
-00:37:05,871 --> 00:37:08,038
+00:37:05,846 --> 00:37:08,013
 ¿Y luego qué? ¿Estoy fuera?
 
 561
-00:37:08,039 --> 00:37:11,036
+00:37:08,014 --> 00:37:11,011
 ¿Qué? No.
 
 562
-00:37:11,037 --> 00:37:14,606
+00:37:11,012 --> 00:37:14,581
 No, no, ¿quién te dijo eso?
 
 563
-00:37:18,109 --> 00:37:19,977
+00:37:18,084 --> 00:37:19,952
 Portabilidad.
 
 564
-00:37:19,978 --> 00:37:23,115
+00:37:19,953 --> 00:37:23,090
 La gente necesita poder
 llevarlo a todas partes.
 
 565
-00:37:23,842 --> 00:37:25,986
+00:37:23,817 --> 00:37:25,961
 Va a tener una manija.
 
 566
-00:37:25,987 --> 00:37:28,590
+00:37:25,962 --> 00:37:28,565
 ¿Una manija?
 
 567
-00:37:28,591 --> 00:37:31,591
+00:37:28,566 --> 00:37:31,566
 Dios mío, Joe. Tengo que reconocértelo.
 
 568
-00:37:31,592 --> 00:37:33,025
+00:37:31,567 --> 00:37:33,000
 Esto lo cambia todo.
 
 569
-00:37:33,026 --> 00:37:36,294
+00:37:33,001 --> 00:37:36,269
 Una manija. Qué revolucionaria idea.
 
 570
-00:37:36,295 --> 00:37:38,728
+00:37:36,270 --> 00:37:38,703
 Entonces sigue siendo una copia
 de mierda de una caja aburrida.
 
 571
-00:37:38,729 --> 00:37:40,663
+00:37:38,704 --> 00:37:40,638
 Joe, le ha dado la carpeta a IBM.
 
 572
-00:37:40,664 --> 00:37:42,499
+00:37:40,639 --> 00:37:42,474
 ¿Que has hecho qué?
 
 573
-00:37:42,500 --> 00:37:44,402
+00:37:42,475 --> 00:37:44,377
 No he dicho que le haya
 dado la carpeta a IBM.
 
 574
-00:37:44,403 --> 00:37:45,970
+00:37:44,378 --> 00:37:45,945
 - Entonces, ¿dónde está?
 - ¿Qué importa eso?
 
 575
-00:37:45,971 --> 00:37:48,004
+00:37:45,946 --> 00:37:47,979
 Me ibas a despedir tras terminar
 la BIOS de todas formas.
 
 576
-00:37:48,005 --> 00:37:51,570
+00:37:47,980 --> 00:37:51,545
 - Sí, ¿y nos culpas?
 - Así que es cierto.
 
 577
-00:37:51,571 --> 00:37:53,404
+00:37:51,546 --> 00:37:53,379
 Fantástico.
 
 578
-00:37:53,405 --> 00:37:55,771
+00:37:53,380 --> 00:37:55,746
 No se preocupen, IBM me dará un trabajo
 con el triple de salario así que...
 
 579
-00:37:55,772 --> 00:37:58,406
+00:37:55,747 --> 00:37:58,381
 Excelente, excelente. Es un
 lugar genial para trabajar.
 
 580
-00:37:58,407 --> 00:38:00,007
+00:37:58,382 --> 00:37:59,982
 Podría escribirte una recomendación.
 
 581
-00:38:00,008 --> 00:38:01,307
+00:37:59,983 --> 00:38:01,282
 - ¿Lo harías?
 - Eso es.
 
 582
-00:38:01,308 --> 00:38:03,107
+00:38:01,283 --> 00:38:03,082
 Eso es, tú trabajabas para IBM.
 
 583
-00:38:03,108 --> 00:38:04,607
+00:38:03,083 --> 00:38:04,582
 Eso fue antes de que vinieses aquí
 
 584
-00:38:04,608 --> 00:38:07,189
+00:38:04,583 --> 00:38:07,164
 y arruinases la vida de muchas
 personas y a la compañía entera.
 
 585
-00:38:10,276 --> 00:38:12,508
+00:38:10,251 --> 00:38:12,483
 Antes de mí, te estabas
 emborrachando, no construyendo,
 
 586
-00:38:12,509 --> 00:38:16,045
+00:38:12,484 --> 00:38:16,020
 y tus pelotas estaban en una caja,
 en la mesita de noche de tu mujer.
 
 587
-00:38:18,945 --> 00:38:20,545
+00:38:18,920 --> 00:38:20,520
 ¡Déjalo, hombre!
 
 588
-00:38:28,154 --> 00:38:30,054
+00:38:28,129 --> 00:38:30,029
 Mierda.
 
 589
-00:38:39,126 --> 00:38:41,559
+00:38:39,101 --> 00:38:41,534
 Tenía nueve años.
 
 590
-00:38:42,961 --> 00:38:45,295
+00:38:42,936 --> 00:38:45,270
 Había algunos chicos en
 mi escuela que solían...
 
 591
-00:38:47,199 --> 00:38:49,133
+00:38:47,174 --> 00:38:49,108
 perseguirme.
 
 592
-00:38:49,731 --> 00:38:53,275
+00:38:49,706 --> 00:38:53,250
 No me importaban los New
 York Giants como a ellos.
 
 593
-00:38:53,276 --> 00:38:55,077
+00:38:53,251 --> 00:38:55,052
 Me importaba el Sputnik.
 
 594
-00:38:55,078 --> 00:38:58,079
+00:38:55,053 --> 00:38:58,054
 Estaba loco por ello. Me apasionaba.
 
 595
-00:38:59,283 --> 00:39:02,449
+00:38:59,258 --> 00:39:02,424
 Nadie me dijo que los adultos
 
 596
-00:39:02,450 --> 00:39:04,552
+00:39:02,425 --> 00:39:04,527
 tuviesen que estar avergonzados
 de esos sentimientos.
 
 597
-00:39:04,553 --> 00:39:09,090
+00:39:04,528 --> 00:39:09,065
 Aprendí esa lección la noche que
 los Colts ganaron a los Giants.
 
 598
-00:39:10,459 --> 00:39:13,297
+00:39:10,434 --> 00:39:13,272
 El campeonato del 58, el
 mejor partido de la historia,
 
 599
-00:39:13,298 --> 00:39:15,164
+00:39:13,273 --> 00:39:15,139
 y ni siquiera vi un poco.
 
 600
-00:39:15,165 --> 00:39:18,065
+00:39:15,140 --> 00:39:18,040
 Estaba enchufado a unas
 máquinas en el St. Peter.
 
 601
-00:39:18,066 --> 00:39:22,171
+00:39:18,041 --> 00:39:22,146
 A día de hoy, no les culpo.
 
 602
-00:39:22,172 --> 00:39:25,040
+00:39:22,147 --> 00:39:25,015
 No creo que quisieran
 tirarme del tejado.
 
 603
-00:39:28,578 --> 00:39:32,413
+00:39:28,553 --> 00:39:32,388
 Después de IBM, recorrí el país
 
 604
-00:39:32,414 --> 00:39:34,949
+00:39:32,389 --> 00:39:34,924
 buscando respuestas.
 
 605
-00:39:34,950 --> 00:39:39,187
+00:39:34,925 --> 00:39:39,162
 Leí tu artículo y no pude
 dejar de pensar en ello.
 
 606
-00:39:39,188 --> 00:39:42,892
+00:39:39,163 --> 00:39:42,867
 Arquitectura abierta, esa idea.
 
 607
-00:39:42,893 --> 00:39:44,995
+00:39:42,868 --> 00:39:44,970
 Como una forma de vida.
 
 608
-00:39:44,996 --> 00:39:48,264
+00:39:44,971 --> 00:39:48,239
 Me mantenía despierto por las noches.
 Me convirtió en aquel niño de nuevo,
 
 609
-00:39:48,265 --> 00:39:50,067
+00:39:48,240 --> 00:39:50,042
 y te seguí la pista hasta COMDEX
 
 610
-00:39:50,068 --> 00:39:53,137
+00:39:50,043 --> 00:39:53,112
 y también vi cómo te echaron a ti
 
 611
-00:39:53,138 --> 00:39:56,307
+00:39:53,113 --> 00:39:56,282
 y a tu preciosa máquina
 de las estanterías.
 
 612
-00:39:57,342 --> 00:40:00,112
+00:39:57,317 --> 00:40:00,087
 Y tú, cuando te vi,
 
 613
-00:40:00,113 --> 00:40:03,284
+00:40:00,088 --> 00:40:03,259
 todo sobre ti amenaza a la gente.
 
 614
-00:40:03,285 --> 00:40:06,023
+00:40:03,260 --> 00:40:05,998
 Pensé que quizás podríamos hacer esto
 
 615
-00:40:06,024 --> 00:40:08,791
+00:40:05,999 --> 00:40:08,766
 precisamente porque no
 somos personas razonables
 
 616
-00:40:08,792 --> 00:40:12,596
+00:40:08,767 --> 00:40:12,571
 y el progreso depende de cómo cambiemos
 el mundo para amoldarse a nosotros.
 
 617
-00:40:13,900 --> 00:40:16,301
+00:40:13,875 --> 00:40:16,276
 Y no al contrario.
 
 618
-00:40:18,071 --> 00:40:20,208
+00:40:18,046 --> 00:40:20,183
 Quiero creer eso.
 
 619
-00:40:22,913 --> 00:40:24,946
+00:40:22,888 --> 00:40:24,921
 Debo creer eso.
 
 620
-00:40:25,872 --> 00:40:28,216
+00:40:25,847 --> 00:40:28,191
 Mañana, estaré por aquí a las 7:00 A.M.
 
 621
-00:40:28,217 --> 00:40:30,985
+00:40:28,192 --> 00:40:30,960
 y continuaré.
 
 622
-00:40:30,986 --> 00:40:34,390
+00:40:30,961 --> 00:40:34,365
 No tienen que unirse a mí, pero...
 
 623
-00:40:35,958 --> 00:40:37,857
+00:40:35,933 --> 00:40:37,832
 algo me dice que
 
 624
-00:40:37,858 --> 00:40:42,263
+00:40:37,833 --> 00:40:42,238
 ambos necesitan esto tanto como yo.
 
 625
-00:41:52,470 --> 00:41:54,772
+00:41:52,445 --> 00:41:54,747
 Hola.
 
 626
-00:41:56,240 --> 00:41:58,309
+00:41:56,215 --> 00:41:58,284
 ¿El mejor partido de la historia?
 
 627
-00:41:58,310 --> 00:42:01,448
+00:41:58,285 --> 00:42:01,423
 Mi padre solía contarme historias
 antes de dormir cuando era niña.
 
 628
-00:42:01,449 --> 00:42:04,950
+00:42:01,424 --> 00:42:04,925
 El tiempo de descuento, las 12
 recepciones de Raymond Berry, todo eso.
 
 629
-00:42:07,288 --> 00:42:10,860
+00:42:07,263 --> 00:42:10,835
 El partido fue en diciembre del 58.
 
 630
-00:42:10,861 --> 00:42:14,894
+00:42:10,836 --> 00:42:14,869
 El Sputnik cayó casi un año antes.
 
 631
-00:42:16,429 --> 00:42:18,396
+00:42:16,404 --> 00:42:18,371
 ¿De verdad?
