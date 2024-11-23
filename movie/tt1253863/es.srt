@@ -1,0 +1,4162 @@
+WEBVTT
+
+1
+00:00:56.390 --> 00:00:58.881
+<i>Las palabras del Oráculo
+permanecen como una advertencia.</i>
+
+2
+00:00:59.601 --> 00:01:00.601
+<i>Una profecía.</i>
+
+3
+00:01:02.521 --> 00:01:04.307
+<i>"Esparta caerá.</i>
+
+4
+00:01:04.815 --> 00:01:07.557
+<i>Toda Grecia caerá".</i>
+
+5
+00:01:14.366 --> 00:01:17.984
+<i>Y el fuego persa reducirá
+a Atenas a cenizas.</i>
+
+6
+00:01:18.745 --> 00:01:21.282
+<i>Pues Atenas es una pila
+de piedra y madera...</i>
+
+7
+00:01:21.540 --> 00:01:23.201
+<i>...y tela y polvo.</i>
+
+8
+00:01:23.750 --> 00:01:27.413
+<i>Y como el polvo,
+se desvanecerá en el viento.</i>
+
+9
+00:01:27.754 --> 00:01:30.291
+<i>Solo los atenienses existen.</i>
+
+10
+00:01:30.549 --> 00:01:33.541
+<i>Y el destino del mundo depende
+de cada una de sus sílabas.</i>
+
+11
+00:01:40.475 --> 00:01:41.681
+<i>Solo los atenienses existen.</i>
+
+12
+00:01:43.687 --> 00:01:46.144
+<i>Y solamente fuertes barcos
+de madera los pueden salvar.</i>
+
+13
+00:01:47.899 --> 00:01:49.560
+<i>Barcos de madera...</i>
+
+14
+00:01:50.152 --> 00:01:52.438
+<i>...y un maremoto
+de sangre de héroes.</i>
+
+15
+00:01:55.574 --> 00:01:59.158
+300: EL NACIMIENTO DE UN IMPERIO
+
+16
+00:02:02.039 --> 00:02:04.701
+<i>Leónidas, mi esposo...</i>
+
+17
+00:02:05.417 --> 00:02:06.953
+<i>...Leónidas, su rey...</i>
+
+18
+00:02:08.629 --> 00:02:12.292
+...Leónidas y los valientes
+300 están muertos.
+
+19
+00:02:13.592 --> 00:02:15.207
+El pueblo libre de Grecia...
+
+20
+00:02:15.469 --> 00:02:18.211
+...no está obligado por una
+hermosa muerte espartana.
+
+21
+00:02:18.597 --> 00:02:20.588
+La guerra no es su amor.
+
+22
+00:02:20.849 --> 00:02:23.181
+Y aun así dieron
+su vida por ellos.
+
+23
+00:02:23.435 --> 00:02:25.391
+Por la promesa de Grecia.
+
+24
+00:02:28.148 --> 00:02:30.286
+Fueron nuestros
+enemigos los que forjaron...
+
+25
+00:02:30.336 --> 00:02:32.141
+...nuestra libertad en
+el fuego de la guerra.
+
+26
+00:02:33.278 --> 00:02:36.361
+El rey Darío fue quien vino
+a tomarse nuestra tierra.
+
+27
+00:02:37.449 --> 00:02:40.737
+Hace diez años, cuando la juventud
+aún ardía en nuestros ojos...
+
+28
+00:02:41.078 --> 00:02:42.328
+...antes de que esta amarga guerra...
+
+29
+00:02:42.378 --> 00:02:44.787
+...obligara a nuestros hijos a
+convertirse en hombres.
+
+30
+00:02:46.416 --> 00:02:50.329
+Hace diez años,
+esta guerra comenzó...
+
+31
+00:02:50.587 --> 00:02:52.578
+...como comienzan
+todas las guerras:
+
+32
+00:02:53.382 --> 00:02:55.213
+Con un reclamo.
+
+33
+00:02:58.220 --> 00:02:59.710
+<i>Maratón.</i>
+
+34
+00:03:01.139 --> 00:03:02.970
+<i>El rey persa, Darío...</i>
+
+35
+00:03:03.475 --> 00:03:05.887
+<i>...molesto por la idea
+de la libertad griega...</i>
+
+36
+00:03:06.728 --> 00:03:09.060
+<i>...ha venido a Grecia
+para subyugarnos.</i>
+
+37
+00:03:11.608 --> 00:03:13.690
+<i>Toca tierra en el
+campo de Maratón...</i>
+
+38
+00:03:13.944 --> 00:03:16.356
+<i>...con una fuerza invasora
+que supera...</i>
+
+39
+00:03:16.613 --> 00:03:18.569
+<i>...en tres a uno
+a los defensores griegos.</i>
+
+40
+00:03:18.824 --> 00:03:21.941
+<i>Así que al amanecer, los indefensos
+atenienses hacen lo impensable.</i>
+
+41
+00:03:22.744 --> 00:03:24.234
+<i>Atacan.</i>
+
+42
+00:03:24.496 --> 00:03:26.862
+<i>Atacan a los cansados persas
+mientras desembarcan...</i>
+
+43
+00:03:27.124 --> 00:03:30.582
+<i>...con las piernas trémulas
+después de un mes en el mar.</i>
+
+44
+00:03:31.545 --> 00:03:34.036
+<i>Atacan antes de que puedan
+montar su campamento de guerra...</i>
+
+45
+00:03:34.297 --> 00:03:35.753
+<i>...y abastecer a sus soldados.</i>
+
+46
+00:03:36.758 --> 00:03:37.758
+<i>¿Y quién es...</i>
+
+47
+00:03:38.009 --> 00:03:40.375
+<i>...el arquitecto de esta
+increíble estrategia?</i>
+
+48
+00:03:41.012 --> 00:03:42.012
+<i>Un soldado ateniense...</i>
+
+49
+00:03:42.222 --> 00:03:43.712
+<i>...poco conocido.</i>
+
+50
+00:03:44.641 --> 00:03:46.222
+<i>Sus hombres lo llaman...</i>
+
+51
+00:03:46.476 --> 00:03:48.262
+<i>...Temístocles.</i>
+
+52
+00:03:48.520 --> 00:03:52.138
+<i>Él les da a los persas una prueba
+del combate sorpresa ateniense.</i>
+
+53
+00:06:14.583 --> 00:06:16.164
+<i>Desaparecieron todas
+las ideas de gloria.</i>
+
+54
+00:06:17.752 --> 00:06:18.752
+<i>Miles de muertos.</i>
+
+55
+00:06:19.421 --> 00:06:20.957
+<i>Cientos de los suyos.</i>
+
+56
+00:06:23.884 --> 00:06:27.297
+<i>Todo por una idea,
+una Grecia libre.</i>
+
+57
+00:06:27.554 --> 00:06:30.466
+<i>Un experimento ateniense
+llamado "democracia".</i>
+
+58
+00:06:34.102 --> 00:06:35.387
+<i>¿Valdrá la pena esta idea?</i>
+
+59
+00:06:36.605 --> 00:06:39.312
+<i>¿Valdrá todo este sacrificio?</i>
+
+60
+00:06:41.401 --> 00:06:43.733
+<i>Temístocles dejaría que
+el buen rey Darío decidiera.</i>
+
+61
+00:06:47.032 --> 00:06:48.647
+<i>Pues entre el caos...</i>
+
+62
+00:06:48.909 --> 00:06:50.445
+<i>...surgió un momento.</i>
+
+63
+00:06:53.997 --> 00:06:55.658
+<i>Y Temístocles lo aprovecharía.</i>
+
+64
+00:07:06.885 --> 00:07:07.920
+<i>Un momento...</i>
+
+65
+00:07:08.178 --> 00:07:09.964
+<i>...que se sentiría
+a lo largo de los siglos.</i>
+
+66
+00:07:10.221 --> 00:07:11.221
+<i>Un momento que...</i>
+
+67
+00:07:11.473 --> 00:07:13.213
+<i>...lo elevaría
+de un simple soldado...</i>
+
+68
+00:07:13.475 --> 00:07:15.636
+<i>...a lo alto del poder
+político ateniense.</i>
+
+69
+00:07:15.894 --> 00:07:18.431
+¡No!
+
+70
+00:07:20.857 --> 00:07:24.270
+<i>Un momento que convertiría
+a Temístocles en una leyenda.</i>
+
+71
+00:07:43.046 --> 00:07:44.661
+<i>Pero aun cuando las
+alabanzas y la gloria...</i>
+
+72
+00:07:44.923 --> 00:07:46.754
+<i>...le llegaban con abundancia...</i>
+
+73
+00:07:47.008 --> 00:07:49.920
+<i>...Temístocles sabía en su corazón
+que había cometido un error.</i>
+
+74
+00:07:51.179 --> 00:07:53.795
+<i>Eran los ojos de Jerjes,
+hijo de Darío...</i>
+
+75
+00:07:54.057 --> 00:07:56.469
+<i>...los que reflejaban
+lo negro del destino.</i>
+
+76
+00:07:58.561 --> 00:08:01.052
+<i>Temístocles sabía que debía
+haber matado a ese muchacho.</i>
+
+77
+00:08:02.941 --> 00:08:06.024
+<i>Ese glorioso error
+lo perseguiría siempre.</i>
+
+78
+00:08:12.325 --> 00:08:14.031
+<i>Así que fue
+el propio Temístocles...</i>
+
+79
+00:08:14.285 --> 00:08:17.368
+<i>...quien mandó una onda expansiva
+a todo el imperio persa...</i>
+
+80
+00:08:17.622 --> 00:08:19.328
+<i>...y puso en movimiento...</i>
+
+81
+00:08:19.582 --> 00:08:22.289
+<i>...fuerzas que llevarían
+fuego al corazón de Grecia.</i>
+
+82
+00:08:25.005 --> 00:08:26.916
+<i>Pues cuando el buen rey
+yacía agonizante...</i>
+
+83
+00:08:27.173 --> 00:08:28.629
+<i>...todos sus grandes generales...</i>
+
+84
+00:08:28.883 --> 00:08:31.875
+<i>...y consejeros
+fueron llamados a su lado.</i>
+
+85
+00:08:32.220 --> 00:08:33.380
+<i>Ninguno más grande...</i>
+
+86
+00:08:33.638 --> 00:08:37.347
+<i>...que su mejor comandante
+naval, Artemisia.</i>
+
+87
+00:08:37.767 --> 00:08:40.429
+<i>Su ferocidad superada
+solamente por su belleza.</i>
+
+88
+00:08:40.687 --> 00:08:43.929
+<i>Su belleza igualada solamente
+por su devoción a su rey.</i>
+
+89
+00:08:50.071 --> 00:08:52.312
+<i>Darío prefería a Artemisia
+entre sus generales...</i>
+
+90
+00:08:52.574 --> 00:08:55.486
+<i>...pues ella le había dado la
+victoria en el campo de batalla.</i>
+
+91
+00:08:56.119 --> 00:08:57.279
+<i>En ella...</i>
+
+92
+00:08:57.537 --> 00:09:00.449
+<i>...él tenía a la perfecta
+guerrera protegida...</i>
+
+93
+00:09:00.707 --> 00:09:02.618
+<i>...que su hijo Jerjes jamás sería.</i>
+
+94
+00:09:06.838 --> 00:09:10.205
+Tan dulce, mi niña.
+
+95
+00:09:11.217 --> 00:09:13.003
+Mi dulce...
+
+96
+00:09:13.762 --> 00:09:15.377
+...niña.
+
+97
+00:09:23.772 --> 00:09:25.262
+Padre.
+
+98
+00:09:25.982 --> 00:09:27.518
+Jerjes.
+
+99
+00:09:28.026 --> 00:09:31.393
+No repitas el error de tu padre.
+
+100
+00:09:32.739 --> 00:09:36.402
+Deja a los innobles griegos
+con sus costumbres.
+
+101
+00:09:37.535 --> 00:09:40.652
+Solo los dioses
+pueden derrotarlos.
+
+102
+00:09:41.581 --> 00:09:44.664
+Solo los dioses.
+
+103
+00:09:56.721 --> 00:09:58.757
+<i>Jerjes lloró durante siete días...</i>
+
+104
+00:09:59.015 --> 00:10:01.097
+<i>...paralizado por el dolor.</i>
+
+105
+00:10:01.351 --> 00:10:04.684
+<i>El octavo día, Artemisia
+susurró la semilla de locura...</i>
+
+106
+00:10:04.938 --> 00:10:06.678
+<i>...que lo consumiría.</i>
+
+107
+00:10:06.940 --> 00:10:10.683
+Las palabras de tu padre
+no fueron una advertencia...
+
+108
+00:10:11.486 --> 00:10:13.101
+...sino un desafío.
+
+109
+00:10:14.614 --> 00:10:17.526
+¿Solo los dioses pueden
+derrotar a los griegos?
+
+110
+00:10:20.120 --> 00:10:24.113
+Tú serás un dios rey.
+
+111
+00:10:28.461 --> 00:10:30.747
+<i>Artemisia reunió
+a los sacerdotes, hechiceros...</i>
+
+112
+00:10:31.005 --> 00:10:34.088
+<i>...y místicos de todos
+los rincones del imperio.</i>
+
+113
+00:10:34.509 --> 00:10:35.624
+<i>Ellos envolvieron...</i>
+
+114
+00:10:35.885 --> 00:10:39.252
+<i>...al joven rey en gasa cimeria
+sumergida en antiguas pociones.</i>
+
+115
+00:10:39.681 --> 00:10:42.047
+<i>Y lo enviaron a vagar
+por el desierto...</i>
+
+116
+00:10:43.268 --> 00:10:46.510
+<i>...hasta que en un delirio de
+calor y sed se encontró con...</i>
+
+117
+00:10:46.771 --> 00:10:48.136
+<i>...la cueva de un ermitaño.</i>
+
+118
+00:10:52.110 --> 00:10:54.647
+<i>Jerjes pasó junto a los ojos...</i>
+
+119
+00:10:54.904 --> 00:10:56.314
+<i>...y almas vacías...</i>
+
+120
+00:10:56.573 --> 00:10:58.886
+<i>...de las criaturas que
+viven en los rincones oscuros...</i>
+
+121
+00:10:58.936 --> 00:11:00.566
+<i>...del corazón de todos los hombres.</i>
+
+122
+00:11:03.163 --> 00:11:05.279
+<i>Y en esa oscuridad...</i>
+
+123
+00:11:06.624 --> 00:11:08.455
+<i>...se entregó por completo...</i>
+
+124
+00:11:08.710 --> 00:11:11.747
+<i>...a un poder tan malvado
+y perverso...</i>
+
+125
+00:11:15.383 --> 00:11:17.089
+<i>...que cuando emergió...</i>
+
+126
+00:11:17.343 --> 00:11:20.676
+<i>...no sobrevivía ninguna parte
+del humano que había sido Jerjes.</i>
+
+127
+00:11:29.314 --> 00:11:32.522
+<i>Sus ojos ardían como
+carbones escarlata.</i>
+
+128
+00:11:34.402 --> 00:11:38.315
+<i>Estaba desnudo,
+limpio, sin pelo...</i>
+
+129
+00:11:38.573 --> 00:11:40.063
+<i>...y suave.</i>
+
+130
+00:11:41.993 --> 00:11:43.233
+<i>Jerjes renació...</i>
+
+131
+00:11:43.494 --> 00:11:44.950
+<i>...como un dios.</i>
+
+132
+00:11:50.293 --> 00:11:52.454
+<i>Artemisia no confiaba en nadie.</i>
+
+133
+00:11:53.171 --> 00:11:55.036
+<i>Así que bajo
+el manto de la noche...</i>
+
+134
+00:11:55.298 --> 00:11:59.041
+<i>...el palacio fue limpiado de
+todos los aliados de Jerjes.</i>
+
+135
+00:12:02.388 --> 00:12:04.094
+<i>Todos aquellos
+en quienes confiaba...</i>
+
+136
+00:12:08.770 --> 00:12:11.011
+<i>...todos aquellos
+que lo habían criado...</i>
+
+137
+00:12:15.818 --> 00:12:18.150
+<i>...todos aquellos a quienes
+había pedido consejo...</i>
+
+138
+00:12:19.989 --> 00:12:22.731
+<i>...rápidamente conocieron
+la ira de Artemisia.</i>
+
+139
+00:12:48.476 --> 00:12:49.966
+<i>Y mientras el dios rey
+se paraba...</i>
+
+140
+00:12:50.228 --> 00:12:51.889
+<i>...ante su pueblo...</i>
+
+141
+00:12:53.064 --> 00:12:55.897
+<i>...Artemisia veía tomar forma
+su perfecta manipulación.</i>
+
+142
+00:12:56.150 --> 00:12:58.892
+Por la gloria...
+
+143
+00:12:59.153 --> 00:13:01.735
+...por la venganza...
+
+144
+00:13:03.992 --> 00:13:05.277
+...¡guerra!
+
+145
+00:13:05.868 --> 00:13:07.324
+...¡guerra!
+
+146
+00:13:10.081 --> 00:13:12.618
+<i>La guerra llegará a Grecia...</i>
+
+147
+00:13:12.875 --> 00:13:16.367
+<i>...con la apariencia de un monstruoso
+ejército de más de un millón de hombres.</i>
+
+148
+00:13:17.255 --> 00:13:20.463
+<i>Apenas será un formalismo
+para Temístocles...</i>
+
+149
+00:13:20.717 --> 00:13:22.378
+<i>...el héroe de Maratón...</i>
+
+150
+00:13:22.635 --> 00:13:24.671
+<i>...terminar lo que comenzó.</i>
+
+151
+00:13:25.888 --> 00:13:26.888
+¡Por favor!
+
+152
+00:13:27.098 --> 00:13:29.430
+¡Debemos apelar
+a la razón de Jerjes!
+
+153
+00:13:29.684 --> 00:13:30.719
+¡Cobarde!
+
+154
+00:13:30.977 --> 00:13:33.218
+¡Atenas es una
+ciudad de cobardes!
+
+155
+00:13:33.479 --> 00:13:35.352
+- ¡Cállate la jeta!
+- ¡Cállate tú!
+
+156
+00:13:35.606 --> 00:13:37.562
+¡Te mataré! ¡Que se
+jodan los espartanos!
+
+157
+00:13:37.817 --> 00:13:39.432
+¡Que se jodan esos
+musculosos chicos amantes!
+
+158
+00:13:39.694 --> 00:13:40.694
+¡Silencio!
+
+159
+00:13:40.753 --> 00:13:42.189
+¡Silencio para el héroe de Maratón!
+
+160
+00:13:42.447 --> 00:13:44.938
+Esto es una democracia,
+no una pelea callejera.
+
+161
+00:13:45.199 --> 00:13:46.985
+¡Silencio! Es Temístocles.
+
+162
+00:13:47.243 --> 00:13:50.827
+El ataque persa llegará
+del norte y del sur.
+
+163
+00:13:51.080 --> 00:13:53.662
+Las ciudades estado
+deberían negociar una tregua.
+
+164
+00:13:53.916 --> 00:13:56.282
+Sí, sí, debemos negociar.
+
+165
+00:13:57.295 --> 00:13:58.876
+¿Negociar con la tiranía?
+
+166
+00:14:00.089 --> 00:14:03.001
+Denme un ejemplo de cuándo
+eso ha beneficiado a una nación.
+
+167
+00:14:03.259 --> 00:14:04.624
+Tienes razón. Debemos unirnos.
+
+168
+00:14:04.886 --> 00:14:06.046
+Queridos compatriotas...
+
+169
+00:14:06.763 --> 00:14:09.425
+...solo podemos juzgar el futuro...
+
+170
+00:14:09.682 --> 00:14:12.344
+...por lo que hemos
+sufrido en el pasado.
+
+171
+00:14:13.728 --> 00:14:16.344
+Muchos de Uds. estuvieron
+conmigo en Maratón...
+
+172
+00:14:17.523 --> 00:14:19.514
+...y los que sirvieron...
+
+173
+00:14:19.776 --> 00:14:21.892
+...y se enfrentaron
+a la intensidad de la batalla...
+
+174
+00:14:22.153 --> 00:14:24.690
+...saben cómo se forja
+la verdadera paz.
+
+175
+00:14:25.615 --> 00:14:27.321
+No se engañen.
+
+176
+00:14:27.575 --> 00:14:29.611
+Jerjes, el hijo de Darío...
+
+177
+00:14:29.869 --> 00:14:31.951
+...es un lobo en nuestra puerta.
+
+178
+00:14:32.747 --> 00:14:34.908
+Aquí, ahora...
+
+179
+00:14:35.792 --> 00:14:37.498
+...debemos elegir.
+
+180
+00:14:37.919 --> 00:14:40.581
+¿Nos plantamos y peleamos
+por Grecia o no?
+
+181
+00:14:41.756 --> 00:14:42.916
+Argos...
+
+182
+00:14:43.174 --> 00:14:44.334
+...Corinto...
+
+183
+00:14:44.592 --> 00:14:45.752
+...Megara...
+
+184
+00:14:46.010 --> 00:14:47.625
+...Atenas.
+
+185
+00:14:47.887 --> 00:14:50.344
+Ni siquiera Esparta puede
+enfrentarse sola a los persas.
+
+186
+00:14:50.598 --> 00:14:52.805
+Debemos perseverar
+como una nación.
+
+187
+00:14:53.059 --> 00:14:55.300
+O pereceremos aferrándonos...
+
+188
+00:14:55.561 --> 00:14:57.222
+...a nuestros propios intereses.
+
+189
+00:14:58.356 --> 00:15:01.689
+Envíennos los barcos que
+necesitamos para defender a Grecia.
+
+190
+00:15:01.943 --> 00:15:04.355
+Temístocles necesitará más que
+los barcos de nuestras ciudades.
+
+191
+00:15:04.612 --> 00:15:06.603
+Necesitará que nuestros
+hijos se unan a la lucha.
+
+192
+00:15:08.658 --> 00:15:10.023
+¿Y qué hay de Esparta?
+
+193
+00:15:10.284 --> 00:15:13.117
+Envíen todos los barcos
+que tenemos...
+
+194
+00:15:13.371 --> 00:15:15.703
+...a la costa norte de Eubea.
+
+195
+00:15:16.958 --> 00:15:20.826
+Yo iré a buscar la ayuda
+de los grandes espartanos.
+
+196
+00:15:42.733 --> 00:15:45.816
+Aún no se sabe nada del mensajero
+que enviaste a Esparta.
+
+197
+00:15:46.863 --> 00:15:49.980
+El rey Leónidas debe haberse sentido
+insultado por tu generosa oferta.
+
+198
+00:15:50.241 --> 00:15:54.200
+Quizá deba marchar personalmente
+a Esparta y quemarla.
+
+199
+00:15:56.164 --> 00:15:57.654
+Recuerda...
+
+200
+00:15:57.915 --> 00:15:59.621
+...cuando un rey
+es querido como yo...
+
+201
+00:16:01.085 --> 00:16:03.326
+...se puede lograr mucho.
+
+202
+00:16:04.881 --> 00:16:08.214
+Serían unos tontos si se
+resistieran a mi poder divino.
+
+203
+00:16:08.468 --> 00:16:11.255
+Atenas está tratando
+de formar una coalición.
+
+204
+00:16:11.512 --> 00:16:13.969
+No serán más que
+unos pocos barcos.
+
+205
+00:16:16.184 --> 00:16:19.972
+Una vez que atravesemos estas aguas
+lideraré a mis fuerzas por tierra.
+
+206
+00:16:20.229 --> 00:16:22.561
+Les recordaré
+a los cobardes de Grecia...
+
+207
+00:16:22.815 --> 00:16:26.228
+...que no hemos
+olvidado su insolencia.
+
+208
+00:16:36.162 --> 00:16:37.948
+Descansen y denles
+agua a los caballos.
+
+209
+00:16:38.206 --> 00:16:39.616
+Es mejor que vaya solo.
+
+210
+00:16:39.874 --> 00:16:43.287
+Los espartanos no se
+llevan bien con los demás.
+
+211
+00:17:34.762 --> 00:17:36.548
+- Espartanos.
+- Temístocles.
+
+212
+00:17:37.932 --> 00:17:39.388
+Vieja serpiente.
+
+213
+00:17:39.642 --> 00:17:42.475
+- ¿Qué te trae tan al sur?
+- Vengo a ver a Leónidas.
+
+214
+00:17:42.728 --> 00:17:44.502
+Para advertirle que
+los persas se avecinan.
+
+215
+00:17:44.552 --> 00:17:45.640
+Pues llegaste muy tarde.
+
+216
+00:17:45.898 --> 00:17:49.061
+El mensajero persa ya le entregó
+los términos a Leónidas.
+
+217
+00:17:49.819 --> 00:17:52.185
+Una oferta simbólica
+de tierra y agua.
+
+218
+00:18:00.830 --> 00:18:02.195
+¡Espartanos!
+
+219
+00:18:02.456 --> 00:18:04.162
+Sepan esto y sépanlo bien.
+
+220
+00:18:05.001 --> 00:18:07.583
+Que el mejor momento
+de cualquier espartano...
+
+221
+00:18:08.337 --> 00:18:09.747
+...la mayor realización...
+
+222
+00:18:10.006 --> 00:18:11.837
+...de todo lo que aprecia...
+
+223
+00:18:12.091 --> 00:18:13.376
+...es el momento...
+
+224
+00:18:13.634 --> 00:18:15.750
+...en el que ha luchado
+con el corazón...
+
+225
+00:18:16.012 --> 00:18:18.845
+...por la conservación de Esparta...
+
+226
+00:18:19.098 --> 00:18:22.431
+...y yace muerto en
+el campo de batalla...
+
+227
+00:18:22.685 --> 00:18:24.391
+...victorioso.
+
+228
+00:18:26.188 --> 00:18:27.428
+Ahora...
+
+229
+00:18:27.940 --> 00:18:31.182
+...¿quién está dispuesto a morir
+al lado de nuestro rey?
+
+230
+00:18:34.488 --> 00:18:36.069
+Temístocles.
+
+231
+00:18:38.034 --> 00:18:41.947
+Viniste desde muy lejos para masturbarte
+viendo entrenar a los hombres de verdad.
+
+232
+00:18:42.204 --> 00:18:43.239
+Reina Gorgo.
+
+233
+00:18:44.415 --> 00:18:47.373
+¿No debería él entrenarlos
+para vivir al lado del rey?
+
+234
+00:18:48.961 --> 00:18:50.246
+<i>Nace una nueva era, Gorgo.</i>
+
+235
+00:18:52.256 --> 00:18:53.852
+Pronto los hombres se levantarán...
+
+236
+00:18:53.902 --> 00:18:56.090
+...y se quitarán el yugo
+del misticismo y la tiranía.
+
+237
+00:18:56.344 --> 00:18:58.801
+- Eso parece una amenaza.
+- No.
+
+238
+00:18:59.221 --> 00:19:00.961
+Una oportunidad para unirse al resto...
+
+239
+00:19:01.011 --> 00:19:02.884
+...de la Grecia libre y
+enfrentarse a un tirano.
+
+240
+00:19:04.518 --> 00:19:08.136
+Claro, a menos que Leónidas y tú ya
+hayan llegado a un acuerdo con Jerjes.
+
+241
+00:19:08.397 --> 00:19:10.137
+No se llegó a ningún acuerdo.
+
+242
+00:19:10.733 --> 00:19:12.598
+El mensajero de Jerjes fue...
+
+243
+00:19:12.860 --> 00:19:15.317
+Bueno, fue grosero
+e irrespetuoso.
+
+244
+00:19:15.571 --> 00:19:17.492
+No entendió que las mismas amenazas...
+
+245
+00:19:17.542 --> 00:19:19.564
+...hechas en Tebas y
+Atenas no servirían aquí.
+
+246
+00:19:20.326 --> 00:19:23.659
+Este es el lugar de nacimiento de
+los más grandes guerreros del mundo.
+
+247
+00:19:24.955 --> 00:19:26.150
+Hombres cuyo rey se enfrentaría...
+
+248
+00:19:26.200 --> 00:19:28.743
+...lucharía y moriría
+por cualquiera de ellos.
+
+249
+00:19:29.794 --> 00:19:31.000
+El mensajero de Jerjes...
+
+250
+00:19:31.253 --> 00:19:34.461
+...no entendía que esta no es
+una ciudad estado griega típica.
+
+251
+00:19:37.551 --> 00:19:39.382
+Esto es Esparta.
+
+252
+00:19:40.763 --> 00:19:43.630
+Entonces al mensajero le quedó
+claro que Esparta no se sometería.
+
+253
+00:19:43.891 --> 00:19:44.926
+Quedó claro.
+
+254
+00:19:45.184 --> 00:19:48.472
+Ahora mismo, Leónidas analiza
+con el Oráculo su plan de batalla.
+
+255
+00:19:48.729 --> 00:19:51.391
+El festival de las Carneas
+es lo único que se interpone.
+
+256
+00:19:51.649 --> 00:19:54.356
+Seguramente, el Oráculo
+verá que debemos pelear.
+
+257
+00:19:54.610 --> 00:19:56.191
+Entonces llego en
+el momento preciso.
+
+258
+00:19:56.987 --> 00:20:00.150
+Comandaré una flota de barcos
+que representará a una Grecia unida.
+
+259
+00:20:00.408 --> 00:20:02.649
+Necesito que Esparta se una.
+
+260
+00:20:03.577 --> 00:20:04.987
+Dame tus barcos, Gorgo.
+
+261
+00:20:05.246 --> 00:20:08.079
+Me aseguraré de que Jerjes desee
+no haber cruzado jamás el Egeo.
+
+262
+00:20:08.332 --> 00:20:11.574
+No recibirás ningún barco espartano.
+No nos interesa una Grecia unida.
+
+263
+00:20:11.836 --> 00:20:14.418
+Ese es tu sueño,
+no el nuestro, Temístocles.
+
+264
+00:20:15.047 --> 00:20:17.163
+A mí solamente me preocupa
+la conservación...
+
+265
+00:20:17.425 --> 00:20:18.540
+...de Esparta.
+
+266
+00:20:19.719 --> 00:20:21.630
+Mis guardias
+te acompañarán a la salida.
+
+267
+00:20:24.014 --> 00:20:25.629
+Es curioso que te burles
+de la libertad...
+
+268
+00:20:25.891 --> 00:20:27.756
+...aquí en tu aislamiento egoísta.
+
+269
+00:20:28.728 --> 00:20:30.844
+Aun así, la libertad,
+en su sabiduría...
+
+270
+00:20:31.105 --> 00:20:33.391
+...te eligió a ti para defenderla.
+
+271
+00:20:36.444 --> 00:20:37.650
+Mi reina.
+
+272
+00:20:41.240 --> 00:20:43.401
+¿Esparta se unirá a nuestra lucha?
+
+273
+00:20:44.744 --> 00:20:46.786
+Parece que los persas
+les ofrecieron a los espartanos...
+
+274
+00:20:46.836 --> 00:20:48.407
+...algo que no pueden rechazar.
+
+275
+00:20:48.664 --> 00:20:49.949
+¿Y qué es eso?
+
+276
+00:20:50.249 --> 00:20:51.910
+Una hermosa muerte.
+
+277
+00:21:10.227 --> 00:21:13.515
+Dicen que tú eres el más
+valiente de nuestros cautivos.
+
+278
+00:21:14.106 --> 00:21:17.598
+Dicen que eres una puta
+de los mares del este.
+
+279
+00:21:21.030 --> 00:21:23.612
+No eres el más inteligente.
+
+280
+00:21:26.035 --> 00:21:28.026
+Su comandante es una griega.
+
+281
+00:21:28.287 --> 00:21:30.243
+Como yo.
+
+282
+00:21:31.540 --> 00:21:34.782
+Ustedes, hombres persas, reciben
+órdenes de una mujer griega.
+
+283
+00:21:35.044 --> 00:21:38.377
+Sí, hermano.
+Soy griega de nacimiento...
+
+284
+00:21:38.631 --> 00:21:41.668
+...y por mis venas
+corre sangre griega.
+
+285
+00:21:44.386 --> 00:21:46.126
+Pero mi corazón...
+
+286
+00:21:48.641 --> 00:21:49.926
+...es persa.
+
+287
+00:22:22.383 --> 00:22:23.793
+En unas horas...
+
+288
+00:22:24.510 --> 00:22:26.876
+...la flota griega será destrozada.
+
+289
+00:22:27.137 --> 00:22:29.924
+¿Qué hay de nuestro amo
+y los tan temidos espartanos?
+
+290
+00:22:30.182 --> 00:22:32.298
+No hay nada que temer.
+
+291
+00:22:32.893 --> 00:22:36.761
+Solamente el rey Leónidas y su
+guardia personal de 300 hombres...
+
+292
+00:22:37.022 --> 00:22:39.058
+- ...han marchado para luchar.
+- Colapsarán.
+
+293
+00:22:39.316 --> 00:22:40.316
+Instantáneamente.
+
+294
+00:22:43.654 --> 00:22:44.654
+Tú.
+
+295
+00:22:51.328 --> 00:22:52.784
+¿Estás de acuerdo?
+
+296
+00:22:55.332 --> 00:22:56.697
+Muchos perecerán.
+
+297
+00:22:58.127 --> 00:23:01.244
+Tu seguridad me causa
+una fuerte impresión.
+
+298
+00:23:02.756 --> 00:23:04.917
+Es curioso que un simple
+guardia de barco...
+
+299
+00:23:05.175 --> 00:23:07.917
+...no baje la mirada
+cuando yo lo interrogo.
+
+300
+00:23:09.054 --> 00:23:11.796
+Eso pudo solamente
+ser falta de disciplina.
+
+301
+00:23:13.017 --> 00:23:15.474
+Pero las manos de
+un hombre no mienten.
+
+302
+00:23:15.728 --> 00:23:16.808
+Pueden revelar...
+
+303
+00:23:17.062 --> 00:23:21.055
+...cada imperfección
+y defecto en su carácter.
+
+304
+00:23:22.026 --> 00:23:23.982
+Verás, tus manos no están
+lo suficientemente duras...
+
+305
+00:23:24.236 --> 00:23:26.272
+...como para trabajar
+en este barco.
+
+306
+00:23:27.823 --> 00:23:30.565
+Conozco a cada uno de
+los hombres bajo mi látigo.
+
+307
+00:23:30.826 --> 00:23:34.614
+¿Me puedes explicar
+por qué no te conozco?
+
+308
+00:23:36.457 --> 00:23:38.664
+Perdóneme, Comandante.
+
+309
+00:23:41.378 --> 00:23:43.369
+Permítame presentarme.
+
+310
+00:23:45.049 --> 00:23:46.434
+¡Detengan al espía!
+
+311
+00:24:05.235 --> 00:24:06.816
+Cobarde.
+
+312
+00:24:08.030 --> 00:24:09.941
+Se acerca una tormenta.
+
+313
+00:24:12.785 --> 00:24:15.652
+Es simplemente
+el clima griego loco.
+
+314
+00:24:28.217 --> 00:24:30.458
+- Temístocles.
+- Adelante.
+
+315
+00:24:34.014 --> 00:24:35.299
+Calisto.
+
+316
+00:24:35.557 --> 00:24:38.139
+Lo que se hable aquí
+no debe repetirse.
+
+317
+00:24:38.602 --> 00:24:39.808
+En ninguna parte.
+
+318
+00:24:42.731 --> 00:24:45.939
+Mi hijo no ha ganado el derecho
+a sentarse con los veteranos de combate.
+
+319
+00:24:46.193 --> 00:24:48.559
+- Pero puedes confiar en él.
+- Muy bien.
+
+320
+00:24:50.489 --> 00:24:52.320
+- Dime.
+- Una mujer griega...
+
+321
+00:24:52.574 --> 00:24:54.860
+...comanda todos los barcos
+de Jerjes hacia el sur.
+
+322
+00:24:56.286 --> 00:24:57.901
+Artemisia.
+
+323
+00:24:58.914 --> 00:24:59.914
+Sé de ella.
+
+324
+00:25:00.958 --> 00:25:03.870
+Artemisia es asesina de profesión
+con una gran habilidad en el mar...
+
+325
+00:25:04.128 --> 00:25:05.914
+...y tiene sed de venganza.
+
+326
+00:25:06.547 --> 00:25:08.037
+Se rumora que toda su familia...
+
+327
+00:25:08.298 --> 00:25:10.584
+...fue asesinada por un
+escuadrón de hoplitas.
+
+328
+00:25:11.677 --> 00:25:14.134
+He escuchado todas las historias.
+
+329
+00:25:15.222 --> 00:25:18.009
+Y los hoplitas no dejaron
+vivir a nadie ese día.
+
+330
+00:25:44.293 --> 00:25:46.375
+<i>Según la historia,
+violaron y asesinaron...</i>
+
+331
+00:25:46.628 --> 00:25:48.084
+<i>...a toda su familia.</i>
+
+332
+00:25:50.132 --> 00:25:53.044
+<i>Y luego se fijaron en ella.</i>
+
+333
+00:26:15.908 --> 00:26:19.400
+<i>Tras años de tenerla en las entrañas
+de un barco griego de esclavos...</i>
+
+334
+00:26:20.579 --> 00:26:23.116
+<i>...fue tirada y abandonada...</i>
+
+335
+00:26:24.083 --> 00:26:26.665
+<i>...y un emisario persa
+la encontró casi muerta.</i>
+
+336
+00:26:47.898 --> 00:26:50.480
+<i>Artemisia juró regresar
+algún día a Grecia...</i>
+
+337
+00:26:51.944 --> 00:26:53.650
+<i>...solamente cuando
+pudiera verla arder.</i>
+
+338
+00:27:05.249 --> 00:27:07.280
+<i>Los mejores guerreros
+del imperio persa...</i>
+
+339
+00:27:07.330 --> 00:27:08.833
+<i>...la alimentaron,
+vistieron y entrenaron...</i>
+
+340
+00:27:12.923 --> 00:27:14.379
+<i>...hasta que su habilidad y talento...</i>
+
+341
+00:27:14.633 --> 00:27:15.839
+<i>...con la espada no tuvo igual.</i>
+
+342
+00:27:44.079 --> 00:27:46.570
+<i>El gran rey Darío quedó
+impresionado con su compromiso.</i>
+
+343
+00:27:47.875 --> 00:27:50.082
+<i>Y ascendió rápidamente
+para comandar a su lado.</i>
+
+344
+00:27:53.839 --> 00:27:55.454
+<i>Ella le vendió el alma...</i>
+
+345
+00:27:55.716 --> 00:27:57.172
+...a la propia muerte.
+
+346
+00:27:58.510 --> 00:28:00.842
+Algunos podrían decir que
+yo le vendí la mía a Grecia.
+
+347
+00:28:05.100 --> 00:28:06.100
+¿Y qué piensas tú?
+
+348
+00:28:06.351 --> 00:28:08.057
+- ¿Yo?
+- Sí.
+
+349
+00:28:08.312 --> 00:28:10.177
+Tú eres el futuro de este país.
+
+350
+00:28:11.231 --> 00:28:12.596
+Estoy listo para pelear.
+
+351
+00:28:16.111 --> 00:28:18.568
+Me cae bien. Me recuerda a ti.
+
+352
+00:28:19.364 --> 00:28:21.067
+Necesitaremos hasta el último hombre.
+
+353
+00:28:21.325 --> 00:28:22.405
+Aún sigue siendo un niño.
+
+354
+00:28:22.659 --> 00:28:23.990
+Muchos más jóvenes
+han defendido...
+
+355
+00:28:24.244 --> 00:28:26.030
+- ...a nuestro país, padre.
+- ¡Suficiente!
+
+356
+00:28:26.496 --> 00:28:29.238
+Eres un soñador
+y no hablarás más de esto.
+
+357
+00:28:33.086 --> 00:28:35.077
+Temístocles, puse
+a andar tu plan...
+
+358
+00:28:35.339 --> 00:28:38.251
+...y mi fuerza en tierra se
+formará para el segundo día.
+
+359
+00:28:38.508 --> 00:28:41.341
+Serás necesario.
+Te lo puedo asegurar.
+
+360
+00:28:45.140 --> 00:28:47.051
+Y hay malas noticias.
+
+361
+00:28:47.309 --> 00:28:50.267
+Leónidas marchó hacia el norte
+a las Puertas Calientes.
+
+362
+00:28:52.064 --> 00:28:54.020
+<i>¿Malas noticias?
+Con los espartanos...</i>
+
+363
+00:28:54.274 --> 00:28:56.579
+<i>...en las Puertas
+nuestra victoria es segura.</i>
+
+364
+00:28:56.629 --> 00:28:58.108
+Si el ejército estuviera con él.
+
+365
+00:28:59.112 --> 00:29:01.023
+<i>Pero entre el Oráculo
+y las Carneas...</i>
+
+366
+00:29:01.281 --> 00:29:03.897
+<i>...Leónidas marchó a las Termópilas
+con apenas 300 hombres.</i>
+
+367
+00:29:05.077 --> 00:29:08.535
+<i>Entonces lo único
+que hay entre Atenas...</i>
+
+368
+00:29:08.789 --> 00:29:10.279
+<i>...y la aniquilación total...</i>
+
+369
+00:29:11.333 --> 00:29:13.915
+<i>...son Leónidas y 300 espartanos.</i>
+
+370
+00:29:18.757 --> 00:29:20.839
+Buscaré a los veteranos
+entre ellos.
+
+371
+00:29:21.093 --> 00:29:22.771
+Estableceré el orden
+entre los voluntarios.
+
+372
+00:29:22.821 --> 00:29:23.835
+Bien.
+
+373
+00:29:24.554 --> 00:29:27.671
+Hay poco tiempo para enseñarles
+sobre estrategia a estos campesinos.
+
+374
+00:29:28.267 --> 00:29:30.303
+Solo mantenlos
+bien alimentados...
+
+375
+00:29:31.270 --> 00:29:32.635
+...y sobrios.
+
+376
+00:29:33.313 --> 00:29:34.723
+¿Algo más?
+
+377
+00:29:35.274 --> 00:29:37.185
+No estaría mal que pudieran
+blandir una espada.
+
+378
+00:29:40.112 --> 00:29:41.818
+Maldita sea.
+
+379
+00:29:43.282 --> 00:29:44.282
+¡Mierda!
+
+380
+00:29:44.533 --> 00:29:47.445
+- ¿Tu padre sabe que estás aquí?
+- No, señor.
+
+381
+00:29:47.703 --> 00:29:49.739
+¿Y este escudo y espada?
+
+382
+00:29:49.997 --> 00:29:51.487
+De mi abuelo.
+
+383
+00:29:51.748 --> 00:29:54.535
+Mi madre me los
+confió esta mañana.
+
+384
+00:29:55.043 --> 00:29:58.331
+- ¿Mientras te daba su bendición?
+- Sí, señor.
+
+385
+00:29:58.964 --> 00:30:01.205
+Y nada menos que
+con una hoja afilada.
+
+386
+00:30:03.010 --> 00:30:05.843
+Tu padre está preparando una sorpresa
+para nuestro enemigo mañana.
+
+387
+00:30:06.096 --> 00:30:09.429
+Yo elijo pelear aquí. Ahora.
+
+388
+00:30:11.518 --> 00:30:13.258
+Ven a bordo de mi barco.
+
+389
+00:30:13.895 --> 00:30:15.260
+Ahí es donde pelearás.
+
+390
+00:30:15.522 --> 00:30:16.762
+Sí, señor.
+
+391
+00:30:21.069 --> 00:30:22.309
+Tenemos un poco
+más de 50 barcos.
+
+392
+00:30:22.571 --> 00:30:25.313
+Dicen que las fuerzas
+persas tienen miles.
+
+393
+00:30:25.574 --> 00:30:28.907
+- Esos barcos no parecen para el mar.
+- No son como los de la monstruosa...
+
+394
+00:30:29.161 --> 00:30:32.449
+- ...flota persa.
+- Tenemos ventaja. Velocidad y maniobra.
+
+395
+00:30:32.748 --> 00:30:36.457
+Las otras ciudades estado han enviado
+desde unos cuantos hasta un solo barco.
+
+396
+00:30:36.710 --> 00:30:39.998
+- Atenas suministró los faltantes.
+- Nos reportan que una avanzadilla...
+
+397
+00:30:40.255 --> 00:30:44.248
+...de barcos persas se refugió de
+la tormenta al otro lado del estrecho.
+
+398
+00:30:44.551 --> 00:30:46.837
+Si mejora el tiempo,
+podríamos atacarlos al amanecer.
+
+399
+00:30:48.722 --> 00:30:49.757
+Una victoria griega temprana.
+
+400
+00:30:50.015 --> 00:30:51.801
+Los dioses nos dieron
+una oportunidad...
+
+401
+00:30:52.059 --> 00:30:54.015
+...de herir a los persas
+y fortalecer la moral griega.
+
+402
+00:30:56.188 --> 00:30:57.303
+Es una distracción tentadora.
+
+403
+00:30:57.564 --> 00:30:59.646
+Pero seguiremos
+con el plan de batalla.
+
+404
+00:30:59.900 --> 00:31:01.143
+Zarparemos hoy al atardecer...
+
+405
+00:31:01.193 --> 00:31:03.017
+...para encontrarnos con la
+flota persa principal.
+
+406
+00:31:03.278 --> 00:31:06.315
+Los atacaremos en mar abierto
+sin playa para limitar la batalla.
+
+407
+00:31:06.573 --> 00:31:08.404
+Atacar más de mil barcos...
+
+408
+00:31:08.658 --> 00:31:10.444
+...con nuestra fuerza
+reducida es un suicidio.
+
+409
+00:31:11.995 --> 00:31:13.951
+Ese es mi plan.
+
+410
+00:31:18.126 --> 00:31:20.708
+Vea la armada patética que tienen.
+
+411
+00:31:21.588 --> 00:31:23.954
+Sus barcos no son una amenaza.
+
+412
+00:31:24.841 --> 00:31:27.082
+Necesito un segundo
+al mando, Artafernes.
+
+413
+00:31:27.344 --> 00:31:31.337
+Y quien demuestre su excelencia,
+se ganará un lugar a mi lado.
+
+414
+00:31:32.766 --> 00:31:35.599
+El general Bandari se ofreció
+para liderar el primer ataque.
+
+415
+00:31:35.852 --> 00:31:37.058
+¡Bandari!
+
+416
+00:31:39.856 --> 00:31:40.936
+Comandante.
+
+417
+00:31:41.191 --> 00:31:43.102
+Si lo dejo liderar nuestra
+primera ofensiva...
+
+418
+00:31:43.360 --> 00:31:46.397
+...¿qué garantía tengo de que
+me dará una victoria rápida?
+
+419
+00:31:46.655 --> 00:31:48.566
+Mi palabra y mi vida.
+
+420
+00:31:49.157 --> 00:31:50.157
+Bien.
+
+421
+00:31:50.700 --> 00:31:52.236
+¿Mis reglas para atacar?
+
+422
+00:31:52.869 --> 00:31:56.532
+Humillar a los griegos y acabar
+con sus barcos diminutos.
+
+423
+00:31:57.541 --> 00:31:59.953
+Morirá hasta el último hombre.
+
+424
+00:32:10.595 --> 00:32:12.210
+Hermanos.
+
+425
+00:32:12.722 --> 00:32:14.713
+Calmen sus corazones.
+
+426
+00:32:16.560 --> 00:32:18.221
+Miren en lo profundo
+de sus almas.
+
+427
+00:32:22.482 --> 00:32:25.565
+Pues su valor será puesto
+a prueba en este día.
+
+428
+00:32:29.406 --> 00:32:31.647
+<i>Y si en el calor de la batalla...</i>
+
+429
+00:32:33.034 --> 00:32:35.696
+<i>...necesitan una razón
+para seguir luchando...</i>
+
+430
+00:32:36.830 --> 00:32:39.537
+<i>...una idea por
+la que renunciarán...</i>
+
+431
+00:32:40.167 --> 00:32:42.408
+...a todo lo que tendrán...
+
+432
+00:32:43.628 --> 00:32:46.586
+...solamente tienen que mirar
+al hombre que lucha a su lado.
+
+433
+00:32:48.550 --> 00:32:51.041
+Este es el "por qué"
+de la batalla.
+
+434
+00:32:51.303 --> 00:32:54.090
+Esta es la hermandad
+de los hombres armados.
+
+435
+00:32:55.140 --> 00:32:56.596
+<i>Un vínculo irrompible...</i>
+
+436
+00:32:56.850 --> 00:32:59.842
+<i>...fortalecido por el
+crisol del combate.</i>
+
+437
+00:33:01.313 --> 00:33:05.056
+<i>Jamás estarán más cerca de nadie que de
+aquellos con quienes derramen su sangre.</i>
+
+438
+00:33:07.027 --> 00:33:09.109
+<i>Pues no hay ninguna
+causa más noble...</i>
+
+439
+00:33:09.362 --> 00:33:12.695
+<i>...que luchar por quienes
+darán su vida por ustedes.</i>
+
+440
+00:33:14.701 --> 00:33:17.113
+¡Así que peleen con fuerza hoy!
+
+441
+00:33:18.246 --> 00:33:20.328
+¡Peleen por sus hermanos!
+
+442
+00:33:21.625 --> 00:33:23.661
+¡Peleen por sus familias!
+
+443
+00:33:24.461 --> 00:33:26.452
+¡Y sobre todo, peleen por Grecia!
+
+444
+00:33:26.713 --> 00:33:27.748
+¡Grecia!
+
+445
+00:33:28.798 --> 00:33:29.798
+¡Sí!
+
+446
+00:33:32.010 --> 00:33:35.298
+Y solamente hay una cosa de qué
+asegurarse cuando empiece la lucha.
+
+447
+00:33:35.555 --> 00:33:36.590
+¿De qué?
+
+448
+00:33:37.682 --> 00:33:39.513
+De no dejarse matar el primer día.
+
+449
+00:33:41.019 --> 00:33:43.226
+Eso va para los demás.
+
+450
+00:34:14.928 --> 00:34:17.419
+Los barcos persas
+son más fuertes adelante.
+
+451
+00:34:17.681 --> 00:34:20.342
+Pero son débiles en el medio.
+
+452
+00:34:20.600 --> 00:34:22.431
+Ahí los atacamos.
+
+453
+00:34:32.696 --> 00:34:34.357
+¡Ahora!
+
+454
+00:34:55.385 --> 00:34:56.465
+¡Ataquen!
+
+455
+00:35:24.664 --> 00:35:26.029
+¡Embístanlos!
+
+456
+00:35:36.968 --> 00:35:40.051
+¡Arqueros, ahora! ¡Ahora!
+
+457
+00:35:49.314 --> 00:35:50.770
+¡Retrocedan!
+
+458
+00:35:51.107 --> 00:35:52.517
+¡Ahora!
+
+459
+00:35:59.324 --> 00:36:00.689
+¡Atraviésenlos!
+
+460
+00:36:55.755 --> 00:36:58.455
+Las tácticas del enemigo son creativas.
+
+461
+00:36:58.717 --> 00:37:01.129
+El círculo defensivo no deja
+ningún frente para atacar.
+
+462
+00:37:01.720 --> 00:37:03.085
+Estamos perdiendo.
+
+463
+00:37:03.346 --> 00:37:05.007
+No, tú estás perdiendo.
+
+464
+00:37:11.479 --> 00:37:12.844
+Retírense.
+
+465
+00:37:13.356 --> 00:37:15.017
+Que ganen este día.
+
+466
+00:37:15.650 --> 00:37:18.687
+Estoy aburrida con
+tus fracasos, Bandari.
+
+467
+00:37:23.867 --> 00:37:26.279
+No dejaré que esta
+herida me frene.
+
+468
+00:37:27.287 --> 00:37:28.402
+Por alguna razón te creo.
+
+469
+00:37:28.663 --> 00:37:30.870
+Mi espada estará afilada
+y lista por la mañana.
+
+470
+00:37:31.875 --> 00:37:34.537
+Bien. Mañana lucharás
+junto a tu padre.
+
+471
+00:37:36.629 --> 00:37:37.629
+Nada mal...
+
+472
+00:37:37.881 --> 00:37:41.339
+- ...para unos granjeros.
+- Y poetas y escultores.
+
+473
+00:37:41.593 --> 00:37:43.049
+Quién diría que a unos
+hombres sin entrenar...
+
+474
+00:37:43.303 --> 00:37:46.090
+...le iría tan bien contra un
+adversario tan considerable.
+
+475
+00:37:48.475 --> 00:37:51.717
+Necesitaremos todas nuestras
+fuerzas para la lucha de mañana.
+
+476
+00:37:52.353 --> 00:37:54.560
+¿Cuánto tiempo crees
+que podamos detenerlos?
+
+477
+00:37:57.525 --> 00:37:59.766
+Si funciona mi plan...
+
+478
+00:38:01.613 --> 00:38:04.650
+...el suficiente para que
+los espartanos unan a Grecia.
+
+479
+00:38:05.950 --> 00:38:07.235
+¡Hombres!
+
+480
+00:38:07.786 --> 00:38:10.198
+¿Quién comparte su vino conmigo?
+
+481
+00:38:22.967 --> 00:38:24.047
+Reporte.
+
+482
+00:38:24.302 --> 00:38:26.088
+Aún estamos contando
+nuestras pérdidas.
+
+483
+00:38:26.721 --> 00:38:29.303
+Pero debe entender
+que es muy difícil...
+
+484
+00:38:29.557 --> 00:38:31.889
+...con el mar y la oscuridad...
+
+485
+00:38:32.143 --> 00:38:33.758
+...saber con precisión...
+
+486
+00:38:44.948 --> 00:38:46.063
+¿Reporte?
+
+487
+00:38:46.866 --> 00:38:48.106
+75 barcos perdidos.
+
+488
+00:38:48.368 --> 00:38:49.733
+30 imposibles de reparar.
+
+489
+00:38:49.994 --> 00:38:53.031
+20 podrían regresar tras unas semanas
+de trabajo en un puerto seguro.
+
+490
+00:38:57.210 --> 00:39:00.122
+El comandante de la fuerza
+griega se llama Temístocles.
+
+491
+00:39:00.380 --> 00:39:02.371
+Sí, es un general ateniense.
+
+492
+00:39:03.216 --> 00:39:05.047
+Se rumora que
+él disparó la flecha...
+
+493
+00:39:05.301 --> 00:39:07.838
+...que mató al propio rey Darío.
+
+494
+00:39:20.400 --> 00:39:22.356
+¡No!
+
+495
+00:39:37.000 --> 00:39:40.993
+Ese Temístocles ha demostrado
+ser bastante brillante en batalla.
+
+496
+00:39:42.630 --> 00:39:44.712
+Que es más de lo que puedo
+decir de cualquiera de ustedes.
+
+497
+00:39:46.092 --> 00:39:49.300
+¿Mi orden les parece poco
+razonable, caballeros?
+
+498
+00:39:49.762 --> 00:39:52.424
+¿Es demasiado pedir la victoria?
+
+499
+00:39:52.682 --> 00:39:56.140
+Su decepción por las
+pérdidas de ayer es justa.
+
+500
+00:39:57.604 --> 00:39:59.595
+Mi decepción.
+
+501
+00:40:00.940 --> 00:40:03.352
+Mi decepción no es
+por mis pérdidas.
+
+502
+00:40:03.610 --> 00:40:05.328
+El escaso número de barcos averiados...
+
+503
+00:40:05.378 --> 00:40:07.228
+...y esclavos muertos no
+significa nada para mí.
+
+504
+00:40:07.488 --> 00:40:11.276
+No, mi decepción...
+
+505
+00:40:13.828 --> 00:40:15.534
+...es por estos hombres.
+
+506
+00:40:16.831 --> 00:40:17.831
+Porque aunque estoy...
+
+507
+00:40:18.082 --> 00:40:20.164
+...entre diez mil...
+
+508
+00:40:20.501 --> 00:40:21.957
+...estoy sola.
+
+509
+00:40:24.047 --> 00:40:27.414
+Ansío un alma que esté a mi lado.
+
+510
+00:40:27.675 --> 00:40:28.835
+En quien pueda confiar.
+
+511
+00:40:34.891 --> 00:40:37.177
+Dígame, general Kashani.
+
+512
+00:40:37.810 --> 00:40:39.641
+¿Usted es ese hombre?
+
+513
+00:40:41.522 --> 00:40:44.764
+Probará su victoria
+al final del día.
+
+514
+00:40:45.234 --> 00:40:47.566
+Me aseguraré de ello.
+
+515
+00:40:48.821 --> 00:40:50.607
+Eso espero.
+
+516
+00:42:22.206 --> 00:42:24.367
+¡Avancen!
+
+517
+00:42:31.507 --> 00:42:35.045
+¡Ahora!
+
+518
+00:42:58.743 --> 00:43:01.029
+¡No los pierdan de vista!
+
+519
+00:43:15.384 --> 00:43:19.218
+- Los griegos se retiran.
+- Él los tiene justo donde los quiere.
+
+520
+00:43:19.472 --> 00:43:21.337
+Kashani es un buen estratega.
+
+521
+00:43:21.974 --> 00:43:24.636
+Me refería a Temístocles.
+
+522
+00:43:34.487 --> 00:43:35.522
+¡Piedras!
+
+523
+00:43:38.699 --> 00:43:40.189
+¡Alto! ¡Alto!
+
+524
+00:43:40.451 --> 00:43:41.736
+¡Alto!
+
+525
+00:43:42.453 --> 00:43:44.159
+¡Prepárense!
+
+526
+00:46:29.954 --> 00:46:31.364
+¿Qué haces aquí?
+
+527
+00:46:31.622 --> 00:46:35.114
+La responsabilidad de un hombre
+es proteger a su familia y a su nación.
+
+528
+00:46:35.376 --> 00:46:38.334
+- ¿Quién te dijo eso?
+- Mi padre.
+
+529
+00:47:41.776 --> 00:47:44.768
+¿Ves cómo Temístocles emplea
+el engaño con tanta gracia?
+
+530
+00:47:45.321 --> 00:47:48.188
+- ¿Por qué es tanto pedir una victoria?
+- ¿Cómo la puedo compensar?
+
+531
+00:47:48.449 --> 00:47:49.814
+Silencio.
+
+532
+00:47:53.245 --> 00:47:55.611
+Llevarás un mensaje por mí.
+
+533
+00:47:56.707 --> 00:47:58.117
+<i>¡Ahora nos temerán!</i>
+
+534
+00:47:58.376 --> 00:48:01.664
+¡Ahora le temerán a
+los griegos armados!
+
+535
+00:48:03.589 --> 00:48:04.589
+¡Él tiene razón!
+
+536
+00:48:05.341 --> 00:48:07.206
+¡Le temen al luchador griego!
+
+537
+00:48:07.468 --> 00:48:08.583
+¡Le temen a su espada!
+
+538
+00:48:08.844 --> 00:48:10.175
+A su escudo.
+
+539
+00:48:10.638 --> 00:48:13.220
+Le temen su amor
+por la madre Grecia.
+
+540
+00:48:13.474 --> 00:48:14.964
+¡Pero sobre todo...
+
+541
+00:48:15.559 --> 00:48:17.220
+...le temen a su libertad!
+
+542
+00:48:23.275 --> 00:48:25.186
+No te enfurezcas
+con el muchacho.
+
+543
+00:48:25.486 --> 00:48:26.771
+Lo llevé bajo mi mando.
+
+544
+00:48:27.029 --> 00:48:30.021
+La furia es algo que reservo
+para mis enemigos.
+
+545
+00:48:38.290 --> 00:48:39.871
+Temístocles.
+
+546
+00:49:00.187 --> 00:49:03.896
+El barco de Artemisia está
+anclando en aguas neutrales.
+
+547
+00:49:04.150 --> 00:49:06.311
+Ella se quiere reunir
+con Temístocles.
+
+548
+00:49:06.569 --> 00:49:09.436
+- ¿Puedes garantizar su regreso a salvo?
+- Bueno, muchacho.
+
+549
+00:49:09.697 --> 00:49:11.608
+Ahora, el único
+honor para ella...
+
+550
+00:49:11.866 --> 00:49:15.233
+...será cuando vea a tu flota
+destruida y derrotada...
+
+551
+00:49:15.494 --> 00:49:17.405
+...hundiéndose en
+el fondo del Egeo...
+
+552
+00:49:17.663 --> 00:49:19.244
+...y pueda reconocerte...
+
+553
+00:49:19.498 --> 00:49:22.581
+...clavado al mástil de
+tu barco con su espada...
+
+554
+00:49:22.835 --> 00:49:25.577
+...mientras desciendes
+a tu tumba de agua.
+
+555
+00:49:30.968 --> 00:49:33.459
+¿Por qué no dijiste eso
+desde un principio?
+
+556
+00:50:00.915 --> 00:50:03.406
+Bienvenido a mi humilde barcaza.
+
+557
+00:50:03.667 --> 00:50:06.204
+Nos sentimos honrados
+por tu presencia.
+
+558
+00:50:08.672 --> 00:50:10.913
+Tu barcaza y tú...
+
+559
+00:50:11.634 --> 00:50:13.249
+...son bastante impresionantes.
+
+560
+00:50:18.057 --> 00:50:19.888
+Amables palabras.
+
+561
+00:50:21.519 --> 00:50:24.727
+Ahora ven, Temístocles,
+tenemos mucho que discutir.
+
+562
+00:50:26.440 --> 00:50:29.102
+¿Crees que los griegos son
+descendientes de los dioses?
+
+563
+00:50:29.360 --> 00:50:30.941
+He escuchado algo de eso.
+
+564
+00:50:31.195 --> 00:50:34.483
+¿Y qué hay de ti?
+¿Hay un dios en tu linaje?
+
+565
+00:50:34.740 --> 00:50:38.153
+Mis hombres dicen que sí.
+Y por los últimos dos días de batalla...
+
+566
+00:50:38.661 --> 00:50:41.903
+...diría que tienes una
+chispa de divinidad.
+
+567
+00:50:43.123 --> 00:50:45.705
+¿Ahora quién está usando
+palabras amables?
+
+568
+00:50:52.591 --> 00:50:54.172
+Mis hombres dicen también que...
+
+569
+00:50:54.426 --> 00:50:57.589
+...fuiste tú quien mató al
+buen rey Darío en Maratón.
+
+570
+00:50:57.846 --> 00:51:00.258
+Ese día ocurrieron
+muchos hechos heroicos.
+
+571
+00:51:00.516 --> 00:51:02.222
+Pero fue hace 10 años...
+
+572
+00:51:02.476 --> 00:51:04.967
+...y los hechos de la batalla
+con frecuencia son adornados.
+
+573
+00:51:05.229 --> 00:51:07.060
+Este hecho, lo recordarías.
+
+574
+00:51:08.399 --> 00:51:11.516
+Hago lo que debo hacer
+para defender a Grecia.
+
+575
+00:51:11.777 --> 00:51:14.314
+Y yo hago lo que debo
+hacer para derrotarla.
+
+576
+00:51:17.449 --> 00:51:20.441
+Por cada griego muerto,
+tú debes matar a mil persas.
+
+577
+00:51:22.454 --> 00:51:24.115
+Por cada barco que yo hunda...
+
+578
+00:51:25.082 --> 00:51:26.868
+...tú debes hundir cien.
+
+579
+00:51:27.876 --> 00:51:29.867
+Puedo aguantar pérdidas
+durante semanas.
+
+580
+00:51:30.129 --> 00:51:32.415
+Meses, si es necesario.
+
+581
+00:51:32.673 --> 00:51:34.163
+Mis números te derrotarán...
+
+582
+00:51:34.425 --> 00:51:37.132
+...y tomaré tus preciados
+barcos con mi espada.
+
+583
+00:51:37.386 --> 00:51:38.967
+Tomaré tu libertad griega.
+
+584
+00:51:39.680 --> 00:51:42.513
+¿Me estás pidiendo que
+negocie una rendición?
+
+585
+00:51:42.766 --> 00:51:43.801
+No.
+
+586
+00:51:44.810 --> 00:51:47.768
+Te ofrezco una oportunidad para
+evitar esa miseria y unirte a mí.
+
+587
+00:51:49.356 --> 00:51:51.893
+Necesito un comandante como tú.
+
+588
+00:51:52.901 --> 00:51:54.516
+Mira la defensa que montaste.
+
+589
+00:51:56.572 --> 00:51:58.028
+Un puñado de trirremes.
+
+590
+00:51:58.866 --> 00:52:01.357
+Leónidas con 300 espartanos.
+
+591
+00:52:02.870 --> 00:52:04.076
+Francamente,
+es insultante que...
+
+592
+00:52:04.330 --> 00:52:07.447
+...el imperio más poderoso
+del mundo se enfrente a esto.
+
+593
+00:52:09.627 --> 00:52:11.788
+No te culpo, Temístocles.
+
+594
+00:52:12.630 --> 00:52:15.372
+Peleaste como si la sangre
+del propio Poseidón...
+
+595
+00:52:15.633 --> 00:52:17.749
+...corriera por tus venas.
+
+596
+00:52:18.010 --> 00:52:19.921
+No, culpo a Grecia.
+
+597
+00:52:20.846 --> 00:52:23.838
+A los burócratas peleones que
+protegen sus espaldas políticas...
+
+598
+00:52:24.099 --> 00:52:26.966
+...enviándote aquí a morir.
+
+599
+00:52:30.356 --> 00:52:32.642
+Y aun así, peleas.
+
+600
+00:52:34.234 --> 00:52:36.020
+Entonces debe haber...
+
+601
+00:52:37.696 --> 00:52:38.981
+...¿qué?
+
+602
+00:52:40.324 --> 00:52:44.317
+¿Familia en Atenas
+que te obliga...
+
+603
+00:52:45.412 --> 00:52:48.028
+...a luchar con tanta pasión?
+
+604
+00:52:50.292 --> 00:52:52.874
+La verdad es que no he tenido
+tiempo para una familia.
+
+605
+00:52:53.128 --> 00:52:55.585
+He pasado toda mi vida adulta...
+
+606
+00:52:55.839 --> 00:52:57.625
+...con mi único amor verdadero...
+
+607
+00:52:58.592 --> 00:53:00.173
+...la flota griega...
+
+608
+00:53:00.928 --> 00:53:02.759
+...y mi única pasión...
+
+609
+00:53:03.013 --> 00:53:04.878
+...preparándola para ti.
+
+610
+00:53:09.061 --> 00:53:10.551
+Eso me causa placer...
+
+611
+00:53:10.813 --> 00:53:14.271
+...la idea de que
+languidezcas por mí...
+
+612
+00:53:15.192 --> 00:53:17.774
+...y renuncies a
+la familia y al amor...
+
+613
+00:53:18.028 --> 00:53:21.191
+...por la promesa de
+un éxtasis más profundo.
+
+614
+00:53:28.247 --> 00:53:31.660
+El éxtasis del acero y la carne.
+
+615
+00:53:32.835 --> 00:53:35.793
+De la muerte y la vida.
+
+616
+00:53:37.631 --> 00:53:39.167
+De la rabia...
+
+617
+00:53:40.050 --> 00:53:42.382
+...y el sudor del músculo.
+
+618
+00:53:43.512 --> 00:53:45.423
+De la alegría pura...
+
+619
+00:53:46.432 --> 00:53:48.593
+...y el más profundo dolor.
+
+620
+00:53:49.852 --> 00:53:53.686
+Muere conmigo cada noche y vuelve
+a nacer conmigo cada mañana...
+
+621
+00:53:54.356 --> 00:53:58.224
+...mientras clavas tu espada en los
+corazones de nuestros enemigos.
+
+622
+00:54:01.989 --> 00:54:03.650
+Tú luchas por la libertad.
+
+623
+00:54:04.199 --> 00:54:07.942
+Yo ofrezco libertad sin
+consecuencia o responsabilidad.
+
+624
+00:54:11.206 --> 00:54:12.662
+Acompáñame...
+
+625
+00:54:14.126 --> 00:54:15.832
+...a mi lado.
+
+626
+00:54:16.128 --> 00:54:20.121
+Da cada respiro conmigo
+como si fuera el último.
+
+627
+00:56:09.199 --> 00:56:10.689
+Únete a mí.
+
+628
+00:56:16.748 --> 00:56:17.954
+No.
+
+629
+00:56:29.094 --> 00:56:32.336
+Tú no eres ningún dios.
+Solamente eres un hombre.
+
+630
+00:56:47.487 --> 00:56:49.728
+Sé rápida con tu espada.
+
+631
+00:56:53.201 --> 00:56:55.408
+No tendrás tu muerte esta noche.
+
+632
+00:56:55.954 --> 00:56:57.114
+¡Guardias!
+
+633
+00:56:58.749 --> 00:57:00.910
+Saquen a esta basura de mi barco.
+
+634
+00:57:26.944 --> 00:57:27.944
+¿Y bien?
+
+635
+00:57:28.904 --> 00:57:30.769
+¿De qué te enteraste?
+
+636
+00:57:38.121 --> 00:57:40.077
+¿Artemisia puede ser derrotada?
+
+637
+00:57:41.792 --> 00:57:44.078
+La próxima vez que
+nos enfrentemos a ella...
+
+638
+00:57:44.336 --> 00:57:46.952
+...llevará consigo
+a todo el infierno.
+
+639
+00:58:40.892 --> 00:58:43.304
+¡Sosténganse! ¡Sosténganse!
+
+640
+00:58:54.865 --> 00:58:56.947
+Envía a mi guardia personal.
+
+641
+00:59:23.852 --> 00:59:24.852
+¡Retrocedan!
+
+642
+00:59:25.103 --> 00:59:26.183
+¡Retírense!
+
+643
+00:59:26.438 --> 00:59:27.553
+- ¡Retírense!
+- ¡Retírense!
+
+644
+00:59:27.814 --> 00:59:29.304
+- ¡Retírense!
+- ¡Retírense!
+
+645
+00:59:30.025 --> 00:59:31.731
+¡Temístocles!
+
+646
+00:59:31.985 --> 00:59:33.475
+¡En el agua!
+
+647
+00:59:37.032 --> 00:59:39.193
+¡Arqueros! ¡A cubierta, ahora!
+
+648
+00:59:39.451 --> 00:59:41.112
+¡Arqueros a cubierta,
+ahora! ¡Rápido!
+
+649
+00:59:41.828 --> 00:59:42.828
+¡A estribor!
+
+650
+00:59:43.080 --> 00:59:44.240
+¡Disparen a discreción!
+
+651
+01:01:00.907 --> 01:01:02.272
+Sigue luchando, muchacho.
+
+652
+01:01:03.743 --> 01:01:05.199
+¡Sigue luchando!
+
+653
+01:01:25.015 --> 01:01:26.721
+¡Apunten a los hombres de arriba!
+
+654
+01:01:26.975 --> 01:01:28.181
+¡Allá arriba!
+
+655
+01:02:38.713 --> 01:02:41.546
+¡Abandonen el barco!
+¡Abandonen el barco!
+
+656
+01:02:41.800 --> 01:02:43.756
+¡Abandonen el barco!
+
+657
+01:04:29.532 --> 01:04:31.864
+<i>Los muertos no sienten culpa.</i>
+
+658
+01:04:32.410 --> 01:04:34.617
+<i>Ninguna responsabilidad.</i>
+
+659
+01:04:35.830 --> 01:04:37.991
+<i>Temístocles ve los cuerpos
+de sus hombres...</i>
+
+660
+01:04:38.249 --> 01:04:41.082
+<i>...volver rojo de sangre el Egeo.</i>
+
+661
+01:04:42.128 --> 01:04:43.959
+<i>¿Fueron sacrificados por su ego?</i>
+
+662
+01:04:45.673 --> 01:04:49.666
+<i>¿O para aliviar la culpa del error
+de hace tanto tiempo en Maratón?</i>
+
+663
+01:04:52.680 --> 01:04:54.386
+<i>¿Cuántos hombres
+se habrían salvado...</i>
+
+664
+01:04:54.641 --> 01:04:57.599
+<i>...si Temístocles hubiera
+matado a ese muchacho?</i>
+
+665
+01:05:00.355 --> 01:05:03.097
+<i>Ni su propia alma
+puede estar segura.</i>
+
+666
+01:05:04.567 --> 01:05:06.182
+Amigo mío.
+
+667
+01:05:07.112 --> 01:05:09.068
+Nos enfrentamos
+a las probabilidades.
+
+668
+01:05:10.407 --> 01:05:11.988
+Juntos.
+
+669
+01:05:13.993 --> 01:05:14.993
+Escúchame...
+
+670
+01:05:15.245 --> 01:05:17.110
+...Temístocles.
+
+671
+01:05:20.708 --> 01:05:22.869
+Tendrás que pelear...
+
+672
+01:05:23.128 --> 01:05:25.915
+...con el doble de fuerza
+en la mañana.
+
+673
+01:05:26.798 --> 01:05:28.789
+Pelearemos hombro a hombro.
+
+674
+01:05:29.050 --> 01:05:30.415
+No, hijo.
+
+675
+01:05:31.886 --> 01:05:34.628
+Tú seguirás adelante por ambos.
+
+676
+01:06:33.948 --> 01:06:35.358
+¿Qué dijo?
+
+677
+01:06:37.911 --> 01:06:40.152
+Te lo diré a su tiempo,
+muchacho.
+
+678
+01:06:42.415 --> 01:06:43.746
+Calla ahora.
+
+679
+01:06:45.084 --> 01:06:47.496
+Ve a estar con
+el espíritu de tu padre.
+
+680
+01:06:56.679 --> 01:06:59.421
+¿Cuántas veces crees que vamos
+a repetir una tragedia como esta?
+
+681
+01:07:00.975 --> 01:07:02.135
+Tantas veces como sea necesario.
+
+682
+01:07:03.228 --> 01:07:05.059
+Estamos convirtiendo
+jóvenes en recuerdos.
+
+683
+01:07:08.691 --> 01:07:10.602
+¿Crees que disfruto esto?
+
+684
+01:07:12.153 --> 01:07:14.144
+¿Ser testigo del último
+aliento de mi amigo?
+
+685
+01:07:18.076 --> 01:07:20.408
+Cada viuda que es creada
+por mi decisión...
+
+686
+01:07:22.497 --> 01:07:25.204
+...cada hijo que crecerá
+sin un padre...
+
+687
+01:07:27.001 --> 01:07:28.741
+...son decisiones mías.
+
+688
+01:07:29.754 --> 01:07:33.372
+Esta es la carga de mi mando.
+
+689
+01:07:57.282 --> 01:07:58.897
+Qué fácil es silenciar...
+
+690
+01:07:59.158 --> 01:08:02.366
+...a los fuertes y disciplinados.
+
+691
+01:08:02.620 --> 01:08:05.783
+Que mi ejército sea testigo de
+los grandes guerreros de Esparta.
+
+692
+01:08:09.043 --> 01:08:12.206
+Que marchen junto
+a estos cadáveres.
+
+693
+01:08:12.463 --> 01:08:15.626
+Que vean el costo de atreverse
+a desafiar al dios rey.
+
+694
+01:08:19.387 --> 01:08:20.923
+El rey Leónidas...
+
+695
+01:08:21.180 --> 01:08:25.173
+...y sus valientes 300 fueron los
+mejores que Grecia tiene para ofrecer.
+
+696
+01:08:25.476 --> 01:08:26.716
+No habrá ningún salvador...
+
+697
+01:08:26.978 --> 01:08:29.390
+...que se rebele y nos derrote.
+
+698
+01:08:30.023 --> 01:08:32.810
+Nada detendrá la
+marcha de mi imperio.
+
+699
+01:08:35.361 --> 01:08:36.521
+Su majestad.
+
+700
+01:08:39.365 --> 01:08:41.321
+Tú, lleva la espada
+de este rey muerto...
+
+701
+01:08:41.576 --> 01:08:42.861
+...a Atenas.
+
+702
+01:08:43.119 --> 01:08:46.031
+Hazles saber que
+luego iré por ellos.
+
+703
+01:08:47.206 --> 01:08:48.787
+Hazles saber...
+
+704
+01:08:49.042 --> 01:08:50.532
+...que Atenas...
+
+705
+01:08:51.252 --> 01:08:54.119
+...su querida joya de ciudad...
+
+706
+01:08:54.922 --> 01:08:57.334
+...desaparecerá de las historias.
+
+707
+01:09:01.012 --> 01:09:02.422
+¡Temístocles!
+
+708
+01:09:05.516 --> 01:09:06.516
+Traigo noticias...
+
+709
+01:09:06.768 --> 01:09:09.384
+...de Termópilas. Leónidas fue
+traicionado por un jorobado.
+
+710
+01:09:09.646 --> 01:09:11.307
+Los espartanos
+fueron masacrados.
+
+711
+01:09:11.564 --> 01:09:12.770
+Cayeron las Puertas Calientes.
+
+712
+01:09:15.777 --> 01:09:17.813
+Qué sacrificio tan grande.
+
+713
+01:09:21.949 --> 01:09:24.110
+Ahora Grecia tiene a sus mártires.
+
+714
+01:09:25.370 --> 01:09:27.531
+Daxos, lleva ese mensaje...
+
+715
+01:09:27.789 --> 01:09:29.325
+...de las Puertas Calientes...
+
+716
+01:09:29.582 --> 01:09:31.914
+...a cada ciudad, a cada aldea.
+
+717
+01:09:32.168 --> 01:09:34.750
+Que cada compatriota
+escuche tus palabras.
+
+718
+01:09:35.004 --> 01:09:36.790
+Pero están muertos.
+Todos ellos.
+
+719
+01:09:37.048 --> 01:09:39.835
+El sacrificio de Esparta
+será lo que nos una.
+
+720
+01:09:40.426 --> 01:09:41.791
+Ahora, vete.
+
+721
+01:09:43.846 --> 01:09:46.588
+Mueve todos nuestros barcos y hombres
+de nuevo a la seguridad de Salamina.
+
+722
+01:09:46.849 --> 01:09:48.214
+¿Y tú?
+
+723
+01:09:49.060 --> 01:09:51.301
+Llevaré el mensaje
+de Daxos a Atenas.
+
+724
+01:09:52.605 --> 01:09:54.395
+Me dijeron que un
+jorobado era responsable...
+
+725
+01:09:54.445 --> 01:09:55.768
+...por la caída
+de las Puertas Calientes.
+
+726
+01:09:57.193 --> 01:10:00.276
+Que vendió a su país...
+
+727
+01:10:00.530 --> 01:10:03.738
+...se quitó el carmesí de su espalda
+y lo reemplazó con oro persa.
+
+728
+01:10:06.494 --> 01:10:08.280
+¿Cómo te llamas traidor?
+
+729
+01:10:09.372 --> 01:10:12.489
+Efialtes de Tesalia.
+
+730
+01:10:24.429 --> 01:10:28.422
+Debería mojar esta noble
+hoja con tu sangre.
+
+731
+01:10:30.184 --> 01:10:32.015
+Tendrías razón en hacerlo.
+
+732
+01:10:32.854 --> 01:10:35.516
+Hay poca belleza en mí.
+
+733
+01:10:35.773 --> 01:10:39.766
+Hay poca belleza en lo que hice.
+
+734
+01:10:44.615 --> 01:10:46.276
+Di lo que tengas que decir.
+
+735
+01:10:46.951 --> 01:10:48.782
+¡Te lo ruego...
+
+736
+01:10:49.370 --> 01:10:50.860
+...y a toda Atenas!
+
+737
+01:10:51.122 --> 01:10:54.660
+¡El dios rey quemará esta
+ciudad hasta sus cimientos!
+
+738
+01:10:54.917 --> 01:10:55.952
+¿Qué quiere decir?
+
+739
+01:10:56.502 --> 01:10:58.163
+¡Silencio!
+
+740
+01:10:59.130 --> 01:11:03.123
+¡El gran sacrificio de Leónidas y
+Esparta no fue ninguna derrota!
+
+741
+01:11:06.262 --> 01:11:08.344
+Fue una victoria hermosa.
+
+742
+01:11:11.642 --> 01:11:14.099
+¡Este simple acto de valor...
+
+743
+01:11:14.395 --> 01:11:16.852
+...nos permitirá congregar a cada
+una de nuestras ciudades estado...
+
+744
+01:11:17.106 --> 01:11:19.097
+...y unir a Grecia...
+
+745
+01:11:19.984 --> 01:11:21.975
+...con un objetivo...
+
+746
+01:11:22.320 --> 01:11:23.480
+...contra un enemigo!
+
+747
+01:11:24.906 --> 01:11:25.941
+Y tú.
+
+748
+01:11:26.199 --> 01:11:29.441
+Tú llévale este mensaje
+a tu dios rey.
+
+749
+01:11:29.702 --> 01:11:32.239
+Que tomaremos los barcos
+que nos quedan...
+
+750
+01:11:32.789 --> 01:11:35.246
+...y terminaremos esto
+en la bahía de Salamina.
+
+751
+01:11:36.125 --> 01:11:38.707
+Pero habrá muerte y destrucción.
+
+752
+01:11:38.961 --> 01:11:42.749
+Sí, las habrá.
+
+753
+01:11:49.514 --> 01:11:50.924
+Temístocles.
+
+754
+01:11:53.267 --> 01:11:55.428
+Vengo a hablar con tu reina.
+
+755
+01:11:56.187 --> 01:11:57.677
+Te lo advierto, ateniense.
+
+756
+01:11:57.939 --> 01:12:00.681
+Tal vez no recibas
+una cálida bienvenida.
+
+757
+01:12:27.468 --> 01:12:29.925
+Le ofrezco mis más
+profundas condolencias.
+
+758
+01:12:31.681 --> 01:12:34.514
+No puedo cambiar lo que
+le sucedió a Leónidas...
+
+759
+01:12:34.767 --> 01:12:37.600
+...pero su sacrificio
+no será olvidado.
+
+760
+01:12:38.563 --> 01:12:42.021
+No me des sermones sobre el
+sacrificio y habla rápido, ateniense.
+
+761
+01:12:44.902 --> 01:12:48.144
+Le solicito toda la
+armada espartana.
+
+762
+01:12:48.906 --> 01:12:50.487
+Cada hombre, cada barco...
+
+763
+01:12:50.741 --> 01:12:53.073
+- ...que tenga.
+- ¿No te he dado suficiente...
+
+764
+01:12:53.327 --> 01:12:55.113
+...por tu sueño de una Grecia unida?
+
+765
+01:12:55.371 --> 01:12:58.738
+¿Debo poner espadas en las manos
+de mi hijo? ¿De nuestros hijos?
+
+766
+01:12:59.000 --> 01:13:00.206
+¿Eso te gustaría?
+
+767
+01:13:01.669 --> 01:13:05.161
+¿No he dado suficiente por
+tus ambiciones, Temístocles?
+
+768
+01:13:05.423 --> 01:13:06.959
+Un rey.
+
+769
+01:13:07.675 --> 01:13:10.041
+Esposos, padres, hermanos.
+
+770
+01:13:10.303 --> 01:13:12.760
+Esparta no dará más.
+
+771
+01:13:28.446 --> 01:13:30.311
+Esto le pertenece.
+
+772
+01:13:40.249 --> 01:13:41.705
+Vénguelo.
+
+773
+01:13:59.685 --> 01:14:02.427
+<i>Las palabras del Oráculo
+permanecieron como una advertencia.</i>
+
+774
+01:14:03.189 --> 01:14:05.350
+<i>Toda Grecia caerá...</i>
+
+775
+01:14:05.733 --> 01:14:09.271
+<i>...mientras el fuego persa
+reduce a Atenas a cenizas.</i>
+
+776
+01:14:10.488 --> 01:14:12.820
+<i>Pues Atenas es una pila
+de piedra y madera...</i>
+
+777
+01:14:13.074 --> 01:14:15.656
+<i>...y tela y polvo.</i>
+
+778
+01:14:16.577 --> 01:14:19.364
+<i>Y como el polvo,
+se desvanecerá en el viento.</i>
+
+779
+01:14:21.040 --> 01:14:23.827
+<i>Solamente los atenienses existen.</i>
+
+780
+01:14:25.044 --> 01:14:28.628
+<i>Y el destino del mundo depende
+de cada una de sus sílabas.</i>
+
+781
+01:14:29.507 --> 01:14:31.873
+<i>Solamente los atenienses existen.</i>
+
+782
+01:14:32.259 --> 01:14:35.217
+<i>Y solamente fuertes barcos
+de madera los pueden salvar.</i>
+
+783
+01:14:35.888 --> 01:14:37.469
+<i>Barcos de madera...</i>
+
+784
+01:14:38.265 --> 01:14:41.098
+<i>...y un maremoto
+de sangre de héroes.</i>
+
+785
+01:14:48.192 --> 01:14:51.275
+Los griegos fueron unos tontos
+al enfrentarse a nosotros.
+
+786
+01:14:51.529 --> 01:14:53.144
+Leónidas y su orgullo...
+
+787
+01:14:53.406 --> 01:14:55.988
+...no pudieron contra
+la voluntad de un dios.
+
+788
+01:14:58.285 --> 01:15:02.198
+Temístocles fue un
+cobarde despreciable.
+
+789
+01:15:02.456 --> 01:15:03.946
+Y ahora...
+
+790
+01:15:04.500 --> 01:15:08.209
+...esta patética armada apenas
+si se merece nuestra atención.
+
+791
+01:15:08.462 --> 01:15:10.748
+Si ese cobarde despreciable
+hubiera estado a mi lado...
+
+792
+01:15:11.007 --> 01:15:12.588
+...habríamos puesto el mundo...
+
+793
+01:15:12.842 --> 01:15:14.332
+...a tus pies.
+
+794
+01:15:14.844 --> 01:15:15.959
+Mi rey.
+
+795
+01:15:17.179 --> 01:15:20.671
+Su humilde sirviente
+le trae noticias.
+
+796
+01:15:22.018 --> 01:15:24.384
+La flota griega está indefensa...
+
+797
+01:15:24.645 --> 01:15:27.227
+...en la bahía de Salamina.
+
+798
+01:15:27.481 --> 01:15:29.938
+Solamente tiene que acabarlos.
+
+799
+01:15:30.860 --> 01:15:32.521
+¿Quién comanda sus fuerzas?
+
+800
+01:15:36.032 --> 01:15:38.523
+Temístocles de Atenas.
+
+801
+01:15:38.784 --> 01:15:40.615
+Temístocles está muerto.
+
+802
+01:15:40.870 --> 01:15:44.328
+Está vivo. Yo mismo lo vi.
+
+803
+01:15:58.637 --> 01:16:00.423
+Prepara mi tropa y mi armadura.
+
+804
+01:16:00.681 --> 01:16:01.966
+Atacaremos enseguida.
+
+805
+01:16:02.224 --> 01:16:03.224
+La sabiduría...
+
+806
+01:16:04.685 --> 01:16:05.685
+...haría que...
+
+807
+01:16:05.936 --> 01:16:08.598
+...enviáramos una fuerza investigadora
+para confirmar que no es una trampa.
+
+808
+01:16:09.774 --> 01:16:12.015
+¿Tú te atreverías a aconsejarme
+en asuntos de guerra?
+
+809
+01:16:13.652 --> 01:16:15.563
+Yo soy el dios rey.
+
+810
+01:16:15.821 --> 01:16:18.528
+Yo soy el que triunfó
+sobre Leónidas.
+
+811
+01:16:18.783 --> 01:16:20.819
+Yo soy el que acabó...
+
+812
+01:16:21.077 --> 01:16:22.863
+...con esta pieza
+principal de Atenas.
+
+813
+01:16:23.120 --> 01:16:26.283
+- Yo soy tu rey.
+- Matar a Leónidas y a sus hombres...
+
+814
+01:16:26.540 --> 01:16:28.701
+...solamente los convirtió
+en mártires.
+
+815
+01:16:29.585 --> 01:16:31.576
+Y cuando arrasaste con Atenas...
+
+816
+01:16:32.213 --> 01:16:33.874
+...le prendiste fuego a lo único...
+
+817
+01:16:34.131 --> 01:16:36.122
+...de valor en este país.
+
+818
+01:16:48.062 --> 01:16:50.474
+Atacaré a los griegos...
+
+819
+01:16:51.649 --> 01:16:54.231
+...con toda mi armada.
+
+820
+01:16:55.444 --> 01:16:56.559
+Artemisia.
+
+821
+01:16:56.821 --> 01:16:58.152
+¡Suficiente!
+
+822
+01:16:59.657 --> 01:17:03.024
+No olvides quién puso la corona
+en tu cabeza infantil.
+
+823
+01:17:03.619 --> 01:17:05.234
+Mi rey.
+
+824
+01:17:06.330 --> 01:17:07.820
+Ahora siéntate
+en tu trono dorado...
+
+825
+01:17:08.082 --> 01:17:10.744
+...y observa esta batalla desde
+la seguridad que te brindo.
+
+826
+01:17:17.049 --> 01:17:18.710
+Allá, a lo lejos...
+
+827
+01:17:19.927 --> 01:17:22.669
+...vemos la destrucción de Atenas.
+
+828
+01:17:26.225 --> 01:17:30.218
+Juntos enfrentaremos al monstruo que
+proyecta la sombra sobre nuestra tierra.
+
+829
+01:17:33.315 --> 01:17:36.933
+Había rezado para que los espartanos
+nos dieran una mano esta mañana.
+
+830
+01:17:39.989 --> 01:17:41.900
+Quizá sienten que
+ya dieron suficiente.
+
+831
+01:17:42.158 --> 01:17:43.568
+Nos fallaste a todos.
+
+832
+01:17:43.826 --> 01:17:45.191
+Esto es culpa tuya, Temístocles.
+
+833
+01:17:45.452 --> 01:17:47.033
+Sin los espartanos,
+solo somos peones.
+
+834
+01:17:47.288 --> 01:17:49.324
+Debimos negociar
+con los persas...
+
+835
+01:17:49.582 --> 01:17:50.788
+...cuando tuvimos la oportunidad.
+
+836
+01:17:54.253 --> 01:17:55.959
+Todos tienen razón.
+
+837
+01:17:57.798 --> 01:18:01.541
+Sí, estamos reducidos
+a unos cuantos barcos.
+
+838
+01:18:02.636 --> 01:18:06.094
+Y sí, somos simples peones.
+
+839
+01:18:06.807 --> 01:18:08.547
+Somos comerciantes.
+
+840
+01:18:09.685 --> 01:18:10.765
+Somos niños...
+
+841
+01:18:11.437 --> 01:18:15.146
+...convertidos en hombres a través
+del sacrificio y la forja del combate.
+
+842
+01:18:17.610 --> 01:18:19.851
+¡Jugué un juego peligroso...
+
+843
+01:18:20.196 --> 01:18:21.777
+...y perdí!
+
+844
+01:18:26.660 --> 01:18:29.993
+Si deciden darme la espalda...
+
+845
+01:18:30.456 --> 01:18:31.821
+...a su país...
+
+846
+01:18:35.127 --> 01:18:37.038
+...no los juzgaré.
+
+847
+01:18:38.714 --> 01:18:40.750
+Son libres para irse.
+
+848
+01:18:41.842 --> 01:18:43.924
+Todavía son hombres libres.
+
+849
+01:19:07.076 --> 01:19:08.236
+Muy bien.
+
+850
+01:19:10.162 --> 01:19:12.763
+Entonces pongamos a trabajar
+nuestros hombros...
+
+851
+01:19:12.813 --> 01:19:15.372
+...y liberemos esos barcos
+del seno de Grecia.
+
+852
+01:19:17.711 --> 01:19:20.373
+Hoy es un privilegio
+llamar a los nuestros.
+
+853
+01:19:21.715 --> 01:19:25.299
+Una historia que será
+contada durante mil años.
+
+854
+01:19:26.470 --> 01:19:28.461
+Que nuestro último
+enfrentamiento...
+
+855
+01:19:28.722 --> 01:19:30.758
+...sea registrado
+en las historias.
+
+856
+01:19:31.225 --> 01:19:33.011
+¡Y que se demuestre...
+
+857
+01:19:33.602 --> 01:19:36.184
+...que decidimos morir de pie...
+
+858
+01:19:36.438 --> 01:19:38.770
+...en lugar de vivir de rodillas!
+
+859
+01:20:26.947 --> 01:20:29.279
+Solamente hay una cosa
+que tienes que saber hoy.
+
+860
+01:20:29.533 --> 01:20:31.023
+No dejarme matar.
+
+861
+01:20:31.285 --> 01:20:35.278
+No. Las últimas palabras
+de tu padre.
+
+862
+01:20:39.376 --> 01:20:42.413
+Me dijo que te habías ganado
+el derecho a sentarte a la mesa.
+
+863
+01:20:59.688 --> 01:21:03.681
+Bueno, hermano, no tengo
+más tácticas ni trucos.
+
+864
+01:21:05.486 --> 01:21:07.852
+Esta será la última batalla
+que compartamos.
+
+865
+01:21:08.113 --> 01:21:11.731
+Hemos luchado juntos
+desde que tengo memoria.
+
+866
+01:21:12.576 --> 01:21:15.943
+Nada me gustaría más
+que dejar esta espada.
+
+867
+01:21:17.122 --> 01:21:20.706
+- ¿Los preparativos requeridos?
+- Bajo cubierta.
+
+868
+01:21:21.794 --> 01:21:23.705
+- Bien.
+- ¿Estás seguro...
+
+869
+01:21:23.962 --> 01:21:25.748
+...de que lo quieres
+comprometer todo?
+
+870
+01:21:26.465 --> 01:21:27.545
+Sí.
+
+871
+01:21:29.385 --> 01:21:32.252
+<i>Sin el mando de Artemisia,
+la armada persa no es nada.</i>
+
+872
+01:21:34.014 --> 01:21:36.130
+<i>Jamás podremos llegar a ella.</i>
+
+873
+01:21:36.392 --> 01:21:37.928
+<i>Yo llegaré a ella...</i>
+
+874
+01:21:38.727 --> 01:21:40.638
+<i>...y le pondré final a esto.</i>
+
+875
+01:21:41.563 --> 01:21:44.305
+No habrá espacio
+para una retirada.
+
+876
+01:21:45.401 --> 01:21:46.811
+Lo sé.
+
+877
+01:21:49.196 --> 01:21:52.609
+<i>Hoy serán destruidos
+los últimos barcos griegos.</i>
+
+878
+01:21:52.866 --> 01:21:54.948
+<i>No tengan ninguna compasión.</i>
+
+879
+01:21:55.202 --> 01:21:57.693
+<i>No tengan clemencia.</i>
+
+880
+01:21:57.955 --> 01:22:01.163
+Hoy bailaremos sobre las espaldas
+de los griegos muertos.
+
+881
+01:22:01.875 --> 01:22:04.617
+<i>Hoy los sometemos.</i>
+
+882
+01:22:05.504 --> 01:22:07.540
+Hoy quiero sentir
+la garganta de Temístocles...
+
+883
+01:22:07.840 --> 01:22:09.796
+...bajo mis botas.
+
+884
+01:22:40.622 --> 01:22:43.079
+¡Hombres! Prepárense.
+
+885
+01:23:37.221 --> 01:23:38.802
+Prepárense para combatir
+mano a mano.
+
+886
+01:23:39.056 --> 01:23:40.546
+¡Ataquen!
+
+887
+01:23:46.688 --> 01:23:47.803
+¡Tu padre te observa!
+
+888
+01:23:49.191 --> 01:23:51.352
+¡No se guarden nada!
+
+889
+01:23:51.610 --> 01:23:52.941
+¡Tomen su gloria!
+
+890
+01:24:21.306 --> 01:24:23.843
+¡No estoy aquí como testigo!
+
+891
+01:25:25.621 --> 01:25:26.621
+¡Ahora!
+
+892
+01:25:27.414 --> 01:25:30.656
+¡Y que manden nuestras
+almas directo al infierno!
+
+893
+01:26:09.164 --> 01:26:10.164
+¡Vamos!
+
+894
+01:27:16.898 --> 01:27:18.434
+Ofreciste libertad sin...
+
+895
+01:27:18.692 --> 01:27:21.650
+- ...consecuencia o responsabilidad.
+- ¿Estás aceptando mi oferta?
+
+896
+01:27:21.903 --> 01:27:23.359
+Mi respuesta sigue siendo no.
+
+897
+01:27:51.975 --> 01:27:54.341
+Peleas mucho más duro
+de lo que coges.
+
+898
+01:28:37.896 --> 01:28:40.558
+Ríndete ante mí.
+O encuentra tu muerte.
+
+899
+01:28:40.816 --> 01:28:41.931
+¿Con quién pelearías...
+
+900
+01:28:42.192 --> 01:28:43.432
+...si no fuera por mí?
+
+901
+01:28:44.069 --> 01:28:46.276
+Nadie podría desafiar
+tu habilidad.
+
+902
+01:28:46.530 --> 01:28:49.488
+Prefiero morir como un hombre
+libre que como un esclavo.
+
+903
+01:28:50.617 --> 01:28:53.074
+Incluso si la cadena
+estuviera pegada a ti.
+
+904
+01:29:02.212 --> 01:29:04.669
+<i>Comienza como un susurro.</i>
+
+905
+01:29:05.465 --> 01:29:07.080
+<i>Una promesa.</i>
+
+906
+01:29:08.134 --> 01:29:09.465
+<i>La más ligera de las brisas...</i>
+
+907
+01:29:09.719 --> 01:29:11.209
+<i>...baila entre el cordaje...</i>
+
+908
+01:29:11.471 --> 01:29:14.304
+<i>...mientras rechina sobre los gritos
+de muerte de 10 mil hombres.</i>
+
+909
+01:29:15.684 --> 01:29:19.268
+<i>Se mueve entre su pelo tan suavemente
+como la mano de un amante.</i>
+
+910
+01:29:19.646 --> 01:29:20.646
+<i>Esa brisa...</i>
+
+911
+01:29:21.940 --> 01:29:24.297
+<i>...esa promesa, se
+convirtió en un viento.</i>
+
+912
+01:29:24.347 --> 01:29:25.774
+<i>Un viento que sopla
+a lo largo de Grecia...</i>
+
+913
+01:29:26.027 --> 01:29:28.484
+<i>...llevando un mensaje
+dicho una y otra vez...</i>
+
+914
+01:29:28.738 --> 01:29:31.696
+<i>...sobre nuestra Señora Libertad
+y sobre lo sabía que fue...</i>
+
+915
+01:29:31.950 --> 01:29:35.693
+<i>...al ordenarle a Leónidas
+que lo pusiera todo a sus pies.</i>
+
+916
+01:29:37.372 --> 01:29:40.239
+Un viento, hermanos
+míos, de sacrificio.
+
+917
+01:29:42.127 --> 01:29:44.038
+Un viento de libertad.
+
+918
+01:29:46.256 --> 01:29:48.417
+Un viento de justicia.
+
+919
+01:29:56.099 --> 01:29:58.135
+Un viento de venganza.
+
+920
+01:30:42.604 --> 01:30:43.844
+Están rodeados.
+
+921
+01:30:44.356 --> 01:30:47.268
+Toda Grecia se unió
+contra ustedes.
+
+922
+01:30:47.901 --> 01:30:50.813
+<i>Delfos, Tebas, Olimpia...</i>
+
+923
+01:30:51.071 --> 01:30:53.858
+<i>...Arcadia y Esparta.</i>
+
+924
+01:31:08.213 --> 01:31:10.750
+Si la muerte viene hoy
+por mí, estoy lista.
+
+925
+01:31:12.050 --> 01:31:14.041
+Podría bajar mi espada.
+
+926
+01:31:14.302 --> 01:31:16.964
+Todavía hay tiempo para que
+prepares un bote y escapes.
+
+927
+01:31:21.267 --> 01:31:24.851
+Sería una mala decisión
+obligar a mi mano a actuar.
+
+928
+01:31:25.480 --> 01:31:29.189
+Ahora ordénales a tus barcos
+que se retiren y se rindan ante mí.
+
+929
+01:31:31.611 --> 01:31:33.272
+¿Rendirse?
+
+930
+01:33:57.782 --> 01:34:03.782
+Subtítulos por aRGENTeaM
+www.argenteam.net
+
+931
+01:36:06.678 --> 01:36:09.169
+300: EL NACIMIENTO DE UN IMPERIO
+
